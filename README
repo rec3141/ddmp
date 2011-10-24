@@ -1,2 +1,31 @@
 This database is composed of phenotypic information on Bacteria and Archaea, as listed in the primary literature and Bergey's Manual of Systematic Bacteriology.
 Contributors to date: R. Eric Collins
+
+FILES:
+volume2-tables.txt: Bergey's Manual Volume 2, The Proteobacteria
+volume3-tables.txt: Bergey's Manual Volume 3, The Firmicutes
+volume4-tables.txt: Bergey's Manual Volume 4, The Bacteroidetes, Spirochaetes, Tenericutes (Mollicutes), Acidobacteria, Fibrobacteres, Fusobacteria, Dictyoglomi, Gemmatimonadetes, Lentisphaerae, Verrucomicrobia, Chlamydiae, and Planctomycetes
+
+NOTES:
+Volume 1, the Archaea and Deeply-Branching Bacteria, is not available in digital format
+Volume 5, the Actinobacteria, will be released in early 2012
+
+PIPELINE:
+ - get text out of PDFs
+ -- pdftotext -layout -nopgbrk -enc UTF-8 <file>
+
+ - get tables out of text
+ -- grep -h -A 100 -B 1 -e 'TABLE' <file>
+
+ - decode messed up Unicode in Volume 2
+ -- unicode2not.pl <file>
+
+ - fix whitespace
+ -- tabit.pl <file>
+
+ - fix formatting
+ -- manually in Kate using Block Selection mode
+ -- examples include cleaning up 1-column tables, multi-page tables
+ -- multi-line captions were replaced using regex:
+ --- Find: (TABLE.*)\n([a-z]{2,}.*)\s*
+ --- Replace: \1 \2
