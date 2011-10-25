@@ -26,17 +26,7 @@ footnote a: Symbols: +, >85% positive; −, 0–15% positive.
 
 #####
 TABLE 2.  Descriptive characteristics of different Bacteroides speciesa,b
-                                                        2. B. acidifaciens
-                                                                                                                                                                                                                       10. B. goldsteinii
-                                                                                                                                                                                                                                                11. B. helcogenes
-                                                                                                                                          6. B. distasonis
-                                                                                                                                                                                                 9. B. finegoldii
-                                                                                                  4. B. coprocola
-                                                                                                                      5. B. coprosuis
-                                                                                                                                                                             8. B. eggerthii
-                                    1. B. fragilis
-                                                                               3. B. caccae
-                                                                                                                                                             7. B. dorei
+   1. B. fragilis   2. B. acidifaciens   3. B. caccae   4. B. coprocola   5. B. coprosuis   6. B. distasonis   7. B. dorei   8. B. eggerthii   9. B. finegoldii   10. B. goldsteinii   11. B. helcogenes   
 Characteristic
 Cell size (µm)                  0.8–1.3 ×            0.8–1.3 × 1.4–1.6 × 0.8–1.0 × 0.8–3.0 × 1.3–1.9 × 1.6–4.2 × 0.4–1.0 ×                                                                      0.8 ×               0.9–1.5 × 0.5–0.6 ×
                                  1.6–8.0              1.6–8.0   2.5–12      4.0     0.5–1.5   1.6–5.0   0.8–1.2   1.0–6.0                                                                      1.5–4.5               1.2–10    0.8–4.0
@@ -103,11 +93,7 @@ footnote e: Fermentation products: A, acetic acid; B, butyric acid; P, propionic
 
 #####
 TABLE 3.  Descriptive characteristics of Bacteroides and related generaa
-                                                                                               Porphyromonas c
-                                                                        Bacteroides b
-                                                                                                                                                             Tannerella
-                                                                                                                        Prevotella
-                                                                                                                                          Alistipes d
+   Bacteroides b   Porphyromonas c   Prevotella   Alistipes d   Tannerella   
 Characteristic
 Pigment production                                                         −                    +−                     +/−                 +−                  −
 Growth in 20% bile                                                         +                    −                       −                  +−                  −
@@ -195,14 +181,7 @@ Species reclassified into other genera:
 
 #####
 TABLE 5.  Characteristics of misplaced Bacteroides speciesa,b
-                                                                                                          4. B. galacturonicus
-                                                                                                                                                                      6. B. polypragmatus
-                                                         2. B. cellulosolvens
-                                                                                                                                           5. B. pectinophilus
-                                                                                                                                                                                                 7. B. splanchnicus
-                                                                                                                                                                                                                         8. B. xylanolyticus
-                                                                                   3. B. coagulans
-                                  1. B. capillosus
+   1. B. capillosus   2. B. cellulosolvens   3. B. coagulans   4. B. galacturonicus   5. B. pectinophilus   6. B. polypragmatus   7. B. splanchnicus   8. B. xylanolyticus   
 Characteristic
 Growth in 20% bile                −                      −                         nr                     +                                +                          nr                         +                       nr
 Esculin hydrolyzed                +                      nr                        −                      −                                −                          +                          +                       nr
@@ -320,13 +299,7 @@ footnote a: nt, Not tested.
 
 #####
 TABLE 9.  Differential characteristics of Marinilabilia and related organismsa
-                                                                                                                     Cytophaga xylanolytica
-                                                                                        Cytophaga fermentans
-                              Marinilabilia
-                                                 Anaerophaga
-                                                                    Alkaliflexus
-                                                                                                                                                                          Rikenella
-                                                                                                                                                      Alistipes
+   Marinilabilia   Anaerophaga   Alkaliflexus   Cytophaga fermentans   Cytophaga xylanolytica   Alistipes   Rikenella   
 Characteristic
 Cell size, mm          0.3–0.5 × 2–20         0.3 × 4–8        0.3–0.4 × 4–10      0.5–0.7 × 2–10                 0.4 × 3–24                   0.3–0.5 × 0.9–3.0   0.2–0.3 × 0.3–1.5
 Gliding motility              +                   −                   +                   +                            +                               −                   −
@@ -497,21 +470,7 @@ footnote f: A, acetic acid; B, butyric acid; iV, isovaleric acid; P, propionic a
 
 #####
 TABLE 15.  Differentiation of the species of the genus Porphyromonas a
-                                                                                                                 P. circumdentaria
-                             P. asaccharolytica
-                                                   P. cangingivalis
-                                                                                                                                                            P. endodontalis
-                                                                                                                                      P. crevioricanis
-                                                                                                                                                                                                P. gingivicanis
-                                                                                                                                                                               P. gingivalis
-                                                                                                                                                                                                                                         P. macacaee
-                                                                                                   P. catoniae
-                                                                                     P. cansulci
-                                                                                                                                                                                                                                                                     P. uenonis
-                                                                                                                                                                                                                                                       P. somerae
-                                                                       P. canoris
-                                                                                                                                                                                                                   P. gulae
-                                                                                                                                                                                                                              P. levii
+   P. asaccharolytica   P. cangingivalis   P. canoris   P. cansulci   P. catoniae   P. circumdentaria   P. crevioricanis   P. endodontalis   P. gingivalis   P. gingivicanis   P. gulae   P. levii   P. macacaee   P. somerae   P. uenonis   
 Characteristic
 Pigment
                                  +                    +                  +             +             -               +                   +                     +                  +                +                +          +           +             +             +
@@ -563,13 +522,7 @@ footnote f: Negative by the API ZYM System; positive with the Rosco o-nitropheny
 
 #####
 TABLE 16.  Some characteristics differentiating the genus Barnesiella from other related generaa,b
-                                                                                                           Parabacteroides
-                                                                                                                                                Proteiniphilum
-                                                                                                                                 Porphyomonas
-                                                           Dysgonmonas
-                                                                                 Paludibacter
-                                                                                                                                                                     Tannerella
-                                         Barnsiella
+   Barnsiella   Dysgonmonas   Paludibacter   Parabacteroides   Porphyomonas   Proteiniphilum   Tannerella   
 Characteristic
 Growth in presence of 20%                  -                 +                     -                          +                    -               -                   -
    bile
@@ -590,9 +543,7 @@ footnote b: Data taken from Chen and Dong (2005); Hofstad et al. (2000); Lawson
 
 #####
 TABLE 17.  Salient characteristics of the species of the genus Dysgon-
-                                                D. capnocytophagoides
-                                                                                  D. mossii
-                              D. gadei
+   D. gadei   D. capnocytophagoides   D. mossii   
 Characteristic
 Colony                   Gray–white        Gray–white                         Gray–white
     pigmentation
@@ -627,9 +578,7 @@ footnote a: Symbols: +, >85% positive; d, different strains give different react
 
 #####
 TABLE 18.  Fermentation profiles of species of the genus Dysgonomonas aomonas a
-                                                          D. capnocytophagoides
-                                                                                  D. mossii
-                                           D. gadei
+   D. gadei   D. capnocytophagoides   D. mossii   
 Acid produced from
 Adonitol, dulcitol                          -                 -                   nd
 l-Arabinose, lactose, d-mannose,            +                 +                    +
@@ -742,41 +691,7 @@ DNA G+C content (mol%)                                                  40–52 
 
 #####
 TABLE 22.  Distinguishing physiological characteristics of species of the genus Prevotella a,b
-                          P. albensis
-                                        P. baroniae
-                                                      P. bergensis
-                                                                     P. bivia
-                                                                                P. brevis
-                                                                                            P. bryantii
-                                                                                                          P. buccae
-                                                                                                                      P. buccalis
-                                                                                                                                    P. corpri
-                                                                                                                                                P. corporis
-                                                                                                                                                              P. dentalis
-                                                                                                                                                                            P. denticola
-                                                                                                                                                                                           P. disiens
-                                                                                                                                                                                                        P. enoeca
-                                                                                                                                                                                                                    P. heparinolytica
-                                                                                                                                                                                                                                        P. intermedia
-                                                                                                                                                                                                                                                         P. loescheii
-                                                                                                                                                                                                                                                                        P. marshii
-                                                                                                                                                                                                                                                                                     P. massiliensis
-                                                                                                                                                                                                                                                                                                       P. melaninogenica
-                                                                                                                                                                                                                                                                                                                           P. multiformis
-                                                                                                                                                                                                                                                                                                                                            P. multisaccharivorax
-                                                                                                                                                                                                                                                                                                                                                                    P. nigrescens
-                                                                                                                                                                                                                                                                                                                                                                                    P. oralis
-                                                                                                                                                                                                                                                                                                                                                                                                P. oris
-                                                                                                                                                                                                                                                                                                                                                                                                          P. oulora
-                                                                                                                                                                                                                                                                                                                                                                                                                      P. pallens
-                                                                                                                                                                                                                                                                                                                                                                                                                                   P. ruminicola
-                                                                                                                                                                                                                                                                                                                                                                                                                                                   P. salivae
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                P. shahii
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                            P. stercorea
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           P. tannerae
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         P. timonensis
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         P. veroralis
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        P. zoogleoformans
+   P. albensis   P. baroniae   P. bergensis   P. bivia   P. brevis   P. bryantii   P. buccae   P. buccalis   P. corpri   P. corporis   P. dentalis   P. denticola   P. disiens   P. enoeca   P. heparinolytica   P. intermedia   P. loescheii   P. marshii   P. massiliensis   P. melaninogenica   P. multiformis   P. multisaccharivorax   P. nigrescens   P. oralis   P. oris   P. oulora   P. pallens   P. ruminicola   P. salivae   P. shahii   P. stercorea   P. tannerae   P. timonensis   P. veroralis   P. zoogleoformans   
 Characteristic
 Pigment production          –             –             –             –           –           –             –           –             –           +             –             ±              –            –             –                  +               +              –             –                  +                  –                  –                     +              –          –          –           +             –              –            +           –              +              –              –                –
     on blood agar
@@ -809,24 +724,7 @@ a 
 
 #####
 TABLE 23.  Differential characteristics of genera in the family Flavobacteriaceae a,b
-                                                                                                                                                                                                             Chryseobacterium (19)
-                            Flavobacterium (35)
-                                                                                                                                                                 Capnocytophaga (7)
-                                                                                                                                                                                                                                                                                                                                                             Epilithonimonas (1)
-                                                                                                                                                                                                                                                                                                                  Elizabethkingia (2)
-                                                                                                                                                                                                                                                                                                                                         Empedobacter (1)
-                                                                                                                                                                                       Cellulophaga (5)
-                                                                                                                                                                                                                                                                                              Donghaeana (1)
-                                                                                         Aquimarina (1)
-                                                                                                                                                                                                                                                       Croceibacter (1)
-                                                    Aequorivita (4)
-                                                                                                           Arenibacter (4)
-                                                                       Algibacter (1)
-                                                                                                                              Bergeyella (1)
-                                                                                                                                                                                                                                                                             Dokdonia (1)
-                                                                                                                                                                                                                                      Coenonia (1)
-                                                                                                                                                 Bizionia (5)
-                                                                                                                                                                                                                                                                                                                                                                                     Formosa (2)
+   Flavobacterium (35)   Aequorivita (4)   Algibacter (1)   Aquimarina (1)   Arenibacter (4)   Bergeyella (1)   Bizionia (5)   Capnocytophaga (7)   Cellulophaga (5)   Chryseobacterium (19)   Coenonia (1)   Croceibacter (1)   Dokdonia (1)   Donghaeana (1)   Elizabethkingia (2)   Empedobacter (1)   Epilithonimonas (1)   Formosa (2)   
 Characteristic
 Habitat                 FL (fe, me,               FL (te, S (me) FL (me) FL                                                  P or S FL (me) P or S                                      FL                 FL (fe,                      P            FL (me)              FL (me)           FL (me)             FL (fe,                 P or S               FL                    FL (me)
                         te), S or P               me) or S               (me)                                                         or S                                            (me)                me, te), S                                   or S                                                      te), S                                     (fe)                     or S
@@ -885,24 +783,7 @@ footnote d: The transfer of Stanierella latercula to the genus Aquimarina has be
 
 #####
 TABLE 23.  (Continued)
-                                                                    Gaetbulimicrobium (1)
-                                                                                                                                                                                                                                                                                                                                                      Ornithobacterium (1)
-                                                                                                                                                                                                                            Leeuwenhoekiella (2)
-                                              Gaetbulibacter (1)
-                                                                                                                                                                                  Krokinobacter (3)
-                          “Fucobacter” (1)
-                                                                                               Gelidibacter (4)
-                                                                                                                                                                                                                                                                                      Muricauda (3)
-                                                                                                                                                                                                                                                    Maribacter (5)
-                                                                                                                                                                                                          Lacinutrix (1)
-                                                                                                                                                                                                                                                                                                                       Nonlabens (1)
-                                                                                                                                   Gramella (2)
-                                                                                                                                                                                                                                                                                                       Myroides (2)
-                                                                                                                                                   Kaistella (1)
-                                                                                                                                                                                                                                                                      Mesonia (1)
-                                                                                                                   Gillisia (5)
-                                                                                                                                                                    Kordia (1)
-                                                                                                                                                                                                                                                                                                                                        Olleya (1)
+   "Fucobacter" (1)   Gaetbulibacter (1)   Gaetbulimicrobium (1)   Gelidibacter (4)   Gillisia (5)   Gramella (2)   Kaistella (1)   Kordia (1)   Krokinobacter (3)   Lacinutrix (1)   Leeuwenhoekiella (2)   Maribacter (5)   Mesonia (1)   Muricauda (3)   Myroides (2)   Nonlabens (1)   Olleya (1)   Ornithobacterium (1)   
 Characteristic
 Habitat                 FL (me)               FL                    FL                         FL                  FL               FL              FL               FL    FL (me) S (me)                                    FL                      FL                FL           FL (me)           P or S          S (me)           S (me)             P
                           or S               (me)                  (me)                      (me)                 (me)            (me)             (fe)             (me)     or S                                          (me)                    (me)              (me)
@@ -957,24 +838,7 @@ DNA G+C content           32                  35                    36          
 
 #####
 TABLE 23.  (Continued)
-                                                                                                                                                                                                                                                                    Subsaximicrobium (2)
-                                                                                                                                                                                                                    Stenothermobacter (1)
-                                                                                                                                                                                                                                                                                                                                                                          Winogradskyella (4)
-                                                                                                                                                                                                                                                                                             Tenacibaculum (6)
-                                                                                                                                                       Salegentibacter (3)
-                                                                                         Psychroserpens (1)
-                                                                                                                                                                                                                                              Subsaxibacter (1)
-                                                                                                                                  Robiginitalea (1)
-                                                                   Psychroflexus (3)
-                                               Polaribacter (4)
-                         Persicivirga (1)
-                                                                                                                                                                                                                                                                                                                                    Vitellibacter (1)
-                                                                                                                                                                                               Stanierella (1)d
-                                                                                                               Riemerella (2)
-                                                                                                                                                                                                                                                                                                                  Ulvibacter (1)
-                                                                                                                                                                                                                                                                                                                                                         Weeksella (1)
-                                                                                                                                                                              Sejongia (2)
-                                                                                                                                                                                                                                                                                                                                                                                                 Zobellia (5)
+   Persicivirga (1)   Polaribacter (4)   Psychroflexus (3)   Psychroserpens (1)   Riemerella (2)   Robiginitalea (1)   Salegentibacter (3)   Sejongia (2)   Stanierella (1)d   Stenothermobacter (1)   Subsaxibacter (1)   Subsaximicrobium (2)   Tenacibaculum (6)   Ulvibacter (1)   Vitellibacter (1)   Weeksella (1)   Winogradskyella (4)   Zobellia (5)   
 Characteristic
 Habitat                  FL                     FL                  FL                 FL (me)                   P              FL (me) FL (me) FL (te)                                         FL                S (me)                    FL (te)               FL (te)                     FL                   FL               FL                  P or S            S                       FL
                         (me)                  (me)                (me)                   or S                                             or S                                                (me)                                           or S                  or S                     (me),                (me)              (me)                                  (me)                   (me)
@@ -1030,7 +894,6 @@ DNA G+C content          35                  31–34                32–39     
 
 #####
 TABLE 24.  Characteristics that differentiate species in the genus Flavobacterium with validly published namesa,b
-                                                                                                                                                                                                   114
                                      F. aquatile            F. aquidurense           F. antarcticum         F. branchiophilum          F. columnare             F. croceum       F. daejeonense
 Source                         Temperate freshwater     Temperate freshwater           Polar soil       Temperate freshwater Temperate freshwater            Activated sludge   Temperate soil
                                                                                                        and tissues of freshwater and tissues of freshwater
@@ -1078,7 +941,10 @@ Production of:
   H2S                                    −                        nd                       −                       −                         +                     −                   nd
 Nitrate reduction                        +                        D                        −                       −                         d                     −                    +
 DNA G+C content (mol%)g               32 (33)                     34                       38                29–31 (33–34)              30 (32–33)                 41                  35
-                                                                                                                                                                                     (Continued)
+         
+
+#####
+TABLE 24. (cont.)
                                   F. defluvii           F. degerlachei             F. denitrificans           F. flevense             F. frigidarium         F. frigidimaris       F. frigoris
 Source                         Activated sludge       Polar saline lakes          Temperate soil        Temperate freshwater    Polar marine sediment        Polar seawater  Polar freshwater
                                                                                                                                                                              and saline lakes
@@ -1133,7 +999,6 @@ DNA G+C content (mol%)g              34                       34                
 
 #####
 TABLE 24.  (Continued)
-                                                                                                                                                                                      116
                                     F. fryxellicola            F. gelidilacus         F. gillisiae    F. glaciei           F. granuli            F. hercynium       F. hibernum
 Source                         Polar freshwater lakes     Polar freshwater and         Sea ice       Frozen soil    Wastewater treatment          Temperate       Polar freshwater
                                                                 saline lakes                                                  plant               freshwater             lake
@@ -1233,7 +1098,6 @@ DNA G+C content (mol%)g              32–34                    31              
 
 #####
 TABLE 24.  (Continued)
-                                                                                                                                                                                              118
                                   F. psychrolimnae        F. psychrophilum        F. saccharophilum         F. saliperosum             F. segetis             F. soli       F. succinicans
 Source                         Polar freshwater lakes  Temperate freshwater Temperate freshwater        Temperate freshwater          Polar soil         Temperate soil      Temperate
                                                       and tissues of freshwater                                                                                              freshwater
@@ -1842,10 +1706,7 @@ footnote f: The identity of the fatty acid is unknown. The equivalent chain leng
 
 #####
 TABLE 26.  Differential characteristics of Aequorivita species a
-                                                                                                                                                 A. sublithincola
-                                                          A. antarctica
-                                                                                                                           A. lipolytica
-                                                                                                       A. crocea
+   A. antarctica   A. crocea   A. lipolytica   A. sublithincola   
 Characteristic
 Morphology                                          Rods, filaments                                   Rods                Rods             Rods, filaments
 Dimensions (µm)                                     0.5–20 × 0.2–0.3                            0.5–3.0 × 0.4–0.5   0.5–3.0 × 0.4–0.5      0.5–20 × 0.4–0.5
@@ -1874,10 +1735,7 @@ footnote a: Symbols: +, >85% positive; d, different strains give different react
 
 #####
 TABLE 27.  Whole-cell fatty acids present in Aequorivita speciesa
-                                                                                              A. sublithincola
-                                         A. antarctica
-                                                                              A. lipolytica
-                                                         A. crocea
+   A. antarctica   A. crocea   A. lipolytica   A. sublithincola   
 Fatty acid
 Saturated fatty acids:
   C15:0                                  tr               tr                  tr              3.1
@@ -1910,14 +1768,7 @@ footnote a: Values are given as percentages of total fatty acids; tr, trace leve
 
 #####
 TABLE 28.  Fatty acid content of species of the genus Aquimarina a,b
-                             LMG 22569T
-                                                            A. intermedia
-                                                            KMM 6258T
-                                                                             LMG 1343T
-                                            A. brevivitae
-                                                                             A. latercula
-                             A. muelleri
-                                            SMK-19T
+   LMG 22569T A. muelleri   A. brevivitae SMK-19T   A. intermedia KMM 6258T   LMG 1343T A. latercula   
 Fatty acid
 C13:0 iso                     1.5                             tr               tr
 C14:0 iso                                    1.3                                
@@ -1948,10 +1799,7 @@ footnote c: Summed features consist of one or more fatty acids that could not be
 
 #####
 TABLE 29.  Differential characteristics of species in the genus Aquimarina a,b
-                                                                                                    A. intermedia
-                                                                          A. brevivitae
-                                                                                                                            A. latercula
-                                                          A. muelleri
+   A. muelleri   A. brevivitae   A. intermedia   A. latercula   
 Characteristic
 Gliding motility                                          +                +                      +                          −
 Catalase                                                  +                +                      +                          −
@@ -1984,14 +1832,7 @@ footnote b: Data from Reichenbach (1989d), Nedashkovskaya et al. (2005f, 2006f)
 
 #####
 TABLE 30.  Cellular fatty acid compositions (%) of Arenibacter species a
-                                                                     A. palladensis
-                                                       KMM 3941T
-                                                                     KMM 3961T
-                                                                                      KMM 3674T
-                                                                                      A. troitsensis
-                                 A. latericius
-                                                       A. certesii
-                                 (n = 4)b
+   A. latericius (n = 4)b   KMM 3941T A. certesii   A. palladensis KMM 3961T   KMM 3674T A. troitsensis   
 Fatty acid
 C15:0 iso                     6.9–15.8 (8.1)             7.7           8.7              6.8
 C15:0 anteiso                 4.8–13.5 (9.3)             6.3           3.3              3.2
@@ -2021,10 +1862,7 @@ footnote b: The range of values for four strains is given. Values for the type s
 
 #####
 TABLE 31.  Differential characteristics of Arenibacter speciesa
-                                                                            A. palladensis
-                                                                                             A. troitsensis
-                                             A. latericius
-                                                             A. certesii
+   A. latericius   A. certesii   A. palladensis   A. troitsensis   
 Characteristic
 Gliding motility                                −              −               +                −
 Na+ requirement for growth                      +              +               −                +
@@ -2066,14 +1904,7 @@ footnote a: Symbols: +, positive; −, negative; d, differs among strains.
 
 #####
 TABLE 32.  Differences in substrate utilization by the type strains of Arenibacter species using the Biolog GN2 testing system a
-                                                                                                            A. palladensis
-                                                                                              KMM 3941T
-                                                                                                            KMM 3961T
-                                                                                                                             KMM 3674T
-                                                                                                                             A. troitsensis
-                                                                              A. latericius
-                                                                              KMM 426T
-                                                                                              A. certesii
+   A. latericius KMM 426T   KMM 3941T A. certesii   A. palladensis KMM 3961T   KMM 3674T A. troitsensis   
 Substrate
 Glycogen, d-galacturonic acid, glycyl-l-aspartic acid, dl-a-glycerol              −               +              −                −
     phosphate, d-sorbitol
@@ -2095,11 +1926,7 @@ footnote a: Symbols: +, positive; −, negative.
 
 #####
 TABLE 33.  Differential characteristics of species of the genus Bizioniaa,b
-                                                                                        B. gelidisalsuginis
-                                                                 B. algoritergicola
-                                                                                                                B. myxarmorum
-                                              B. paragorgiae
-                                                                                                                                  B. saleffrena
+   B. paragorgiae   B. algoritergicola   B. gelidisalsuginis   B. myxarmorum   B. saleffrena   
 Characteristic
 Arginine dihydrolase                           −                   +                      +                       +                 −
 Salinity range for growth (%)                 1–8               1–10                   1–15                    1–10              1–15
@@ -2192,13 +2019,7 @@ footnote b: Numbers indicate color intensities of chromogenic reactions: 0, no a
 
 #####
 TABLE 36.  Cellular fatty acid composition (%) of Capnocytophaga species a,b
-                                                                                                            C. haemolytica
-                                                            C. canimorsus
-                                                                                        C. cynodegmi
-                                                                                                                                C. gingivalis
-                                                                                                                                                                     C. sputigena
-                                                                                                                                                   C. granulose
-                                C. ochracea
+   C. ochracea   C. canimorsus   C. cynodegmi   C. haemolytica   C. gingivalis   C. granulose   C. sputigena   
 Fatty acid
 C13:0 iso                     tr–2.1                        1.3                        1.0                  tr                3.5–3.9            1.5–2.1           1.5–2.9
 C14:0                        1.1–1.5                         1.7                        2.2              tr–21.2               tr–1.0            1.1–1.9           1.1–2.2
@@ -2276,13 +2097,7 @@ footnote c: MIC50 and MIC90, Minimal concentrations required to inhibit 50 and 9
 
 #####
 TABLE 39.  Differentiation of Capnocytophaga speciesa,b
-                                                                                                                C. haemolytica
-                                                  C. canimorsus
-                                                                  C. cynodegmi
-                                                                                                 C. granulosa
-                                                                                 C. gingivalis
-                                                                                                                                 C. sputigena
-                                    C. ochracea
+   C. ochracea   C. canimorsus   C. cynodegmi   C. gingivalis   C. granulosa   C. haemolytica   C. sputigena   
 Characteristic
 Aerobic growth                        −             −              −               −               −               +               −
 Hemolysis                             w             −              −               −               −               +               −
@@ -2306,11 +2121,7 @@ footnote b: Data from Brenner et al. (1989) and Yamamoto et al. (1994).
 
 #####
 TABLE 40.  Differential phenotypic characteristics of Cellulophaga speciesa
-                                                                                                 C. pacifica
-                                                      C. algicola
-                                                                                  C. fucicola
-                                                                    C. baltica
-                                          C. lytica
+   C. lytica   C. algicola   C. baltica   C. fucicola   C. pacifica   
 Characteristic
 Growth on:
   Nutrient agar                         d (w) d (w)                   −             −              −
@@ -2355,11 +2166,7 @@ footnote a: Symbols: +, >85% positive; d, different strains give different react
 
 #####
 TABLE 41.  Whole-cell fatty acid contents of members of the genus Cellulophaga a
-                                                                                                                                                          C. pacificab
-                                                                                 C. algicola
-                                                                                                                               C. fucicola
-                                                                                                          C. baltica
-                                                    C. lytica
+   C. lytica   C. algicola   C. baltica   C. fucicola   C. pacificab   
 Fatty acid
 Saturated fatty acids:
   C14:0                                       tr                                  tr                       tr                   tr                          
@@ -2396,12 +2203,7 @@ footnote b: Only the major fatty acid constituents were reported in the descript
 
 #####
 TABLE 42.  Differentiation of genus Cellulophaga from other Na+-requiring, agarolytic, yellow-pigmented members of the family Flavobacteriaceaea
-                                                                                                                                    Winogradskyella
-                                          Cellulophaga
-                                                                                                                 Maribacter
-                                                                Algibacter
-                                                                                               Formosa
-                                                                                                                                                           Zobellia
+   Cellulophaga   Algibacter   Formosa   Maribacter   Winogradskyella   Zobellia   
 Characteristic
 Budding cells                             −                      −                              +           −                   −                         −
 Flexirubins                               −                      +                              −           +                   +                         +
@@ -2417,42 +2219,7 @@ footnote a: Symbols: +, >85% positive; −, 0–15% positive; D, different resul
 
 #####
 TABLE 43.  Fatty acid composition (%) of Chryseobacterium species and closely related taxa a
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        182
-                        C. gleum (5)
-                                       C. balustinum (1)
-                                                           C. daecheongense (1)
-                                                                                  C. defluvii (1)
-                                                                                                    C. formosense (1)
-                                                                                                                        C. hispanicum (1)
-                                                                                                                                            C. indologenes (45)
-                                                                                                                                                                  C. indoltheticum (1)
-                                                                                                                                                                                         C. joostei (11)
-                                                                                                                                                                                                           C. piscium (4)
-                                                                                                                                                                                                                            C. scophthalmum (2)
-                                                                                                                                                                                                                                                  C. shigense (1)
-                                                                                                                                                                                                                                                                    C. soldanellicola (1)
-                                                                                                                                                                                                                                                                                            C. taeanense (1)
-                                                                                                                                                                                                                                                                                                               C. taichungense (1)
-                                                                                                                                                                                                                                                                                                                                     C. taiwanense (1)
-                                                                                                                                                                                                                                                                                                                                                         C. vrystaatense (7)
-                                                                                                                                                                                                                                                                                                                                                                               C. wanjuense (1)
-                                                                                                                                                                                                                                                                                                                                                                                                  Elizabethkingia
-                                                                                                                                                                                                                                                                                                                                                                                                  meningoseptica (5)
-                                                                                                                                                                                                                                                                                                                                                                                                                       Elizabethkingia
-                                                                                                                                                                                                                                                                                                                                                                                                                       miricola (2)
-                                                                                                                                                                                                                                                                                                                                                                                                                                         Bergeyella
-                                                                                                                                                                                                                                                                                                                                                                                                                                         zoohelcum (1)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                         Riemerella
-                                                                                                                                                                                                                                                                                                                                                                                                                                                         anatipestifer (16)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Riemerella
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                              columbina (13)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Kaistella
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               koreensis (3)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Sejongia
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               antarctica (1)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Sejongia jeonii (1)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Epilithonimonas
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      tenax (1)
+   C. gleum (5)   C. balustinum (1)   C. daecheongense (1)   C. defluvii (1)   C. formosense (1)   C. hispanicum (1)   C. indologenes (45)   C. indoltheticum (1)   C. joostei (11)   C. piscium (4)   C. scophthalmum (2)   C. shigense (1)   C. soldanellicola (1)   C. taeanense (1)   C. taichungense (1)   C. taiwanense (1)   C. vrystaatense (7)   C. wanjuense (1)   Elizabethkingia meningoseptica (5)   Elizabethkingia miricola (2)   Bergeyella zoohelcum (1)   Riemerella anatipestifer (16)   Riemerella columbina (13)   Kaistella koreensis (3)   Sejongia antarctica (1)   Sejongia jeonii (1)   Epilithonimonas tenax (1)   182   
 Fatty acid
 C12:0 iso               nd             nd                  nd                     nd                nd                  nd                  nd                    nd                     nd                nd               nd                    na                nd                      nd                 nd                    nd                  nd                    nd                     nd                  nd                nd               nd                  nd               nd              tr             1                       nd
 C13:0 iso               tr             tr                   2                      3                 4                   3                  tr                    nd                     tr                 1               tr                    na                tr                      tr                 tr                     1                   1                    tr                      1                   2                 2               15                  10               10               3             3                       tr
@@ -2488,7 +2255,7 @@ Summed                  12                 9               10                   
       feature 4d
 Summed                   tr              tr                nd                     na                nd                  nd                    tr                  nd                       tr              nd                 tr                  na                   tr                     tr               nd                      tr                na                    nd                       tr                na                 2               nd                  nd               nd              nd            nd                       nd
      feature 5d
-footnote a: The fatty acid composition of “Chryseobacterium proteolyticum” has not been determined (Yamaguchi and Yokoe, 2000) and is therefore not included in this table. Fatty acid percentages amounting to less than 1% of the total fatty acids in all species are not included; therefore, the percentages do not total 100%. When several strains were analyzed, rounded up means are given (standard deviations are not given); the number of strains analyzed is given in parentheses after the name of each species. Data are taken from studies using different growth times, media, and temperatures. Abbreviations: tr, trace (less than 1%); na, not available; and nd, not detected. Data from Segers et al. (1993a), Mudarris et al. (1994), Vancanneyt et al. (1999), Hugo et al. (2003), Kämpfer et al. (2003), Li et al. (2003b), Kim et al. (2004), de Beer et al. (2005), Kim et al. (2005a, b), Shen et al. (2005), Shimomura et al. (2005), Yi et al. (2005b), Young et al. (2005), de Beer et al. (2006), Gallego et al. (2006), O’Sullivan et al. (2006), Park et al. (2006b), Tai et al. (2006), and Weon et al. (2006).
+footnote a: The fatty acid composition of "Chryseobacterium proteolyticum" has not been determined (Yamaguchi and Yokoe, 2000) and is therefore not included in this table. Fatty acid percentages amounting to less than 1% of the total fatty acids in all species are not included; therefore, the percentages do not total 100%. When several strains were analyzed, rounded up means are given (standard deviations are not given); the number of strains analyzed is given in parentheses after the name of each species. Data are taken from studies using different growth times, media, and temperatures. Abbreviations: tr, trace (less than 1%); na, not available; and nd, not detected. Data from Segers et al. (1993a), Mudarris et al. (1994), Vancanneyt et al. (1999), Hugo et al. (2003), Kämpfer et al. (2003), Li et al. (2003b), Kim et al. (2004), de Beer et al. (2005), Kim et al. (2005a, b), Shen et al. (2005), Shimomura et al. (2005), Yi et al. (2005b), Young et al. (2005), de Beer et al. (2006), Gallego et al. (2006), O’Sullivan et al. (2006), Park et al. (2006b), Tai et al. (2006), and Weon et al. (2006).
 footnote b: ECL, equivalent chain-length (i.e., the identity of the fatty acids is unknown).
 footnote d: Fatty acids that could not be separated by GC using the Microbial Identification System (Microbial ID) software were considered summed features. Summed feature 3 contained C15:0 iso 2-OH and/or C16:1 w7c. Summed feature 4 contained C15:0 iso 2-OH and/or C16:1 w7c/t. Summed feature 5 contained C17:1 iso I and/or C17:1 anteiso B.
 
@@ -2498,19 +2265,7 @@ footnote d: Fatty acids that could not be separated by GC using the Microbial Id
 
 #####
 TABLE 44.  Differential characteristics of Chryseobacterium species and closely related taxaa
-                                                                                                                                                                                                        “C. proteolyticum”
-                                                                                                                                                                                                                                C. scophthalmum
-                                                           C. daecheongense
-                                                                                                                                                        C. indoltheticum
-                                                                                                                  C. hispanicum
-                                           C. balustinum
-                                                                                                                                    C. indologenes
-                                                                                                C. formosense
-                                                                                                                                                                                                                                                  C. shigense
-                                                                                                                                                                                           C. piscium
-                                                                              C. defluvii
-                                                                                                                                                                            C. joostei
-                              C. gleum
+   C. gleum   C. balustinum   C. daecheongense   C. defluvii   C. formosense   C. hispanicum   C. indologenes   C. indoltheticum   C. joostei   C. piscium   "C. proteolyticum"   C. scophthalmum   C. shigense   
 Characteristic
 Source                     Diseased      Diseased Sediment, Activated                       Rhizosphere         Drinking          Diseased           Seawater,              Raw          Healthy        Soil                  Seawater,  Lactic
                            humans,        fresh-  freshwater sludge                          of lettuce          water            humans,             marine               cow’s         marine                              healthy and  acid
@@ -2582,12 +2337,7 @@ footnote c: Strains of Elizabethkingia meningoseptica are either not pigmented o
 
 #####
 TABLE 45.  Fatty acid content (%) of whole-cell hydrolysates of Formosa strains a
-                                 KMM 3553T
-                                                     KMM 3901T
-                                                     F. agariphila
-                                                                         F. agariphila
-                                                                         KMM 3962
-                                 F. algae
+   KMM 3553T F. algae   KMM 3901T F. agariphila   F. agariphila KMM 3962   
 Fatty acid
 C15:0                            15.5                8.7                 11.4
 C15:0 2-OH                        1.5                1.8                  1.6
@@ -2617,15 +2367,7 @@ footnote a: Values of less than 1% for all strains are not shown. Summed feature
 
 #####
 TABLE 46.  Differential characteristics of the genus Formosa and other allied genera of the family Flavobacteriaceae a,b
-                                                                                                                                                                               Subsaximicrobium
-                                                                                                                                          Psychroserpens
-                                                                              Gaetbulibacter
-                                                                                                                                                             Subsaxibacter
-                                                                                                 Gelidibacter
-                                                                                                                  Lacinutrix
-                                                               Algibacter
-                                                Formosa
-                                                                                                                                Olleya
+   Formosa   Algibacter   Gaetbulibacter   Gelidibacter   Lacinutrix   Olleya   Psychroserpens   Subsaxibacter   Subsaximicrobium   
 Characteristic
 Fermentation of glucose                          +             +               +                  −                 −            −         −                  −                  −
 Gliding motility                                 +             +               +                  +                 −            +         −                  +                  +
@@ -2652,10 +2394,7 @@ footnote b: Data are from Bowman et al. (1997); Macián et al. (2002); Ivanova
 
 #####
 TABLE 47.  Phenotypic characteristics of Formosa strainsa,b
-                                                                   KMM 3553T
-                                                                                            F. agariphila
-                                                                                            (n = 2)
-                                                                   F. algae
+   KMM 3553T F. algae   F. agariphila (n = 2)   
 Characteristic
 b-Galactosidase activity                                             −                       +
 Hydrolysis of agar                                                   −                       +
@@ -2674,10 +2413,7 @@ footnote b: All strains are positive for the following characteristics: gliding 
 
 #####
 TABLE 48.  Differential characteristics of Gelidibacter speciesa
-                                                               G. mesophilus
-                                                                               G. salicanalis
-                                    G. algens
-                                                  G. gilvus
+   G. algens   G. gilvus   G. mesophilus   G. salicanalis   
 Fatty acid
 Saturated fatty acids:
   C13:0                             nd           nd            nd               tr
@@ -2717,10 +2453,7 @@ footnote a: Values represent percentages of total fatty acids; tr, trace level d
 
 #####
 TABLE 49.  Whole-cell fatty acids of Gelidibacter speciesa
-                                                                      G. mesophilus
-                                                                                       G. salicanalis
-                                            G. algens
-                                                         G. gilvus
+   G. algens   G. gilvus   G. mesophilus   G. salicanalis   
 Characteristic
 Growth on marine agar at 25°C             d (w)            +             +                +
 Yeast extract requirement                   −              +             +                −
@@ -2767,12 +2500,7 @@ footnote a: Symbols: +, >85% positive; d, different strains give different react
 
 #####
 TABLE 50.  Whole-cell fatty acid profiles of species of the genus Gillisiaa
-                                        G. mitskevichiae
-                                                                              G. sandarakina
-                                                                                                G. hiemivivida
-                                                           G. illustrilutea
-                                                                                                                 G. myxillae
-                           G. limnaea
+   G. limnaea   G. mitskevichiae   G. illustrilutea   G. sandarakina   G. hiemivivida   G. myxillae   
 Fatty acid
 C15:0                       −           4.4                4.3                4.3              4.3                −
 C16:0                       tr            −                1.7                  tr             1.8               1.6
@@ -2806,16 +2534,7 @@ footnote b: Summed feature 3 comprises C15:0 iso 2-OH and/or C16:1 w7c.
 
 #####
 TABLE 51.  Differential characteristics of the genus Gillisia and other related taxa a
-                                                                                                                                               Salegentibacter
-                                                                                                                              Psychroflexus
-                                                                     Aquimarina
-                                                                                                                                                                 Stanierella
-                                                                                                                                                                                Ulvibacter
-                                                       Algibacter
-                                                                                                                Mesonia
-                                                                                        Bizionia
-                                                                                                   Formosa
-                                         Gillisia
+   Gillisia   Algibacter   Aquimarina   Bizionia   Formosa   Mesonia   Psychroflexus   Salegentibacter   Stanierella   Ulvibacter   
 Characteristic
 Pigments                                Y/O             O              Y                 Y          Y            Y             O                 Y               O/R           Y/O
 Flexirubins                              −              −              +                 −          −            −             −                 −                −             +
@@ -2842,12 +2561,7 @@ footnote a: Data from: Bowman and Nichols (2005), Ivanova et al. (2004), Nedash
 
 #####
 TABLE 52.  Differential characteristics of species of the genus Gillisia a
-                                                                                                            G. mitskevichiae
-                                                                                                                               G. sandarakina
-                                                                   G. hiemivivida
-                                                                                         G. illustrilutea
-                                                                                                                                                G. myxillae
-                                                 G. limnaea
+   G. limnaea   G. hiemivivida   G. illustrilutea   G. mitskevichiae   G. sandarakina   G. myxillae   
 Characteristic
 Pigments                                           Y                O                       Y                  Y                O                Y
 Growth at 25°C                                     +                +                       −                  +                −                +
@@ -2887,13 +2601,7 @@ footnote a: Data from: Bowman and Nichols (2005), Nedashkovskaya et al. (2005c)
 
 #####
 TABLE 53.  Differential characteristics of Kordia algicida and phylogenetically most closely related genera in the family Flavobacteriaceae a,b
-                                                                                            Tenacibaculum
-                                                                          Krokinobacter
-                                                           Aquimarina
-                                                                                                              Polaribacter
-                                                                                                                                            Dokdoniac
-                                                                                                                              Lutibacter
-                                              Kordia
+   Kordia   Aquimarina   Krokinobacter   Tenacibaculum   Polaribacter   Lutibacter   Dokdoniac   
 Characteristic
 Pigment                                        Y            V                Y               Y                  V               Y             Y
 Flexirubin reaction                            −            D                −               −d                 −               −             −
@@ -2930,12 +2638,7 @@ footnote f: Except Polaribacter butkevichii which has not been determined.
 
 #####
 TABLE 54.  Phenotypic properties of the type strains of Leeuwenhoekiella species a,b
-                                                                              L. marinoflava
-                                                                                                  LMG 22550T
-                                                                                                                       L. blandensis
-                                                                              LMG 1345T
-                                                                                                  L. aequorea
-                                                                                                                       MED 217T
+   L. marinoflava LMG 1345T   LMG 22550T L. aequorea   L. blandensis MED 217T   
 Characteristic
 Salinity range for growth (%)                                                 0–15                0–15                 0–17
 Optimum salinity (%)                                                           1–3                 0–5                  2–4
@@ -2964,16 +2667,7 @@ footnote b: Data are from Nedashkovskaya et al. (2005i) and Pinhassi et al. (200
 
 #####
 TABLE 55.  Whole-cell fatty acid profiles (%) of Maribacter species a
-                                   M. sedimenticola
-                                                                     M.dokdonensis
-                                                      M. aquivivus
-                                   KMM 3903T
-                                                      KMM 3949T
-                                                                                     KMM 3947T
-                                                                                                     KMM 3951T
-                                                                                     M. orientalis
-                                                                                                     M. ulvicola
-                                                                     DSW-8T
+   M. sedimenticola KMM 3903T   M. aquivivus KMM 3949T   M.dokdonensis DSW-8T   KMM 3947T M. orientalis   KMM 3951T M. ulvicola   
 Fatty acid
 C13:1                               0.7                1.1                            0.3             1.1
 C14:0                               0.5                1.0             0.9            0.5             0.9
@@ -3003,11 +2697,7 @@ footnote a: Data from Nedashkovskaya et al. (2004b) and Yoon et al. (2005b).
 
 #####
 TABLE 56.  Differential characteristics of Maribacter speciesa,b
-                                  M. sedimenticola
-                                                                    M. dokdonensis
-                                                     M. aquivivus
-                                                                                     M. orientalis
-                                                                                                     M. ulvicola
+   M. sedimenticola   M. aquivivus   M. dokdonensis   M. orientalis   M. ulvicola   
 Characteristic
 Nitrate reduction                    +                 +               −                −              −
 b-Galactosidase                      −                 +               −                +              +
@@ -3048,9 +2738,7 @@ footnote b: Data from Nedashkovskaya et al. (2004b) and Yoon et al. (2005b).
 
 #####
 TABLE 57.  Phenotypic characteristics of Mesonia speciesa
-                                                                               KMM 6059T
-                                                                               M. mobilis
-                                                                                                M. algae
+   KMM 6059T M. mobilis   M. algae   
 Characteristic
 Gliding motility                                                                  +              −
 Growth at 39°C                                                                    +              −
@@ -3070,14 +2758,7 @@ footnote a: Data are from Nedashkovskaya et al. (2003a) (for four strains of Me
 
 #####
 TABLE 58.  Differential characteristics of the genus Muricauda and other closely related genera of the family Flavobacteriaceae isolated from marine or marine-derived habitatsa
-                                                                                                                                   Robiginitalea
-                                                         Aequorivita
-                                                                                                                                                        Vitellibacter
-                                        Muricauda
-                                                                            Arenibacter
-                                                                                               Maribacter
-                                                                                                                 Pibocella
-                                                                                                                                                                           Zobellia
+   Muricauda   Aequorivita   Arenibacter   Maribacter   Pibocella   Robiginitalea   Vitellibacter   Zobellia   
 Character
 Appendages                             +              −                     −                    −               −                 −                      −                  −
 Cell length (µm)                    1.1–2.7       0.5–20.0               3.0–5.0             0.8–10.0         1.6–2.3           1.6–5.6               3.0–10.0            1.2–8.0
@@ -3121,9 +2802,7 @@ footnote d: No data for Zobellia uliginosa available.
 
 #####
 TABLE 59.  Features that differentiate the type strains of the species of the genus Myroidesa
-                                                         M. odoratimimus
-                                                                              M. pelagicus
-                                       M. odoratus
+   M. odoratus   M. odoratimimus   M. pelagicus   
 Characteristic
 Cell length (µm)                     11–12             3.5–4.0              0.5–1.0
 Colony color                         Yellow          Pale yellow           Yellow to
@@ -3151,14 +2830,7 @@ footnote c: Nitrite is characteristically reduced, but not nitrate (Vancanneyt e
 
 #####
 TABLE 60.  Main differential characteristics of Ornithobacterium rhinotracheale and other bird pathogens of the family Flavobacteriaceaea
-                                                                                                                                                                    Riemerella columbina
-                                                                                                                            Coenonia anatina
-                                                               Ornithobacterium
-                                                                                          Chryseobacterium
-                                                                                          meningosepticum
-                                                               rhinotracheale
-                                                                                                                                                   anatipestifer
-                                                                                                                                                   Riemerella
+   Ornithobacterium rhinotracheale   Chryseobacterium meningosepticum   Coenonia anatina   anatipestifer Riemerella   Riemerella columbina   
 Characteristic
 Aerobic growth on blood agar                                     −                         +                                −                         +               +
 Growth on MacConkey agar                                         −                         +                                −                         −               −
@@ -3186,12 +2858,7 @@ footnote d: API ZYM test results.
 
 #####
 TABLE 61.  Nutritional, physiological, and genotypic properties of Polaribacter speciesa,b
-                                                                                                                             P. franzmannii
-                                                                                                       P. dokdonensis
-                                                                                  P. butkevichii
-                                                                                                                                                   P. glomeratus
-                                                             P. filamentus
-                                                                                                                                                                        P. irgensii
+   P. filamentus   P. butkevichii   P. dokdonensis   P. franzmannii   P. glomeratus   P. irgensii   
 Characteristic
 Cell morphology                                        Filamentous               Rods                 Rods              Irregular rods        Curved rods          Filamentous
 Cell diameter (µm)                                        0.5–1.2               0.4–0.6              0.4–0.6                0.8–1.6             0.4–0.6              0.25–0.5
@@ -3250,11 +2917,7 @@ footnote c: Differs among various studies.
 
 #####
 TABLE 62.  Fatty acid composition (%) of type strains of selected Polaribacter speciesa,b
-                                                                                  P. franzmannii
-                                                                 P. dokdonensis
-                                                P. butkevichii
-                                P. filamentus
-                                                                                                    P. irgensii
+   P. filamentus   P. butkevichii   P. dokdonensis   P. franzmannii   P. irgensii   
 Fatty acid
 13:0 iso                         5              16                5                5                2
 14:0 iso                        nd               8                1               nd               nd
@@ -3310,9 +2973,7 @@ footnote a: Symbols: +, >85% positive; d, different strains give different react
 
 #####
 TABLE 64.  Whole-cell fatty acid composition (%) present in Psychroflexus species cultivated on marine agar 2216 at 15°Ca
-                                                         P. gondwanensis
-                                                                                P. tropicus
-                                       P. torquis
+   P. torquis   P. gondwanensis   P. tropicus   
 Fatty acid
 Saturated fatty acids:
   C14:0                                tr                tr                      −
@@ -3353,12 +3014,7 @@ footnote a: Values represent the mean percentages of the total fatty acids (valu
 
 #####
 TABLE 65.  Distinguishing characteristics of Salegentibacter speciesa
-                                                       S. holothuriorum
-                                                                            S. mishustinae
-                                                                                                                      S. agarivorans
-                                       S. salegens
-                                                                                                                                         S. catena
-                                                                                                      S. flavus
+   S. salegens   S. holothuriorum   S. mishustinae   S. flavus   S. agarivorans   S. catena   
 Characteristic
 Cell diameter (µm)                  0.5–0.8          0.5–0.7              0.5–0.7                   0.5–0.7         0.5–0.7            0.5–0.8
 Cell length (µm)                    1.2–11.5         2.7–5.3              2.5–5.1                   2.5–4.0         2.0–4.7            2.0–6.0
@@ -3400,10 +3056,7 @@ footnote a: Symbols: +, >85% positive; d, different strains give different react
 
 #####
 TABLE 66.  Whole-cell fatty acid composition (%) of some Salegentibacter species cultivated on marine 2216 agar at 20–30°Ca
-                                                           S. agarivorans
-                                                                                        S. mishustinae
-                                             S. salegens
-                                                                            S. catena
+   S. salegens   S. agarivorans   S. catena   S. mishustinae   
 Fatty acid
 Saturated fatty acids:
   C15:0                               7.6                  5.6              10.4        6.7
@@ -3442,8 +3095,7 @@ footnote a: −, Not detected or at a level below 1% total fatty acid content.
 
 #####
 TABLE 67.  Characters useful for differentiation of the species of Sejongia a
-                                                                S. antarctica
-                                                                                S. jeonii
+   S. antarctica   S. jeonii   
 Characteristic
 Growth at 30°C                                                   −              +
 Elastinase                                                       −              +
@@ -3525,9 +3177,7 @@ footnote a: Symbols: +, >85% positive; d, different strains give different react
 
 #####
 TABLE 70.  Differential characteristics of the genus Tenacibaculum and related generaa
-                                                   Tenacibaculum
-                                                                                   Polaribacter
-                                                                                                      Lutibacter
+   Tenacibaculum   Polaribacter   Lutibacter   
 Characteristic
 Cell morphology                                   Rods                     Pleomorphic rods          Rods
 Cell mass color                           Pale to bright yellow            Salmon to orange         Yellow
@@ -3546,14 +3196,7 @@ footnote a: Symbols: +, >85% positive; d, different strains give different react
 
 #####
 TABLE 71.  Differential characteristics of species of the genus Tenacibaculuma,b
-                                                                                                                                                                                     T. skagerrakense
-                                                                                    T. amylolyticum
-                                                                                                                                               T. mesophilum
-                                            T. maritimum
-                                                                                                                                                                  T. ovolyticum
-                                                                                                                            T. lutimaris
-                                                               T. aestuarii
-                                                                                                           T. litoreum
+   T. maritimum   T. aestuarii   T. amylolyticum   T. litoreum   T. lutimaris   T. mesophilum   T. ovolyticum   T. skagerrakense   
 Characteristic
 Cell size (µm)                         2–30 × 0.5          2–3.5 × 0.3           2–5 × 0.4            2–35 × 0.3–0.5     2–10 × 0.5        1.5–10 × 0.5        2–20 × 0.5         2–15 × 0.5
 Gliding motility                           +                    +                    +                      +                +                  +                  +                  −
@@ -3580,12 +3223,7 @@ footnote b: Data from Wakabayashi et al. (1986), Hansen et al. (1992), Suzuki 
 
 #####
 TABLE 72.  Differential biochemical characteristics of Wautersiella falsenii genomovars 1 and 2, Empedobacter brevis, and Weeksella virosaa,b
-                                         Wautersiella falsenii
-                                                                 Wautersiella falsenii
-                                                                                         Empedobacter brevis
-                                                                                                                  Weeksella virosa
-                                         genomovar 1
-                                                                 genomovar 2
+   Wautersiella falsenii genomovar 1   Wautersiella falsenii genomovar 2   Empedobacter brevis   Weeksella virosa   
 Characteristic
 Esculin hydrolysis, 4 h                         +                       −                    −                       −
 Galacturonate alkalinization                    +                       −                    −                       −
@@ -3604,12 +3242,7 @@ footnote b: Data from Kämpfer et al. (2006).
 
 #####
 TABLE 73.  Long-chain fatty acid composition of Wautersiella falsenii genomovars 1 and 2, Empedobacter brevis, and Weeksella virosaa,b
-                              Wautersiella falsenii
-                                                         Wautersiella falsenii
-                                                                                    Empedobacter brevis
-                                                                                                          Weeksella virosa
-                              genomovar 1
-                                                         genomovar 2
+   Wautersiella falsenii genomovar 1   Wautersiella falsenii genomovar 2   Empedobacter brevis   Weeksella virosa   
 Fatty acid
 Unknown 11.543c             1.25 ± 0.15                0.88 ± 0.45                   nd                   nd
 C13:0 iso                         tr                        nd                        tr                   1
@@ -3655,10 +3288,7 @@ footnote d: Fatty acids that could not be separated by GC using the Microbial Id
 
 #####
 TABLE 74.  Differential features of Winogradskyella speciesa,b
-                                        W. thalassocola
-                                                                                      W. poriferorum
-                                                          W. epiphytica
-                                                                          W. eximia
+   W. thalassocola   W. epiphytica   W. eximia   W. poriferorum   
 Characteristic
 H2S production                             −                 −              +            −
 Acetoin production                         −                 −              −            +
@@ -3694,11 +3324,7 @@ footnote b: Data are taken from Nedashkovskaya et al. (2005a) and Lau et al. (
 
 #####
 TABLE 75.  Whole-cell fatty acid composition of Zobellia speciesa
-                                         Z. galactanivorans
-                                                              Z. amurskyensis
-                                                                                Z. laminariae
-                                                                                                               Z. uliginosa
-                                                                                                Z. russellii
+   Z. galactanivorans   Z. amurskyensis   Z. laminariae   Z. russellii   Z. uliginosa   
 Characteristic
 Growth in/at:
   8% NaCl                                    +                   −                 −              +              −
@@ -3736,16 +3362,7 @@ footnote b: Data are taken from: Barbeyron et al. (2001), Bowman (2000), Bruns e
 
 #####
 TABLE 76.  Differential phenotypic characteristics of Zobellia speciesa,b
-                            Z. galactanivorans
-                                                                                   Z. russellii KMM
-                                                                                                      Z. uliginosa CIP
-                                                 Z. amurskyensis
-                                                                   Z. laminariae
-                                                 KMM 3526T
-                                                                   KMM 3676T
-                                                                                                      104808T
-                                                                                   3677T
-                            DsijT
+   Z. galactanivorans DsijT   Z. amurskyensis KMM 3526T   Z. laminariae KMM 3676T   Z. russellii KMM 3677T   Z. uliginosa CIP 104808T   
 Fatty acid
 Straight-chain:
   C14:0                         tr                1.0                 tr              tr                nd
@@ -3773,15 +3390,7 @@ footnote b: Summed feature 3 consists of one or more of the following fatty acid
 
 #####
 TABLE 81.  Characteristics differentiating the type strains of the species of Chitinophaga a,b
-                                                                                                                                                                                                                                                 C. japonensis NBRC 16041
-                                                                                                                                                                    C. ginsengisegetis Gsoil 040
-                                                                                                                         C. filiformis NBRC 150656
-                                                                                             C. arvensicola IAM 12650
-                                                                                                                                                                                                                C. ginsengisoli Gsoil 052
-                                                                                                                                                                                                                                                                             C. sancti NBRC 15057
-                                                                                                                                                                                                                                                                                                           C. skermanii CC-SG1B
-                                                               C. pinensis ACM 2034
-                                                                                                                                                                                                                                                                                                                                          C. terrae KP01
+   C. pinensis ACM 2034   C. arvensicola IAM 12650   C. filiformis NBRC 150656   C. ginsengisegetis Gsoil 040   C. ginsengisoli Gsoil 052   C. japonensis NBRC 16041   C. sancti NBRC 15057   C. skermanii CC-SG1B   C. terrae KP01   
 Characteristic
 Cell length (µm)                                               <40                      0.6–4                           30–80                               1.1–1.3                                     1.2–1.6                              2–18                           2–15                         1–2                       0.6–0.8
 Gliding motility                                                +                       +/−c                              +                                    −                                           −                                   +                              +                           −                           −
@@ -3803,23 +3412,7 @@ footnote c: Kämpfer et al. (2006) reported no gliding motility for IAM 12650T;
 
 #####
 TABLE 82.  Assimilation of carbon sources by the type strains of the species of Chitinophaga a,b
-                                                                                                                                                              C. ginsengisegetis
-                                                                                                                                                                                                                                                                                                         C. sancti NBRC
-                                                                                                       NBRC 150656
-                                                                                                                                                                                                                                                                                                                                                                          C. terrae KP01
-                                                                                                                                                                                                                  C. ginsengisoli
-                                                                                                                                                                                                                                                           NBRC 16041
-                                                             C. arvensicola
-                                                                                                                                                                                                                                                           C. japonensis
-                                                                                                                                                                                                                                                                                                                                                 C. skermanii
-                                                             IAM 12650
-                                                                                                       C. filiformis
-                                             ACM 2034
-                                             C. pinensis
-                                                                                                                                                              Gsoil 040
-                                                                                                                                                                                                                  Gsoil 052
-                                                                                                                                                                                                                                                                                                                                                 CC-SG1B
-                                                                                                                                                                                                                                                                                                         15057
+   ACM 2034 C. pinensis   C. arvensicola IAM 12650   NBRC 150656 C. filiformis   C. ginsengisegetis Gsoil 040   C. ginsengisoli Gsoil 052   NBRC 16041 C. japonensis   C. sancti NBRC 15057   C. skermanii CC-SG1B   C. terrae KP01   
 Carbon source
 N-Acetyl-d-glucosamine                          +                +                                        −                                                          +                                                +                                        +                                                   −                                +                      +
 Adonitol                                        −                −                                        −                                                         nd                                               nd                                        +                                                   −                                −                     nd
@@ -3915,23 +3508,7 @@ footnote b: Data from Hamana and Nakagawa (2001), Reichenbach (1989), and Sly et
 
 #####
 TABLE 86.  Descriptive and differential characteristics of members of the family Cytophagaceae
-                                   Adhaeribacter
-                                                     Arcicella
-                                                                   Cytophaga
-                                                                                 Dyadobacter
-                                                                                                  Effluviibacter
-                                                                                                                     Emticicia
-                                                                                                                                   Flectobacillus
-                                                                                                                                                      Flexibacter
-                                                                                                                                                                      Hymenobacter
-                                                                                                                                                                                       Larkinella
-                                                                                                                                                                                                      Leadbetterella
-                                                                                                                                                                                                                          Meniscus
-                                                                                                                                                                                                                                        Microscilla
-                                                                                                                                                                                                                                                        Pontibacter
-                                                                                                                                                                                                                                                                         Runella
-                                                                                                                                                                                                                                                                                       Spirosoma
-                                                                                                                                                                                                                                                                                                      Sporocytophaga
+   Adhaeribacter   Arcicella   Cytophaga   Dyadobacter   Effluviibacter   Emticicia   Flectobacillus   Flexibacter   Hymenobacter   Larkinella   Leadbetterella   Meniscus   Microscilla   Pontibacter   Runella   Spirosoma   Sporocytophaga   
 Characteristic
 Cell shape                        Rod               Rod           Rod           Rod              Rod                Rod           Rod                Rod             Rod              Rod            Rod                 Rod           Rod,       Rod                    Rod,         Rod,           Rod
                                                                                                                                                                                                                                       thread                          filament     filament
@@ -4002,7 +3579,7 @@ C. uliginosa                Zobellia uliginosa                                  
 
 #####
 TABLE 89.  Phospholipid and fatty acid composition of Arcicella and related organismsa,b
-                     Individual phospholipid (% of total)                                   Individual fatty acids (% of total)
+   Individual phospholipid (% of total)                                   Individual fatty acids (% of total)   
 Species                   PE           PG        AAPG    c
                                                                 14:0         15:1        15:0         16:0        16:1           17:1   18:0   18:1
 A. aquatica               35           27           38           2.5         4.4           2            2          77              0     1      0
@@ -4018,15 +3595,7 @@ footnote c: The main AAPGs of Arcicella aquatica are 2-N-(2¢-hydroxyisopentadec
 
 #####
 TABLE 90.  Characteristics differentiating the genus Arcicella from other morphologically similar generaa,b
-                                                                                                                                                                                                                                 Ancyclobacter rudongensis
-                                                                                                                                                                           Cyclobacterium mariensus
-                                                                                                                                                                                                       Ancyclobacter aquaticus
-                                                                                                                                                                                                                                                             Polaribacter glomeratus
-                                                                                                               Runella slithyformis
-                                                                                 Flectobacillus major
-                                                                                                                                                     Spirosoma linguale
-                                            Arcicella aquatica
-                                                                                                                                      Runella zea
+   Arcicella aquatica   Flectobacillus major   Runella slithyformis   Runella zea   Spirosoma linguale   Cyclobacterium mariensus   Ancyclobacter aquaticus   Ancyclobacter rudongensis   Polaribacter glomeratus   
 Characteristic
 Rings or toroids formed                         +                                    +                            +                    −                +                       +                     Rare                        +                              v
 Growth in absence of NaCl                       −                                    +                            +                    +                +                       −                      nd                        nd                              −
@@ -4050,12 +3619,7 @@ footnote b: Data taken from Nikitin et al. (2004), Larkin and Borrall (1984a), G
 
 #####
 TABLE 91.  Characteristics that differentiate the species of the genus Dyadobactera
-                                                                                                                                                     D. ginsengisoli (Gsoil 043)e
-                                                                                                                                                                                                                      D. koreensis (WPCB159T)g
-                                                             D. fermentans (NS-114T)b
-                                                                                                                         D. hamtensis (HHS 11T)d
-                                                                                            D. crusticola (C183-8T)c
-                                                                                                                                                                                        D. beijingensis (A54T)f
+   D. fermentans (NS-114T)b   D. crusticola (C183-8T)c   D. hamtensis (HHS 11T)d   D. ginsengisoli (Gsoil 043)e   D. beijingensis (A54T)f   D. koreensis (WPCB159T)g   
 Characteristic
 Source                                                      Plant                       Soil crusts                    Glacier                      Soil                            Rhizosphere-                  Freshwater
                                                           (Zea mays)                                                    water                                                        associated
@@ -4116,12 +3680,7 @@ Carbon compounds utilized:
 
 #####
 TABLE 91.  (Continued)
-                                                                                                                                                              D. ginsengisoli (Gsoil 043)e
-                                                                                                                                                                                                                       D. koreensis (WPCB159T)g
-                                                                            D. fermentans (NS-114T)b
-                                                                                                                                    D. hamtensis (HHS 11T)d
-                                                                                                        D. crusticola (C183-8T)c
-                                                                                                                                                                                             D. beijingensis (A54T)f
+   D. fermentans (NS-114T)b   D. crusticola (C183-8T)c   D. hamtensis (HHS 11T)d   D. ginsengisoli (Gsoil 043)e   D. beijingensis (A54T)f   D. koreensis (WPCB159T)g   
 Characteristic
 Sensitivity to antibiotics (mg/disc):
   Amoxycillin (30)                                                          nd                          nd                              R                     nd                                  S                        R
@@ -4176,16 +3735,7 @@ footnote g: Data from Baik et al. (2007a).
 
 #####
 TABLE 92.  Characteristics that differentiate the genus Dyadobacter from other related generaa
-                                                                                                                                                                       Reichenbachia d
-                                                                                                                                                                                           Leadbetterella e
-                                                                                        Flectobacillus c
-                                        Dyadobacter a
-                                                                                                                                                   Microscilla  c
-                                                                                                                                                                                                                Marincola  f
-                                                                                                                 Cytophaga c
-                                                                                                                                 Flexibacter c
-                                                                         Spirosoma
-                                                          Runellac
+   Dyadobacter a   Runellac   Spirosoma   Flectobacillus c   Cytophaga c   Flexibacter c   Microscilla c   Reichenbachia d   Leadbetterella e   Marincola f   
 Characteristic
 Colony color                          Yellow            Salmon         Yellow          Pink                    Bright          Orange            Orange             Orange               Orange               Orange
                                                                                                                yellow
@@ -4216,17 +3766,7 @@ footnote f: Data from Yoon et al. (2005).
 
 #####
 TABLE 93.  Differential characteristics of the genera Flectobacillus, Runella, Spirosoma, Cyclobacterium, Ancylobacter, Larkinella, Arcicella, and Polaribacter glomeratus a,b
-                                                                                                                                                                                                            Ancylobacter rudongensis
-                                                                                                                                                         Cyclobacterium marinum
-                                                                                                                                                                                                                                       Polaribacter glomeratus
-                                                                                                                                                                                   Ancylobacter aquaticus
-                                                                                            Runella slithyformis
-                                             Flectobacillus major
-                                                                                                                                   Spirosoma linguale
-                                                                    Flectobacillus lacus
-                                                                                                                                                                                                                                                                              Arcicella aquatica
-                                                                                                                   Runella zea
-                                                                                                                                                                                                                                                                 Larkinella
+   Flectobacillus major   Flectobacillus lacus   Runella slithyformis   Runella zea   Spirosoma linguale   Cyclobacterium marinum   Ancylobacter aquaticus   Ancylobacter rudongensis   Polaribacter glomeratus   Larkinella   Arcicella aquatica   
 Cell shape:
   Rings formed                               +                          −                       +                    −                 +                      +                   Rare                       +                              v                     +            +
   Coils or helices formed                   Rare                        −                       +                    −                 +                      +                    −                        nd                              +                     −            +
@@ -4280,16 +3820,16 @@ groupa                                           Species and strain             
                                                                                              Flavobacteriaceae
  2                    F. tractuosus NBRC 15980                                           Excluded from the genus Flexibacter, belongs to the family
                                                                                              Flavobacteriaceae
- 3                    “F. aurantiacus subsp. copepodarum” NBRC 15978T                    Excluded from the genus Flexibacter, belongs to the genus
+ 3                    "F. aurantiacus subsp. copepodarum" NBRC 15978T                    Excluded from the genus Flexibacter, belongs to the genus
                                                                                              Tenacibaculum
                       F. maritimus NBRC 15946T                                           Tenacibaculum maritimumb
                       F. ovolyticus NBRC 15947T                                          Tenacibaculum ovolyticumb
  4                    F. aurantiacus NBRC 15970T                                         Flavobacterium johnsoniaec
-                      “F. aurantiacus subsp. excathedrus” NBRC 16024T                    Excluded from the genus Flexibacter, belongs to the genus
+                      "F. aurantiacus subsp. excathedrus" NBRC 16024T                    Excluded from the genus Flexibacter, belongs to the genus
                                                                                              Flavobacterium
                       F. columnaris NBRC 15943T                                          Flavobacterium columnarec
                       F. psychrophilus NBRC 15942T                                       Flavobacterium psychrophilumc
- 5                    “F. aggregans subsp. catalaticus” NBRC 15977T                      Crocinitomix catalasiticad
+ 5                    "F. aggregans subsp. catalaticus" NBRC 15977T                      Crocinitomix catalasiticad
  6                    F. filiformis NBRC 15056T                                          Chitinophaga filiformise
                       F. japonensis NBRC 16041T                                          Chitinophaga japonensise
                       F. sancti NBRC 15057T, NBRC 16033, NBRC 16034                      Chitinophaga sanctie
@@ -4299,19 +3839,19 @@ groupa                                           Species and strain             
  9                    M. marina NBRC 16560T                                              Microscilla marina
 10                    F. ruber NBRC 16677T                                               Excluded from the genus Flexibacter
 11                    F. flexilis NBRC 15060T, NBRC 16025, NBRC 16026, NBRC 16027        Flexibacter flexilis
-12                    “F. flexilis subsp. pelliculosus” NBRC 16028T                      Excluded from the genus Flexibacter
+12                    "F. flexilis subsp. pelliculosus" NBRC 16028T                      Excluded from the genus Flexibacter
 13                    F. litoralis NBRC 15988T                                           Excluded from the genus Flexibacter
 14                    F. roseolus NBRC 16030                                             Excluded from the genus Flexibacter
 15                    F. polymorphus NBRC 16703T                                         Excluded from the genus Flexibacter
 16                    F. roseolus NBRC 16707T                                            Excluded from the genus Flexibacter
 17                    F. tractuosus NBRC 15989T, NBRC 15979, NBRC 15981                  Excluded from the genus Flexibacter
-                      “M. sericea” NBRC 15983T                                           Excluded from the genus Microscilla
-18                    “M. furvescens” NBRC 15994T                                        Excluded from the genus Microscilla
+                      "M. sericea" NBRC 15983T                                           Excluded from the genus Microscilla
+18                    "M. furvescens" NBRC 15994T                                        Excluded from the genus Microscilla
 19                    F. tractuosus NBRC 16035, NBRC 16482                               Excluded from the genus Flexibacter
 20                    F. aggregans NBRC 15974                                            Excluded from the genus Flexibacter
-21                    “M. sericea” NBRC 16561                                            Excluded from the genus Microscilla
+21                    "M. sericea" NBRC 16561                                            Excluded from the genus Microscilla
 22                    F. aggregans NBRC 15976T, NBRC 15973, NBRC 15990                   Flexithrix dorotheaef
-23                    “M. arenaria” NBRC 15982T                                          Flammeovirga arenariag
+23                    "M. arenaria" NBRC 15982T                                          Flammeovirga arenariag
 24                    F. tractuosus NBRC 16037, NBRC 16038                               Excluded from the genus Flexibacter, probably belongs
                                                                                              to the genus Perexilibacter
 footnote a: Nakagawa et al. (2002).
@@ -4328,14 +3868,7 @@ footnote g: Takahashi et al. (2006).
 
 #####
 TABLE 95.  Characteristics differentiating the species of the genus Flexibactera,b
-                                                                                                                                 F. polymorphus
-                                                                  F. canadensis
-                                                                                                                                                                                    F. tractuosus
-                                                                                                                                                      F. roseolus
-                                                                                                              F. litoralis
-                                                                                          F. elegans
-                                                F. flexilis
-                                                                                                                                                                     F. ruber
+   F. flexilis   F. canadensis   F. elegans   F. litoralis   F. polymorphus   F. roseolus   F. ruber   F. tractuosus   
 Characteristic
 Length of threads (mm)                       10–60               2–60                  10 to >50      >180                       >200               >50              >50          5 to >50
 Width of threads (mm)                          0.5              0.4–0.5                 0.4–0.5      0.5–0.7                    0.6–1.1              nd               nd             0.5
@@ -4367,15 +3900,7 @@ footnote b: Data from Reichenbach (1989a, b) and Bergey’s Manual of Determinat
 
 #####
 TABLE 96.  Differential characteristics among species of the genus Hymenobacter a
-                                                                                                                                H. gelipurpurascens
-                                                                      H. roseosalivarius
-                                                                                                                                                                                                                   H. xinjiangensis
-                                                                                                             H. chitinivorans
-                                                                                           H. norwichensis
-                                                                                                                                                                     H. actinosclerus
-                                                                                                                                                                                        H. aerophilus
-                                                                                                                                                      H. ocellatus
-                                                                                                                                                                                                        H. rigui
+   H. roseosalivarius   H. norwichensis   H. chitinivorans   H. gelipurpurascens   H. ocellatus   H. actinosclerus   H. aerophilus   H. rigui   H. xinjiangensis   
 Characteristic
 Growth at/in:
   1% NaCl                                                             +b                      −                 +               +                       +            nr                   +             +          −
@@ -4427,15 +3952,7 @@ footnote d: Collins et al. (2000) reported growth at 42°C.
 
 #####
 TABLE 97.  Fatty acid profiles of Hymenobacter species a
-                                                                                                 H. gelipurpurascens
-                                                        H. roseosalivarius
-                                                                              H. chitinivorans
-                                                                                                                                                                                               H. norwichensis
-                                                                                                                                                                            H. actinosclerus
-                                                                                                                                                                                                                 H. xinjiangenis
-                                                                                                                                                            H. aerophilus
-                                                                                                                                          H. ocellatus
-                                                                                                                               H. rigui
+   H. roseosalivarius   H. chitinivorans   H. gelipurpurascens   H. rigui   H. ocellatus   H. aerophilus   H. actinosclerus   H. norwichensis   H. xinjiangenis   
 C13:0 iso                                                −                     0.6                 −                            −          0.6               −                −                  −                 −
 C14:0                                                    −                      −                  −                            −           −                −                −                 1.3               1.3
 Unknown 13.565                                           −                     0.5                0.8                           −           −                −                −                  −                 −
@@ -4479,10 +3996,10 @@ TABLE 98.  Phylogenetic groups of Microscilla strains and their present classi
 Phylogenetic group                  Species and strain                        Present classification
 1                          Microscilla marina NBRC 16560 T
                                                                      Microscilla marina
-2                          “Microscilla arenaria” NBRC 15982T        Flammeovirga arenariaa
-3                          “Microscilla furvescens” NBRC 15994T      Excluded from the genus Microscilla
-4                          “Microscilla sericea” NBRC 15983T         Excluded from the genus Microscilla
-5                          “Microscilla sericea” NBRC 16561          Excluded from the genus Microscilla
+2                          "Microscilla arenaria" NBRC 15982T        Flammeovirga arenariaa
+3                          "Microscilla furvescens" NBRC 15994T      Excluded from the genus Microscilla
+4                          "Microscilla sericea" NBRC 15983T         Excluded from the genus Microscilla
+5                          "Microscilla sericea" NBRC 16561          Excluded from the genus Microscilla
 footnote a: Takahashi et al. (2006).
 
 
@@ -4491,7 +4008,7 @@ footnote a: Takahashi et al. (2006).
 
 #####
 TABLE 99.  Characteristics differentiating the species of the genus Microscillaa,b
-Characteristic                        M. marina “M. furvescens” “M. sericea”
+Characteristic                        M. marina "M. furvescens" "M. sericea"
 Length of threads (mm)                   >150            10–50          30 to >100
 Salinity range (Sc)                       1–2             nd              0.5–2
 Glutamate                                  −               +                 −
@@ -4633,19 +4150,7 @@ footnote b: Data from Nedashkovskaya et al. (2005) and Ying et al. (2006).
 
 #####
 TABLE 104.  Fatty acid composition (%) of the Algoriphagus speciesa,b
-                                                                                                                                                                                                                 7. A. mannitolivorans KCTC 12050T
-                                                                                                                                                                                                                                                      8. A. ornithinivorans KCTC 12052T
-                                                                                                                                                                                                                                                                                                                                                                                         12. A. winogradskyi KMM 3956T
-                                                                                                                                                                                                                                                                                                                                                        11. A. vanfongensis KMM 6241T
-                                                            2. A. aquimarinus KMM 3958T
-                                                                                                                                                                                                                                                                                                                                                                                                                          13. A. yeomjeoni KCTC 12309T
-                                                                                                                                                   5. A. halophilus KCTC 12051T
-                                                                                                                                                                                                                                                                                                                        10. A. terrigena KCTC 12545T
-                                                                                                                                                                                                                                                                                           9. A. ratkowskyi ACAM 646T
-                                                                                                                                                                                  6. A. locisalis KCTC 12310T
-                                                                                                                      4. A. chordae KMM 3957T
-                               1. A. alkaliphilus AC-74T
-                                                                                           3. A. boritolerans T-22T
+   1. A. alkaliphilus AC-74T   2. A. aquimarinus KMM 3958T   3. A. boritolerans T-22T   4. A. chordae KMM 3957T   5. A. halophilus KCTC 12051T   6. A. locisalis KCTC 12310T   7. A. mannitolivorans KCTC 12050T   8. A. ornithinivorans KCTC 12052T   9. A. ratkowskyi ACAM 646T   10. A. terrigena KCTC 12545T   11. A. vanfongensis KMM 6241T   12. A. winogradskyi KMM 3956T   13. A. yeomjeoni KCTC 12309T   
 Fatty acid
 C15:0                          1.6                          1.6                            0.6                         2.5                         1.0                             1.5                           3.0                                  2.7                                  1.6                           0.3                            0.7                              1.2                              0.6
 C16:0                          0.4                          1.7                            3.2                         1.4                                                         0.7                           0.2                                  0.3                                  2.9                                                          0.3                              1.0                              0.8
@@ -4744,8 +4249,7 @@ Summed feature 4d                  0–4.9                    2.5          0–5
 Summed feature 5e                    −                       −             −                    −                −                  6.5
 footnote a: Data are taken from Ahmed et al. (2007), Brettar et al. (2004a, b), Nedashkovskaya et al. (2004, 2005, 2006, 2007a, b), Schmidt et al. (2006), Ying et al. (2006), Yoon et al. (2005a, b, 2006).
 footnote b: Predominant fatty acids are shown in bold. Values of less than 1% for all strains are not shown.
-c–e
-     Summed features consist of one or more fatty acids that could not be separated by the Microbial Identification System.
+footnotes c–e: Summed features consist of one or more fatty acids that could not be separated by the Microbial Identification System.
 footnote c: Summed feature 3 is C15:0 iso 2-OH and/or C16:1 w7c.
 footnote d: Summed feature 4 is C17:1 iso I and C17:1 anteiso B.
 footnote e: Summed feature 5 is C14:0 2-OH and/or C15:0 iso 2-OH.
@@ -4756,21 +4260,7 @@ footnote e: Summed feature 5 is C14:0 2-OH and/or C15:0 iso 2-OH.
 
 #####
 TABLE 107.  Phenotypic characteristics of the Algoriphagus speciesa,b
-                                                                                                                                                                                                                           10. A. ornithinivorans
-                                                                                                                                                                               8. A. mannitolivorans
-                                                                                                                                                                                                                                                                                              13. A. vanfongiensis
-                                                                                                                                                                                                                                                                                                                      14. A. winogradskyi
-                                                                             3. A. aquimarinus
-                                   1. A. alkaliphilus
-                                                                                                                                                                                                                                                     11. A. ratkowskyi
-                                                                                                  4. A. boritolerans
-                                                         2. A. antarcticus
-                                                                                                                                                                                                                                                                                                                                             15. A. yeomjeoni
-                                                                                                                                         6. A. halophilus
-                                                                                                                                                                                                                                                                          12. A. terrigena
-                                                                                                                                                                                                        9. A. marincola
-                                                                                                                                                            7. A. locisalis
-                                                                                                                        5. A. chordae
+   1. A. alkaliphilus   2. A. antarcticus   3. A. aquimarinus   4. A. boritolerans   5. A. chordae   6. A. halophilus   7. A. locisalis   8. A. mannitolivorans   9. A. marincola   10. A. ornithinivorans   11. A. ratkowskyi   12. A. terrigena   13. A. vanfongiensis   14. A. winogradskyi   15. A. yeomjeoni   
 Characteristic
 Nitrate reduction                      +                     −                   −                    −                    −                −                  −                    +                      d                    −                       d                    +                    −                       +                     −
 NaCl requirement                       −                     −                   −                    −                    +                −                  +                    −                      +                    −                       d                    +                    −                       −                     +
@@ -4975,21 +4465,7 @@ footnote b: Data are from Nedashkovskaya et al. (2006, 2007a).
 
 #####
 TABLE 143.  Differential characteristics of the species of the genus Acholeplasma a
-                                                                          A. cavigenitalium
-                                                                                                                A. granularum
-                                                                                                                                                                      A. multilocale
-                                             A. axanthum
-                                                                                               A. equifetale
-                                                                                                                                              A. modicum
-                              A. laidlawii
-                                                                                                                                A. hippikon
-                                                           A. brassicae
-                                                                                                                                                                                                              A. parvum
-                                                                                                                                                                                                  A. palmae
-                                                                                                                                                           A. morum
-                                                                                                                                                                                                                          A. pleciae
-                                                                                                                                                                                                                                          A. vituli
-                                                                                                                                                                                       A. oculi
+   A. laidlawii   A. axanthum   A. brassicae   A. cavigenitalium   A. equifetale   A. granularum   A. hippikon   A. modicum   A. morum   A. multilocale   A. oculi   A. palmae   A. parvum   A. pleciae   A. vituli   
 Characteristic
 Glucose fermentation            +              +            +              +                   +                   +             +              +           +          +                +          +           −           +               +
 Mannose fermentation            −              −            −              −                   +                   −             +              −           −          +                −          −          nd          nd               +
