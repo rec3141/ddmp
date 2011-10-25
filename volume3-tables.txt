@@ -3246,7 +3246,6 @@ Utilization of:
 #####
 TABLE 51. (continued)
 Characteristic                                   1. A. aneurinilyticusb    2. A. danicusc       3. A. migulanusb         4. A. terranovensisd      5. A. thermoaerophilusc
-                                                                                                                                    e
   Succinate                                                 +                                            +                         d                          +
   Sucrose                                                   −                     −                      −                         de                         −
   Tagatose                                                  d                     +                      −                         −                          −
@@ -4304,7 +4303,6 @@ b
 TABLE 71. Differential phenotypic and physiological characteristics of species of the genus Sporosarcin aa
                                                                                                   S. macmur-
 Characteristic                S. ureae      S. aquimarina S. globispora         S. koreensis        doensis           S. pasteurii   S. psychrophila S. saromensis S. soli
-               b
 Colony color                     W                 O                W                O                W                   W                W               B          O
 Cell shapec                       S                R                R                R                R                   R                R               R          R
 Spore positiond                  NA                T                T                T                ST                  T                T               T          C
@@ -8879,7 +8877,6 @@ Characteristic
 
 Cells motile             –            +                    –              –             –            –            –           –           –               d                   +–            –              –                      –                 +              –             +            −+               –           –           –             –            +                +−              –                 –            –                  +            +                  –                   –            d            –                –              –             –            –          –                d          –              –             –               –                 +                      +                            +
 Acid produced from:
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                            b
    Amygdalin              –           NR                   NR             NR –                        –           –            –          NR              w                    –  −w  +                                            –                –               –             –  –                          –           –          –  –   –  –  –                                                                –            –                  –            −±                 NR                   –           A−            –  –                           –              –           –           –  –                        –             NR            −A              NR                NR                     NR                           NR
    Arabinose             −A           NR                   NR             NR –                        –           –            –          NR               –                   –  Aw w                                             –                –               –             – −A                         −A           –          –  –   –  –  –                                                                –            –                  –             ±                  −                  −w           Aw           Aw –                            –              –           –           –  –                        –              +             –               –                NR                     NR                           NR
    Cellobiose             –           NR                   NR             NR –                       −A           –           wA          NR              wA                   –  A− w                                            −w                –               –            As  −                         −w           –          –  –   – w− wA                                                                –            –                  –             ±                  −                   A           Aw           A   –                           –             wA           –           –  –                       −w             NR             –               +                NR                     NR                           NR
@@ -9816,11 +9813,8 @@ Fermentation of:
    Trehalose                                                         +               
 Fermentation end productsb                                        a, b, l
 Enzyme profilec                                              45 1/5 0 2000 00        
-a
-                                                                                     
-  Symbols: +, >85% positive; d, different strains give different reactions (16–84%
-                                                                                     
-positive); −, 0–15% positive; v, variation among different colony morphotypes.
+a                                                                                  
+  Symbols: +, >85% positive; d, different strains give different reactions (16–84% positive); −, 0–15% positive; v, variation among different colony morphotypes.
 b
   a, Acetate; b, butyrate; l, lactate.                                               
 c
@@ -10922,7 +10916,6 @@ c
 #####
 TABLE 204. Characteristics useful in differentiation of the genus Anaeroglobus from other closely related generaa,b
 Characteristics                          Anaeroglobus                     Megasphaera                         Veillonella           Acidaminococcus
-                                                                                      c
 Cell diameter (μm)                          0.5–1.1                          0.4–2.6                           0.3–0.5                  0.6–1.0
 Gas production                                 −                                +                                 +                        +
 Acid production from:
@@ -11382,7 +11375,6 @@ Decarboxylation of:
                                                                                                  
 a
   Symbols: +, >85% positive; −, 0–15% positive.
-b
 
 #####
 TABLE 220. Characteristics differentiating Soehngenia from phylogenetically related bacteriaa
@@ -12233,7 +12225,6 @@ C18         Octadecane                    2.5                  1.2
 #####
 TABLE 246. Major discriminating characteristics of subspecies of Caldanaerobacter subterraneusa
                                                                                 Caldanaerobacter subterraneus subsp.
-                                                            b
 Characteristic                                subterraneus           tengcongensisc                   yonseiensisd         pacificuse
 Source                                           Oil well             Hot spring               Geothermal water        Hydrothermal vent
 Temperature range (°C)                           40–75                 50–80                        50–85                   50–80

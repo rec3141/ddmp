@@ -302,10 +302,7 @@ Fermentation ­ roductsc
               p              s, a (l, f, p)          H2, CO2, a,                a (f, s, l)               A, F                          A, F (l)e                   H2, CO2,                  S, A, P                  H2, CO2,
                                                      ethanol, ld                                     (l, ethanol)e                                               ethanol, a (b)             (b, ib, iv, l)            ethanol, a
 a
-  Symbols: +, >85% positive; d, different strains give different reactions (16–84% positive); –, 0–15% positive; w, weak reaction; nr, not reported. Fermentation ­ roducts:
-                                                                                                                                                                       p
-A, acetic acid; B, butyric acid; F, formic acid; ib, isobutyric acid; iv, isobutyric acid; l, lactic acid; p, propionic acid; S, succinic acid. Upper-case letters indicate >1
-meq/100 ml of broth; lower-case letters, <1 meq/100 ml; products in parentheses may or may not be detected.
+  Symbols: +, >85% positive; d, different strains give different reactions (16–84% positive); –, 0–15% positive; w, weak reaction; nr, not reported. Fermentation ­ products: A, acetic acid; B, butyric acid; F, formic acid; ib, isobutyric acid; iv, isobutyric acid; l, lactic acid; p, propionic acid; S, succinic acid. Upper-case letters indicate >1 meq/100 ml of broth; lower-case letters, <1 meq/100 ml; products in parentheses may or may not be detected.
 b
   Bacteroides ureolyticus is not included because it was described under the genus Campylobacter in Bergey’s Manual of Systematic Bacteriology, 2nd edition, vol. 2, part C.
 c
@@ -350,8 +347,7 @@ Substrates fermented:
   Glycerol                                           nr                          D                       nr                              nr
 DNA G+C content (mol%)                               47                        45–47                     62                            37–44
 a
- Symbols: +, >85% positive; −, 0–15% positive; D, different reactions occur in different taxa (species of genus or genera of a family); w, weak reaction; nr, not
-reported.
+ Symbols: +, >85% positive; −, 0–15% positive; D, different reactions occur in different taxa (species of genus or genera of a family); w, weak reaction; nr, not reported.
 b
   Except in the absence of Vitamin B12, when filaments up to 50 mm long may be formed.
 
@@ -749,12 +745,6 @@ TABLE 17.  Salient characteristics of the species of the genus Dysgon-
 
 
 
-#####
-TABLE 18.  Fermentation profiles of species of the genus Dysgonomonas aomonas a
-
-
-
-
                                                                                               
                                                 D. capnocytophagoides
 
@@ -803,6 +793,12 @@ a
  Symbols: +, >85% positive; d, different strains give different reactions (16–84%
 positive); -, 0–15% positive; nd, not determined.
 
+
+
+
+#####
+TABLE 18.  Fermentation profiles of species of the genus Dysgonomonas aomonas a
+
                                                           D. capnocytophagoides
 
 
@@ -835,9 +831,7 @@ d-Sorbitol                                  -              -                    
 Starch                                      +             nd                      nd
 Trehalose                                   +              -                       +
 a
- Symbols: +, >85% positive; -, 0–15% positive; w, weak reaction; nd, not deter-
-
-mined.
+ Symbols: +, >85% positive; -, 0–15% positive; w, weak reaction; nd, not determined.
 
 
 
@@ -1411,7 +1405,6 @@ Colony morphology on                 nd           Flat, circular, with entire   
    Anacker and Ordal’s agar                                 margins               lobate to rhizoid      sunk into the agar             margins             with filamentous   with entire
                                                                                        marginsc                                                                 marginsc      or spreading
                                                                                                                                                                                 marginsc
-                                                                                                                                                                       c
 Adsorption of Congo red               −                       −                          −c                       −                       −c, +d                     −               −
 Gliding motility                      +                     +c, −d                       +c                       +                         −                        +             +c, −d
 Presence of spheroplasts             nd                       −                         (+)c                      −                         −                        −               −
@@ -1648,11 +1641,6 @@ Production of:
   H2S                                        nd                       −                                −                          +                           +
 Nitrate reduction                             −                       −                                −                         V                            −
 DNA G+C content (mol%)g                      39                     32–34                             37                         36                          34
-
-
-#####
-TABLE 24.  (Continued)
-
 a
  Symbols: +, 90% or more of the strains are positive; −, 10% or less of the strains are positive; (+), 90% or more of the strains give a weak or delayed positive response; d, 11–89% of the strains are positive; V, varies between
 authors; nd, no data available.
@@ -1667,8 +1655,7 @@ c
 d
     Data from the original description.
 e
- Extreme values of growth temperature and NaCl concentration ranges must be interpreted with care: bacterial growth may still be possible between them and the next lower or higher temperatures or NaCl concentra-
-tions tested.
+ Extreme values of growth temperature and NaCl concentration ranges must be interpreted with care: bacterial growth may still be possible between them and the next lower or higher temperatures or NaCl concentrations tested.
 f
 Degradation of starch by Flavobacterium columnare strains is medium-dependent (see comments on this species in the text).
 g
@@ -2007,13 +1994,6 @@ Unknown: f
   ECL 16.582
   ECL unspecified                                                                                        1
 
-                                                                                                                                                         (Continued)
-                                                                         Genus I. Flavobacterium                                                                            125
-
-
-
-
-
 
 #####
 TABLE 25.  (Continued)
@@ -2310,8 +2290,7 @@ Hydroxy fatty acids:
   C17:0 3-OH anteiso                    2.9              4.2                 nd               4.0                     
 Other                                   2.7              2.5                  tr               tr                     
 a
- Values are given as percentages of total fatty acids; tr, trace level detected (<1% of                               
-total fatty acids); nd, not detected.                                                                                 
+ Values are given as percentages of total fatty acids; tr, trace level detected (<1% of total fatty acids); nd, not detected.                                                                                 
 
 
 
@@ -3811,7 +3790,6 @@ e
     Grows at 5°C.
 f
 Except Polaribacter butkevichii which has not been determined.
-g
 
 
 #####
@@ -5266,8 +5244,7 @@ d
 
 
 #####
-TABLE 85.  Characteristics that differentiate the genus Haliscomenobacter from Saprospira grandis and the genus
-Lewinella a,b
+TABLE 85.  Characteristics that differentiate the genus Haliscomenobacter from Saprospira grandis and the genus Lewinella a,b
 
 Characteristic                                             Haliscomenobacter                 S. grandis     Lewinella
 Length of cells (mm)                                             3–5                          1–5.5            2–3
@@ -6050,8 +6027,7 @@ Expressed as strength of seawater (S); 0 = freshwater.
 
 
 #####
-TABLE 100.  Cellular fatty acid content of Pontibacter actiniarum and its closest relative
-Adhaeribacter aquaticus a
+TABLE 100.  Cellular fatty acid content of Pontibacter actiniarum and its closest relative Adhaeribacter aquaticus a
 
 Fatty acid                               P. actiniarum KMM 6156T               A. aquaticus MBRG 1.5T
 C10:0 iso                                              −                                    1.2
