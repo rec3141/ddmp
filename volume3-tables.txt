@@ -5,7 +5,7 @@
 
 #####
 TABLE 1. Phenotypic characteristics of genera belonging to the family Bacillaceae a
-   1. Bacillus   2. Alkalibacllus   3. Amphibacillus   4. Anoxybacillus   5. Cerasibacillus   6. Filobacillus   7. Geobacillus   8. Gracilibacillus   9. Halobacillus   10. Halolactibacillus   11. Lentibacillus   12. Marinococcus   13. Oceanobacillus   14. Paraliobacillus   15. Pontibacillus   16. Saccharococcus   17. Tenuibacillus   18. Thalassobacillus   19. Virgibacillus   
+	1. Bacillus   2. Alkalibacllus   3. Amphibacillus   4. Anoxybacillus   5. Cerasibacillus   6. Filobacillus   7. Geobacillus   8. Gracilibacillus   9. Halobacillus   10. Halolactibacillus   11. Lentibacillus   12. Marinococcus   13. Oceanobacillus   14. Paraliobacillus   15. Pontibacillus   16. Saccharococcus   17. Tenuibacillus   18. Thalassobacillus   19. Virgibacillus   
 Number of species in genus             141            4                  3                  10                 1                   1                  17              4                     4                2                        4                  3                  3                    1                      2                  1                    1                   1                      9
 Gram reaction                         +/v/−           +                  +                   +                 +                   −                 +/−              +                     +                +                        v                  +                  +                    +                      +                  +                    +                   +                      +
 Predominant cell shape:
@@ -183,7 +183,7 @@ footnote f: Assimilation data for Bacillus simplex are for the type strain only.
 
 #####
 TABLE 5. Differentiation of Bacillus subtilis from closely related Bacillus speciesa,b
-   1. B. subtilis subspp.   subtilis and spizizeniic   6. B. amyloliquefaciens   11. B. atrophaeus   51. B. licheniformis   57. B. mojavensis   73. B. pumilus   83. B. sonorensis   91. B. vallismortis   
+	1. B. subtilis subspp.   subtilis and spizizeniic   6. B. amyloliquefaciens   11. B. atrophaeus   51. B. licheniformis   57. B. mojavensis   73. B. pumilus   83. B. sonorensis   91. B. vallismortis   
 Characteristic
 Pigmented colonies
    Yellow-pink-red                        −d                       −                      −                     −                      −                  −              we                   −
@@ -218,7 +218,7 @@ footnote f: This species accommodates strains forming brownish-black pigment on 
 
 #####
 TABLE 6. Differentiation of alkaliphilic Bacillus speciesa,b
-   3. B. agaradhaerens   4. B. alcalophilus   5. B. algicola   9. B. arseniciselenatis   20. B. clarkii   23. B. cohnii   40. B. halodurans   43. B. horti   49. B. krulwichiae   65. B. okuhidensis   67. B. pseudalcalophilus   68. B. pseudofirmus   76. B. selenitireducens   88. B. thermocloacae   92. B. vedderi   
+	3. B. agaradhaerens   4. B. alcalophilus   5. B. algicola   9. B. arseniciselenatis   20. B. clarkii   23. B. cohnii   40. B. halodurans   43. B. horti   49. B. krulwichiae   65. B. okuhidensis   67. B. pseudalcalophilus   68. B. pseudofirmus   76. B. selenitireducens   88. B. thermocloacae   92. B. vedderi   
 Characteristic
 Colonies pigmented                       −                     −                    +c                 −c                        +c               −                −                    −               −                     −                     −                         +c                      −c                               −               −
 Motility                                nd                    nd                    +                  −                         nd               +               nd                    +               +                     +                    nd                         nd                      −                                −               +
@@ -269,7 +269,7 @@ footnote d: Bacillus arseniciselenatis does not grow aerobically; Bacillus selen
 
 #####
 TABLE 7. Differentiation of Bacillus cereus from closely related Bacillus speciesa,b.
-   7. B. anthracis   18. B. cereus   60. B. cereus (emetic biovar)c   58. B. mycoides   69. B. pseudomycoides   89. B. thuringiensis   95. B. weihenstephanensis   
+	7. B. anthracis   18. B. cereus   60. B. cereus (emetic biovar)c   58. B. mycoides   69. B. pseudomycoides   89. B. thuringiensis   95. B. weihenstephanensis   
 Characteristic
 Motility                         −                 +                  +                             −                  −                       +                      +
 Rhizoid colonies                 −                 −                  −                             +                  +                       −                      −
@@ -299,7 +299,7 @@ footnote d: Citrate test results may vary according to the test method used; Gor
 
 #####
 TABLE 8. Differentiation of thermophilic Bacillus speciesa,b
-   2. B. aeolius   33. B. fumarioli   46. B. infernus   56. B. methanolicus   75. B. schlegelii   87. B. thermoamylovorans   88. B. thermocloacae   90. B. tusciae   
+	2. B. aeolius   33. B. fumarioli   46. B. infernus   56. B. methanolicus   75. B. schlegelii   87. B. thermoamylovorans   88. B. thermocloacae   90. B. tusciae   
 Characteristic
 Motility                         +               +                  −                 −                     +                   +                           −                      +
 Spore formation:                nd               +                  −                 +                     +                   −                           d                      +
@@ -360,7 +360,7 @@ footnote c: For Bacillus fumarioli, acid production from carbohydrates is tested
 
 #####
 TABLE 9. Differentiation of spherical-spored Bacillus speciesa,b
-   35. B. fusiformis   47. B. insolitus   61. B. neidei   64. B. odysseyi   70. B. psychrodurans   72. B. psychrotolerans   74. B. pycnus   75. B. schlegelii   78. B. silvestris   84. B. sphaericus   
+	35. B. fusiformis   47. B. insolitus   61. B. neidei   64. B. odysseyi   70. B. psychrodurans   72. B. psychrotolerans   74. B. pycnus   75. B. schlegelii   78. B. silvestris   84. B. sphaericus   
 Characteristic
 Cell diameter >1.0 mm                   −                   v                 −               −                   −                      −                       +                −                   −                   −
 Spores:
@@ -409,7 +409,7 @@ footnote d: Mosquitocidal strains of Bacillus sphaericus produce parasporal toxi
 
 #####
 TABLE 10. Differential characteristics of Alkalibacillus speciesa
-   1. A. haloalkaliphilus   2. A. filiformis   3. A. salilacus   4. A. silvisoli   
+	1. A. haloalkaliphilus   2. A. filiformis   3. A. salilacus   4. A. silvisoli   
 Characteristic
 Motility                                             +                                 −                       +                   +
 Gram stain                                           −                                 +                       +                   +
@@ -439,7 +439,7 @@ footnote a: Data are based on Table 1 in Usami et al. (2007). w, Weak.
 
 #####
 TABLE 11. Differential characteristics of Amphibacillus species and members of closely related genera in the phylogenetic treea
-   Amphibacillus xylanusb   Amphibacillus fermentumc   Amphibacillus tropicusc   Halolactibacillus halophilusd   Halolactibacillus miurensisd   Paraliobacillus ryukyuensise   Gracilibacillus halotoleransf   Gracilibacillus dipsosaurif   
+	Amphibacillus xylanusb   Amphibacillus fermentumc   Amphibacillus tropicusc   Halolactibacillus halophilusd   Halolactibacillus miurensisd   Paraliobacillus ryukyuensise   Gracilibacillus halotoleransf   Gracilibacillus dipsosaurif   
 Characteristic
 Spore formation                +         +                           +                  −                   −                  +                 +                 +
 Anaerobic growth               +         +                           +                  +                   +                  +                 −                 −
@@ -467,7 +467,7 @@ footnote g: Pyruvate is produced under aerobic conditions.
 
 #####
 TABLE 12. Distinctive characteristics of the genus Anoxybacillus and other endospore-forming generaa
-   Anoxybacillusd   Alkaliphiluse   Amphibacillusf   Anaerovirgulag   Bacillush   Clostridiumi   Desulfotomaculumj   Sporolactobacillusk   Tindallial,m   
+	Anoxybacillusd   Alkaliphiluse   Amphibacillusf   Anaerovirgulag   Bacillush   Clostridiumi   Desulfotomaculumj   Sporolactobacillusk   Tindallial,m   
 Feature
 Motility                 +/−                     +                +                    +                      +              +                +/−                     +                       +/−
 Gram reaction             +                      +                +                    +                      +            +/−                +/−                     +                         +
@@ -505,7 +505,7 @@ footnote m: Data from Kevbrin et al. (1998).
 
 #####
 TABLE 13. Diagnostic characteristics for species of genus Anoxybacillusa
-   1. A. pushchinoensisb   2. A. amylolyticusc   3. A. ayderensisd   4. A. contaminanse   5. A. flavithermusf   6. A. gonensisg   7. A. kamchatkensish   8. A. kestanbolensisi   9. A. rupiensisj   10. A. voinovskiensisk   
+	1. A. pushchinoensisb   2. A. amylolyticusc   3. A. ayderensisd   4. A. contaminanse   5. A. flavithermusf   6. A. gonensisg   7. A. kamchatkensish   8. A. kestanbolensisi   9. A. rupiensisj   10. A. voinovskiensisk   
 Characteristic
 Yellow colonies                 −                                   −                            −                          −                             +                    −                 −                       −                      −                   −
 Motility                        −                                   +                            +                          +                             +                    +                 +                       +                      +                   −
@@ -536,7 +536,7 @@ footnote k: Data from Yumoto et al. (2004a).
 
 #####
 TABLE 14. Descriptive table of Anoxybacillus speciesa
-   1. A. pushchinoensisd   5. A. flavithermuse   6. A. gonensisf   4. A. contaminansg   10. A. voinoskiensish   3. A. ayderensisi   8. A. kestanbolensisj   2. A. amylolyticusk   9. A. rupiensisl   7. A. kamchattkensism   
+	1. A. pushchinoensisd   5. A. flavithermuse   6. A. gonensisf   4. A. contaminansg   10. A. voinoskiensish   3. A. ayderensisi   8. A. kestanbolensisj   2. A. amylolyticusk   9. A. rupiensisl   7. A. kamchattkensism   
 Characteristic
 Cell diameter, length          0.5–0.6, 3.0–5.0                0.85, 2.3–7.1                0.75, 5.0             0.7–1.0, 4.0–10.0            0.4–0.6,                    0.55, 4.6                  0.65, 4.75                    0.5, 2.0–2.5                 0.7–1.5,             1.0, 2.5–8.8
    (μm)                                                                                                                                        1.5–5.0                                                                                                           3.3–7.0
@@ -589,7 +589,7 @@ footnote m: Data from Kevbrin et al. (2005).
 
 #####
 TABLE 15. Characteristics differentiating Filobacillus from other physiologically or morphologically similar taxaa
-   Filobacillus milensisb   Bacillus agaradhaerensc   Bacillus haloalkaliphilusc   Bacillus halophilusd   Bacillus marismortuie   Bacillus pseudofirmusc   Gracilibacillus dipsosaurif   Gracilibacillus halotoleransg   Halobacillus halophilush   Halobacillus litoralisi   Marinococcus albusi   Salibacillus salexigensj   Virgibacillus pantothenticusk   
+	Filobacillus milensisb   Bacillus agaradhaerensc   Bacillus haloalkaliphilusc   Bacillus halophilusd   Bacillus marismortuie   Bacillus pseudofirmusc   Gracilibacillus dipsosaurif   Gracilibacillus halotoleransg   Halobacillus halophilush   Halobacillus litoralisi   Marinococcus albusi   Salibacillus salexigensj   Virgibacillus pantothenticusk   
 Characteristic
 Spore shape                                        S                            E                           S                             E                        E                         E                          S                               E                                  S                            E/S                          −                      E                           E/S
 Sporangium position                               T                            ST                           T                             C                       T/ST                      ST                          T                               T                                C/T                           C/ST                         NA                    C/ST                           T
@@ -665,7 +665,7 @@ footnote a: Symbols: +, >85% positive; −, 0–15% positive.
 
 #####
 TABLE 17. Differentiation of Geobacillus speciesa,b
-   1. G. stearothermophilus   2. G. caldoxylosilyticus   3. G. debilis   4. G. gargensis   5. G. jurassicus   6. G. kaustophilus   7. G. lituanicus   8. G. pallidus   9. G. subterraneus   10. G. tepidamans   11. G. thermocatenulatus   12. G. thermodenitrificans   13. G. thermoglucosidasius   14. G. thermoleovorans   15. G. toebii   16. G. uzenensis   17. G. vulcani   
+	1. G. stearothermophilus   2. G. caldoxylosilyticus   3. G. debilis   4. G. gargensis   5. G. jurassicus   6. G. kaustophilus   7. G. lituanicus   8. G. pallidus   9. G. subterraneus   10. G. tepidamans   11. G. thermocatenulatus   12. G. thermodenitrificans   13. G. thermoglucosidasius   14. G. thermoleovorans   15. G. toebii   16. G. uzenensis   17. G. vulcani   
 Characteristic
 Motility                    +                          +                          +              +                 +                  +d                   +                  +                 +                    +                   +                         +d                             +                            −                       +               +                  +
 Spore shape:
@@ -712,7 +712,7 @@ Nitrate reduction         d                           +                         
 
 #####
 TABLE 17. (continued)
-   1. G. stearothermophilus   2. G. caldoxylosilyticus   3. G. debilis   4. G. gargensis   5. G. jurassicus   6. G. kaustophilus   7. G. lituanicus   8. G. pallidus   9. G. subterraneus   10. G. tepidamans   11. G. thermocatenulatus   12. G. thermodenitrificans   13. G. thermoglucosidasius   14. G. thermoleovorans   15. G. toebii   16. G. uzenensis   17. G. vulcani   
+	1. G. stearothermophilus   2. G. caldoxylosilyticus   3. G. debilis   4. G. gargensis   5. G. jurassicus   6. G. kaustophilus   7. G. lituanicus   8. G. pallidus   9. G. subterraneus   10. G. tepidamans   11. G. thermocatenulatus   12. G. thermodenitrificans   13. G. thermoglucosidasius   14. G. thermoleovorans   15. G. toebii   16. G. uzenensis   17. G. vulcani   
 Characteristic
 Growth at pH:
   6                            +                          +                          +d              +                  −                 +                    +d                  −               +                    +                   −                          +                               −                          −                       +               −e                  +
@@ -745,7 +745,7 @@ footnote h: Weak according to Dinsdale and Logan (unpublished).
 
 #####
 TABLE 18. Additional characters of the species of the genus Geobacillusa,b
-   1. G. stearothermophilus   2. G. caldoxylosilyticus   3. G. debilis   4. G. gargensis   5. G. jurassicus   6. G. kaustophilus   7. G. lituanicus   8. G. pallidus   9. G. subterraneus   10. G. tepidamans   11. G. thermocatenulatus   12. G. thermodenitrificans   13. G. thermoglucosidasius   14. G. thermoleovorans   15. G. toebii   16. G. uzenensis   17. G. vulcani   
+	1. G. stearothermophilus   2. G. caldoxylosilyticus   3. G. debilis   4. G. gargensis   5. G. jurassicus   6. G. kaustophilus   7. G. lituanicus   8. G. pallidus   9. G. subterraneus   10. G. tepidamans   11. G. thermocatenulatus   12. G. thermodenitrificans   13. G. thermoglucosidasius   14. G. thermoleovorans   15. G. toebii   16. G. uzenensis   17. G. vulcani   
 Characteristic
 Voges–Proskauer                         de                         −e                          −              −e                −e                 −                    wd                 −                −e                   −e                   −e                          −g                           −g                            −e                       +               −e                 +
 ONPGd                                   −                          −                           +              −                 −                  d                    +                  −                −                    +                    −                           −                            −                             −                        −               −                  −
@@ -835,7 +835,7 @@ footnote c: Gracilibacillus dipsosauri exhibits anaerobic respiration (see speci
 
 #####
 TABLE 21. Differential characteristics of Halobacillus species and phylogenetically closely related taxaa
-   halophilusb   Halobacillus karajensisb   Halobacillus litoralisb   Halobacillus trueperib   halophilusc Bacillus   Marinococcus albusd   
+	halophilusb   Halobacillus karajensisb   Halobacillus litoralisb   Halobacillus trueperib   halophilusc Bacillus   Marinococcus albusd   
 Characteristic
 Morphology                     Coccoid                         Rod                  Rod                  Rod                                    Rod                    Coccus
 Flagella                     Peritrichous                     None              Peritrichous         Peritrichous                          Peritrichous                1 or 2
@@ -989,7 +989,7 @@ footnote b: Data from Ishikawa et al. (2005).
 
 #####
 TABLE 26. Characteristics differentiating Halolactibacillus from other related members of the halophilic/halotolerant/alkaliphilic and/or
-   Halolactibacillusb   Alkalib-acteriumc,d,e,f   Amphibacillus xylanusg   
+	Halolactibacillusb   Alkalib-acteriumc,d,e,f   Amphibacillus xylanusg   
 Characteristic
 Spore formation                                                 −                                                 −                                  +
 Anaerobic growth                                              + (F)                                             + (F)                              + (F)
@@ -1184,7 +1184,7 @@ footnote b: Data from Ishikawa et al. (2005).
 
 #####
 TABLE 33. Characteristics differentiating Paraliobacillus from related members of the halophilic/halotolerant/alkaliphilic and/or alkalitolerant group in Bacillus rRNA group 1, Alkalibacterium species and Marinilactibacillus psychrotoleransa
-   Paraliobacillus ryukyuensisb   Amphibacillus xylanusc   Amphibacillus fermentumd   Amphibacillus tropicusd   Gracilibacillus halotoleranse   Gracilibacillus dipsosaurie,f,g   Halolactibacillush   pantothenticusi Virgibacillus   Alkalibacteriumlj,k,l   Marinilactibacillus psychtoleransm   
+	Paraliobacillus ryukyuensisb   Amphibacillus xylanusc   Amphibacillus fermentumd   Amphibacillus tropicusd   Gracilibacillus halotoleranse   Gracilibacillus dipsosaurie,f,g   Halolactibacillush   pantothenticusi Virgibacillus   Alkalibacteriumlj,k,l   Marinilactibacillus psychtoleransm   
 Characteristic
 Spore formation             +n                  +                            +o                +                             +                 +                   −                      +                     −                          −
 Anaerobic growth           + (F)              + (F)                        + (F)             + (F)                           −             + (ANR)               + (F)                  + (F)                 + (F)                      + (F)
@@ -1268,7 +1268,7 @@ footnote b: Data as given in Lim et al. (2005a).
 
 #####
 TABLE 35. Characteristics differentiating Saccharococcus thermophilus from the phylogenetically closest Geobacillus speciesa
-   Saccharococcus thermophilusb   caldoxylosilyticusc Geobacillus   stearothermophilusd Geobacillus   thermodenitrificanse Geobacillus   thermoglucosidasiusf Geobacillus   
+	Saccharococcus thermophilusb   caldoxylosilyticusc Geobacillus   stearothermophilusd Geobacillus   thermodenitrificanse Geobacillus   thermoglucosidasiusf Geobacillus   
 Characteristic
 Cell morphology                                           Cocci                      Rods                              Rods                   Rods                   Rods
 Spore formation                                             −                         +                                 +                      +                      +
@@ -1299,7 +1299,7 @@ footnote f: Data from Suzuki et al. (1983).
 
 #####
 TABLE 36. Characteristics differentiating the species of the genus Virgibacillusa,b
-   1. V. pantothenticus   2. V. carmonensis   3. V. dokdonensis   4. V. halodenitrificans   5. V. koreensis   6. V. marismortui   7. V. necropolis   8. V. proomii   9. V. salexigens   
+	1. V. pantothenticus   2. V. carmonensis   3. V. dokdonensis   4. V. halodenitrificans   5. V. koreensis   6. V. marismortui   7. V. necropolis   8. V. proomii   9. V. salexigens   
 Characteristic
 Pink-pigmented                   −                       +                   −                   −                                −                 −                  −                  −               −
   colonies
@@ -1354,7 +1354,7 @@ footnote d: For the type strain the opposite reaction was reported by Heyrman et
 
 #####
 TABLE 37. Additional characteristics differentiating the species of Virgibacillusa,b
-   1. V. pantothenticus   2. V. carmonensis   3. V. dokdonensis   4. V. halodenitrificans   5. V. koreensis   6. V. marismortui   7. V. necropolis   8. V. proomii   9. V. salexigens   
+	1. V. pantothenticus   2. V. carmonensis   3. V. dokdonensis   4. V. halodenitrificans   5. V. koreensis   6. V. marismortui   7. V. necropolis   8. V. proomii   9. V. salexigens   
 Characteristic
 Arginine dihydrolase                 −                       −                    −                  −                         −                  −                  −                  d               −
 β-Galactosidase                      d                       −                                       d                         +                                     −                  −
@@ -1415,7 +1415,7 @@ Utilization of:
 
 #####
 TABLE 37. (continued)
-   1. V. pantothenticus   2. V. carmonensis   3. V. dokdonensis   4. V. halodenitrificans   5. V. koreensis   6. V. marismortui   7. V. necropolis   8. V. proomii   9. V. salexigens   
+	1. V. pantothenticus   2. V. carmonensis   3. V. dokdonensis   4. V. halodenitrificans   5. V. koreensis   6. V. marismortui   7. V. necropolis   8. V. proomii   9. V. salexigens   
 Characteristic
   Glutamine                                                                                                +
   Glycerol                                                                                                 −                                                                                                 +
@@ -1462,7 +1462,7 @@ footnote b: Data from Arahal et al. (1999); Garabito et al. (1997); Heyndrickx e
 
 #####
 TABLE 38. Characteristics of the type strains of the species of the genus Alicyclobacillusa
-   9. A. hesperidum FR-11d   1. A. acidocaldarius 104-1Ab,c,d   10. A. kakegawensis 5-A83Jg   2. A. acidiphilus TA-67e   11. A. macrosporangiidus 5-A239-2O-Ag   3. A. acidoterrestris GD3Bc,d,f   12. A. pomorum 3Am   13. A. sacchari RB718g   4. A. contaminans 3-A191g   14. A. sendaienensis NTAP-1l   5. A. cycloheptanicus SCHc,h,i,j   15. A. shizuokensis 4-A336g   6. A. disulfidooxidans SD-11 j,k   16. A. tolerans K1k   7. A. fastidiosus S-TABg   17. A. vulcanalis CsHg2n   8. A. herbarius CP-1i   
+	9. A. hesperidum FR-11d   1. A. acidocaldarius 104-1Ab,c,d   10. A. kakegawensis 5-A83Jg   2. A. acidiphilus TA-67e   11. A. macrosporangiidus 5-A239-2O-Ag   3. A. acidoterrestris GD3Bc,d,f   12. A. pomorum 3Am   13. A. sacchari RB718g   4. A. contaminans 3-A191g   14. A. sendaienensis NTAP-1l   5. A. cycloheptanicus SCHc,h,i,j   15. A. shizuokensis 4-A336g   6. A. disulfidooxidans SD-11 j,k   16. A. tolerans K1k   7. A. fastidiosus S-TABg   17. A. vulcanalis CsHg2n   8. A. herbarius CP-1i   
 Characteristic
 Cell size (μm)          0.7–0.8 × 2.0–3.0 0.9–1.1 × 4.8–6.3 0.6–0.8 × 2.9–4.3                                                             0.8–0.9 × 4.0–5.0 0.4–0.6 × 2.5–4.5 0.3–0.5 × 0.9–3.6                                                                  0.9–1.0 × 4.0–5.0    ND
 Motility                       ND               Motile             ND                                                                          Motile          Nonmotile         Nonmotile                                                                          Nonmotile       Motile
@@ -1530,7 +1530,7 @@ Acid production from:
 
 #####
 TABLE 38. (continued)
-   9. A. hesperidum FR-11d   1. A. acidocaldarius 104-1Ab,c,d   10. A. kakegawensis 5-A83Jg   11. A. macrosporangiidus   2. A. acidiphilus TA-67e   3. A. acidoterrestris GD3Bc,d,f   4. A. contaminans 3-A191g   14. A. sendaienensis NTAP-1l   5. A. cycloheptanicus SCHc,h,i,j   15. A. shizuokensis 4-A336g   6. A. disulfidooxidans SD-11 j,k   17. A. vulcanalis CsHg2n   7. A. fastidiosus S-TABg   8. A. herbarius CP-1i   
+	9. A. hesperidum FR-11d   1. A. acidocaldarius 104-1Ab,c,d   10. A. kakegawensis 5-A83Jg   11. A. macrosporangiidus   2. A. acidiphilus TA-67e   3. A. acidoterrestris GD3Bc,d,f   4. A. contaminans 3-A191g   14. A. sendaienensis NTAP-1l   5. A. cycloheptanicus SCHc,h,i,j   15. A. shizuokensis 4-A336g   6. A. disulfidooxidans SD-11 j,k   17. A. vulcanalis CsHg2n   7. A. fastidiosus S-TABg   8. A. herbarius CP-1i   
 Characteristic
     d-Lyxose                       −                   −                   −                  −                                                                         +                                   −                                  +                           −
     Maltose                        +                   +                   +                  +                                                                         −                                   −                                  −                           +
@@ -1582,7 +1582,7 @@ footnote n: Results from Simbahan et al. (2004).
 
 #####
 TABLE 39. Fatty acid composition of the type strains of the species of the genus Alicyclobacillus grown at optimum temperaturea,b
-   1. A. acidocaldarius 104-1c   2. A. acidiphilus TA-67d   3. A. acidoterrestris GD3Bc   4. A. contaminans 3-A191e   5. A. cycloheptanicus SCHf   6. A. disulfidooxidans SD-11g,h   7. A. fastidiosus S-TABe   8. A. herbarius CP-1f   9. A. hesperidum FR-11c   10. A. kakegawensis 5-A83Je   11. A. macrosporangiidus 5-A239-2O-Ae   12. A. pomorum 3Ai   13. A. sacchari RB718g   14. A. sendaienensis NTAP-1j   15. A. shizuokensis 4-A336e   16. A. tolerans K1h   17. A. vulcanalis CsHg2k   
+	1. A. acidocaldarius 104-1c   2. A. acidiphilus TA-67d   3. A. acidoterrestris GD3Bc   4. A. contaminans 3-A191e   5. A. cycloheptanicus SCHf   6. A. disulfidooxidans SD-11g,h   7. A. fastidiosus S-TABe   8. A. herbarius CP-1f   9. A. hesperidum FR-11c   10. A. kakegawensis 5-A83Je   11. A. macrosporangiidus 5-A239-2O-Ae   12. A. pomorum 3Ai   13. A. sacchari RB718g   14. A. sendaienensis NTAP-1j   15. A. shizuokensis 4-A336e   16. A. tolerans K1h   17. A. vulcanalis CsHg2k   
 Fatty acid
 C14:0                      −                               –                          –                               –                          0.8                           ND                                  –                           –                        –                          –                              –                                      0.5                     –                         –                               –                            ND                       –
 C14:0 ante                 –                               –                          1                               –                            –                           ND                                  –                           –                        –                          –                              –                                        –                     –                         –                               –                            ND                       –
@@ -1892,7 +1892,7 @@ footnote d: NCTC = National Collection of Type Cultures, London, UK; ATCC = Amer
 
 #####
 TABLE 48. Differential characteristics of species of the genus Brochothrix
-   B. campestris     B. thermosphacta   
+	B. campestris     B. thermosphacta   
 Growth with 8% NaCl after 2 d               −                  +
 Growth with and reduction of                −                  +
   0.05% potassium tellurite
@@ -1905,7 +1905,7 @@ Acid from rhamnose                          +                  −
 
 #####
 TABLE 49. Phenotypic characteristics of Paenibacillus speciesa
-   1. P. polymyxa   2. P. agarexedens   3. P. agaridevorans   4. P. alginolyticus   5. P. alkaliterrae   6. P. alvei   7. P. amylolyticus   8. P. anaericanus   9. P. antarcticus   10. P. apiarius   11. P. assamensis   12. P. azoreducens   13. P. barcinonensis   14. P. barengoltzii   15. P. borealis   16. P. brasilensis   17. P. campinasensis   18. P. cellulosilyticus   19. P. chibensis   
+	1. P. polymyxa   2. P. agarexedens   3. P. agaridevorans   4. P. alginolyticus   5. P. alkaliterrae   6. P. alvei   7. P. amylolyticus   8. P. anaericanus   9. P. antarcticus   10. P. apiarius   11. P. assamensis   12. P. azoreducens   13. P. barcinonensis   14. P. barengoltzii   15. P. borealis   16. P. brasilensis   17. P. campinasensis   18. P. cellulosilyticus   19. P. chibensis   
 Characteristic
 Spore shape                    Oval  Oval  Oval  Oval Oval                                                                                  Oval             Oval                  Oval                 Oval                 Oval               Oval                 Oval                  Oval                    Oval                   Oval               Oval                  Oval                    Oval                         Oval
 Swollen sporangium               +     −   +/−     +    +                                                                                    +                +                     +                    +                    +                   +                   +                     +                       +                      +                   +                     +                      +                            +
@@ -1952,7 +1952,7 @@ footnote a: Symbols: +, positive reaction for all or more than 90% of the strain
 
 #####
 TABLE 49. (continued)
-   20. P. chinjuensis   21. P. chitinolyticus   22. P. chondroitinus   23. P. cineris   24. P. cookii   25. P. curdlanolyticus   26. P. daejeonensis   27. P. dendritiformis   28. P. durus   29. P. ehimensis   30. P. elgii   31. P. favisporus   32. P. gansuensis   33. P. glucanolyticus   34. P. glycanilyticus   35. P. graminis   36. P. granivorans   37. P. hodogayensis   38. P. illinoisensis   
+	20. P. chinjuensis   21. P. chitinolyticus   22. P. chondroitinus   23. P. cineris   24. P. cookii   25. P. curdlanolyticus   26. P. daejeonensis   27. P. dendritiformis   28. P. durus   29. P. ehimensis   30. P. elgii   31. P. favisporus   32. P. gansuensis   33. P. glucanolyticus   34. P. glycanilyticus   35. P. graminis   36. P. granivorans   37. P. hodogayensis   38. P. illinoisensis   
 Characteristic
 Spore shape                     Oval                   Oval                     Oval                    Oval Oval                          Oval                      Oval Oval                                      Oval            Oval                Oval Oval                            Oval                 Oval                     Oval                     Oval Oval nd                                                     Oval
 Swollen sporangium                +                     +                        +                       +    +                             +                          +   +                                         +               +                   +   +/−                               +                   +                        +                         +   +   −(w)                                                    +
@@ -2001,7 +2001,7 @@ G+C (mol%)                       53                  51.3–52.8                
 
 #####
 TABLE 49. (continued)
-   39. P. jamilae   40. P. kobensis   41. P. koleovorans   42. P. koreensis   43. P. kribbensis   44. P. lactis   45. P. larvae   46. P. lautus   47. P. lentimorbus   48. P. macerans   49. P. macquariensis   50. P. massiliensis   51. P. mendelii   52. P. motobuensis   53. P. naphthalenavorans   54. P. nematophilus   55. P. odorifer   56. P. pabuli   
+	39. P. jamilae   40. P. kobensis   41. P. koleovorans   42. P. koreensis   43. P. kribbensis   44. P. lactis   45. P. larvae   46. P. lautus   47. P. lentimorbus   48. P. macerans   49. P. macquariensis   50. P. massiliensis   51. P. mendelii   52. P. motobuensis   53. P. naphthalenavorans   54. P. nematophilus   55. P. odorifer   56. P. pabuli   
 Characteristic
 Spore shape                      Oval     Oval  Oval    Oval  Oval  Oval                                                                         Oval             Oval             Oval                  Oval               Oval                    Oval                   Oval               Oval                  Oval                        Oval Oval                                Oval
 Swollen sporangium                 +        +     +      +      +     +                                                                           +                +                +                     +                  +                       +                      +                  +                     +                            +   +                                   +
@@ -2048,7 +2048,7 @@ G+C (mol%)                     40.6–40.8 50–52 54–55.8   54    48   51.7  
 
 #####
 TABLE 49. (continued)
-   57. P. panacisoli   58. P. pasadenensis   59. P. peoriae   60. P. phyllosphaerae   61. P. popilliae   62. P. rhizosphaerae   63. P. sanguinis   64. P. sepulcri   65. P. stellifer   66. P. terrae   67. P. thiaminolyticus   68. P. timonensis   69. P. turicensis   70. P. validus   71. P. wynnii   72. P. xinjiangensis   73. P. xylanolyticus   
+	57. P. panacisoli   58. P. pasadenensis   59. P. peoriae   60. P. phyllosphaerae   61. P. popilliae   62. P. rhizosphaerae   63. P. sanguinis   64. P. sepulcri   65. P. stellifer   66. P. terrae   67. P. thiaminolyticus   68. P. timonensis   69. P. turicensis   70. P. validus   71. P. wynnii   72. P. xinjiangensis   73. P. xylanolyticus   
 Characteristic
 Spore shape                      Oval                 Oval                   Oval              Oval                     Oval                Oval                    Oval                Oval Oval                              Oval             Oval                      Oval                 Oval                 Oval              Oval             Spherical                 Oval
 Swollen sporangium                +                    +                      +                 +                        +                  +/−                      +                   +    +                                 +                +                          +                   +                    +                +/−                  +                     +/−
@@ -2270,7 +2270,7 @@ footnote g: Fatty acid data for Aneurinibacillus terranovensis are for cells gro
 
 #####
 TABLE 52. Characteristics differentiating the species of the genus Brevibacillusa,b
-   B. brevis   B. agri   B. borstelensis   B. centrosporus   B. choshinensis   B. formosus   B. ginsengisoli   B. invocatus   B. laterosporus   B. levickii c   B. limnophilus   B. parabrevis   B. reuszeri   B. thermoruberd   
+	B. brevis   B. agri   B. borstelensis   B. centrosporus   B. choshinensis   B. formosus   B. ginsengisoli   B. invocatus   B. laterosporus   B. levickii c   B. limnophilus   B. parabrevis   B. reuszeri   B. thermoruberd   
 Characteristic
 Gram reaction                  +/v           +         +                 +                 +                 +             +                 −              +/v/−              +               v                +/v             +              +
 Anaerobic growth                −            −         −                 −                 −                 −             +                 −                +                −e              −                 −              −              −
@@ -2336,7 +2336,7 @@ footnote f: Data for Brevibacillus limnophilus are from Goto et al. (2004); data
 
 #####
 TABLE 53. Utilization of carbon compounds by Brevibacillus speciesa
-   B. brevis   B. agri   B. borstelensis   B. centrosporus   B. choshinensis   B. formosus   B. ginsengisoli   B. invocatus   B. laterosporus   B. levickiic   B. limnophilus   B. parabrevis   B. reuszeri   B. thermoruberd   
+	B. brevis   B. agri   B. borstelensis   B. centrosporus   B. choshinensis   B. formosus   B. ginsengisoli   B. invocatus   B. laterosporus   B. levickiic   B. limnophilus   B. parabrevis   B. reuszeri   B. thermoruberd   
 Utilization of:b
 Acetate                                                                                                                                      +                                                                                                                    w
 Adonitol                                          −           −          −                 −                 −                 −             −                 −              −                 +                               −               −
@@ -2522,7 +2522,7 @@ Parasporal structures,    Long primary fibers arise        Same as P. penetrans 
 
 #####
 TABLE 56. (continued)
-   Characteristic                 1. P. ramosa                      2. P. nishizawae                        3. P. penetrans                      4. P. thornei                    5. "Candidatus P. usgae"   
+	Characteristic                 1. P. ramosa                      2. P. nishizawae                        3. P. penetrans                      4. P. thornei                    5. "Candidatus P. usgae"   
 Matrix, at maturity         Persists as fine granular          Persists, numerous            Becomes coarsely granular; lysis            Persists, but more granular;              Same as P. penetrans
                                material                           strands are formed and        occurs; sporangial wall collapses;           some strands are formed and
                                                                   partial collapse may occur    base is vacuolate                            partial collapse may occur
@@ -3213,7 +3213,7 @@ footnote d: C, central; ST, subterminal; T, terminal.
 
 #####
 TABLE 72. Differential characteristics of Sporolactobacillus species and subspeciesa
-   1. S. inulinus   2. S. kofuensis   3. S. lactosus   4. S. laevolacticus   subsp. nakayamae 5a. S. nakayamae   5b. S. nakayamae subsp. racemicus   6. S. terrae   
+	1. S. inulinus   2. S. kofuensis   3. S. lactosus   4. S. laevolacticus   subsp. nakayamae 5a. S. nakayamae   5b. S. nakayamae subsp. racemicus   6. S. terrae   
 Characteristic
 DNA homology groupb                    1                5                  6               −                       2                    4              3
 Number of strains studiedb             2                2                 10               12                      17                   4              8
@@ -3241,7 +3241,7 @@ footnote b: Yanagida et al. (1997); Sporolactobacillus laevolacticus was not inc
 
 #####
 TABLE 73. Discriminative characteristics of some genera of aerobic, endospore-forming bacteriaa
-   Sporolactobacillusb   
+	Sporolactobacillusb   
 Characteristic
                                                                                   Amphibacillusc
                                                                                                                                                      Paenibacillusf
@@ -3273,7 +3273,7 @@ footnote h: Collins and Jones (1979).
 
 #####
 TABLE 74. Characteristics differentiating the species and subspecies of the genus Staphylococcusa
-   1a. S. aureus subsp. aureusb   1b. S. aureus subsp. anaerobiusb   2. S. arlettaeb   3. S. auricularisb   4a. S. capitis subsp. capitisb   4b. S. capitis subsp. urealyticusb   5. S. capraeb   6a. S. carnosus subsp. carnosusb   6b. S. carnosus subsp. utilisc   7. S. chromogenesb   8a. S. cohnii subsp. cohniib   8b. S.cohnii subsp. urealyticusb   9. S. condimentic   10. S. delphinib   11. S. epidermidisb   12a. S. equorum subsp. equorumb   12b. S. equorum subsp. linensd   13. S. felisb   14. S. fleurettiie   15. S. gallinarumb   16. S. haemolyticusb   17a. S. hominis subsp. hominisb   17b. S. hominis subsp. novobiosepticusf   18. S. hyicusb   19. S. intermediusb   
+	1a. S. aureus subsp. aureusb   1b. S. aureus subsp. anaerobiusb   2. S. arlettaeb   3. S. auricularisb   4a. S. capitis subsp. capitisb   4b. S. capitis subsp. urealyticusb   5. S. capraeb   6a. S. carnosus subsp. carnosusb   6b. S. carnosus subsp. utilisc   7. S. chromogenesb   8a. S. cohnii subsp. cohniib   8b. S.cohnii subsp. urealyticusb   9. S. condimentic   10. S. delphinib   11. S. epidermidisb   12a. S. equorum subsp. equorumb   12b. S. equorum subsp. linensd   13. S. felisb   14. S. fleurettiie   15. S. gallinarumb   16. S. haemolyticusb   17a. S. hominis subsp. hominisb   17b. S. hominis subsp. novobiosepticusf   18. S. hyicusb   19. S. intermediusb   
 Characteristic
 Colony                  >5                              1–3                                6–8                  <5                      <5                                4.3–7.1                                    d                 >5                                  0.5–1.5                              >5                        d                               >5                                  1–2                   5–7                   <5                     4–6                                1–2                                5–8              <3/8–12                  >5                      >5                        >5                                  4–6                                        >5                 >5
 diameter (mm)
@@ -3339,7 +3339,7 @@ footnote r: Kloos et al. (1997) found that Staphylococcus sciuri subsp. sciuri a
 
 #####
 TABLE 77.     Characteristics differentiating the species of the genus Salinicoccusa
-   Characteristic   1. S. roseus   2. S. alkaliphilus   3. S. hispanicus   4. S. luteus   5. S. jeotgali   6. S. salsiraiae   
+	Characteristic   1. S. roseus   2. S. alkaliphilus   3. S. hispanicus   4. S. luteus   5. S. jeotgali   6. S. salsiraiae   
 Diameter of cells (mm)                         1.0–2.5                 0.5–0.8                    1.0–2.0                 0.9            1.0–2.0             1.0–2.5
 Colony pigmentation                           Pink-red                 Pinkish                 Reddish orange           Orange           Orange             Pink-red
 Salt range for growth (%)                      0.9–25                   0–25                      0.5–25                 1–25            0.5–15               0–22
@@ -3380,7 +3380,7 @@ footnote a: Symbols: +, >85% positive; -, 0–15% positive; ND, not determined.
 
 #####
 TABLE 78. Phenotypic characteristics differentiating member genera of the family Thermoactinomycetaceaea,b
-   Thermoactinomyces   Laceyella   Mechercharimyces   Planifilum   Seinonella   Shimazuella   Thermoflavimicrobium   
+	Thermoactinomyces   Laceyella   Mechercharimyces   Planifilum   Seinonella   Shimazuella   Thermoflavimicrobium   
 Characteristic
 Aerial mycelium                              White                         White             White                          Nonec                   White                  White              Yellow
 Dichotomously branched sporophores            −                             −                 −                               −                      −                      −                   +
@@ -3460,7 +3460,7 @@ footnote c: Strains L1–L4 include the type strain L2 = DSM 14481.
 
 #####
 TABLE 81. Tests differentiating Exiguobacterium species using the Biolog GP Microplate systema,b
-   E. acetylicum           E. aurantiacum      E. undae strains   E. antarcticum   
+	E. acetylicum           E. aurantiacum      E. undae strains   E. antarcticum   
 Test                                         DSM 20416                 DSM 6208              L1–L4c          DSM 14480
 Utilization of:
   Glycogen                                         +                       −                  +                 +
@@ -3674,7 +3674,7 @@ footnote c: The species composition has not been studied so far.
 
 #####
 TABLE 84. Key characteristics of Group A lactobacilli (obligately homofermentative)a
-   L. delbrueckii subsp. delbrueckii   L. delbrueckii subsp. bulgaricus   L. delbrueckii subsp. lactis   L. delbrueckii subsp. indicus   L. acidophilus   L. amylolyticus   L. amylophilus   L. amylovorus   L. aviarius subsp. aviarius   L. aviarius subsp. araffinosus   L. crispatus   L. farciminis   L. gallinarum   L. gasseri   L. helveticus   
+	L. delbrueckii subsp. delbrueckii   L. delbrueckii subsp. bulgaricus   L. delbrueckii subsp. lactis   L. delbrueckii subsp. indicus   L. acidophilus   L. amylolyticus   L. amylophilus   L. amylovorus   L. aviarius subsp. aviarius   L. aviarius subsp. araffinosus   L. crispatus   L. farciminis   L. gallinarum   L. gasseri   L. helveticus   
 Species
 Phylogenetic         de                                      de                                  de                                 de                                  de                de                de               de               sl                              sl                                de                u                de               de           de
    group
@@ -3709,7 +3709,7 @@ footnote b: W. P. Hammes, unpublished results.
 
 #####
 TABLE 85. Key characteristics of Group B lactobacilli (facultatively heterofermentative)a
-   L. johnsonii   L. acetotolerans   L. kalixensis   L. acidipiscis   L. kefiranofaciens subsp. kefiranofaciens   L. agilis   L. algidus   L. kefiranofaciens subsp. kefirgranum L. alimentarius   L. animalis   L. bifermentans   L. kitasatonis   L. casei   L. coryniformis subsp. coryniformis   L. manihotivorans   L. mindensis   L. coryniformis subsp. torquens   L. curvatus   L. cypricasei   L. saerimneri   L. equi   L. salivarius subsp. salivarius   L. fornicalis   L. fuchuensis   L. salivarius subsp. salicinius   L. graminis   L. satsumensis   L suntoreyus   L. ultunensis   
+	L. johnsonii   L. acetotolerans   L. kalixensis   L. acidipiscis   L. kefiranofaciens subsp. kefiranofaciens   L. agilis   L. algidus   L. kefiranofaciens subsp. kefirgranum L. alimentarius   L. animalis   L. bifermentans   L. kitasatonis   L. casei   L. coryniformis subsp. coryniformis   L. manihotivorans   L. mindensis   L. coryniformis subsp. torquens   L. curvatus   L. cypricasei   L. saerimneri   L. equi   L. salivarius subsp. salivarius   L. fornicalis   L. fuchuensis   L. salivarius subsp. salicinius   L. graminis   L. satsumensis   L suntoreyus   L. ultunensis   
 Species
 Phylogenetic     de                      sl                sl             sl             u                    sl              u                 u             u                                      u                                 u               sl                sl        de                u                 u
    group
@@ -3748,7 +3748,7 @@ footnote d: According to Carlsson and Gothefors (1975), 60 out of 64 strains fer
 
 #####
 TABLE 86. Characteristics differentiating Group C lactobacilli (obligately heterofermentative)a
-   L. homohiochii   L. acidifarinae   L. intestinalis   L. antri   L. brevis   L. buchneri   L. coleohominisb   L. murinus   L. collinoides   L. paracasei subsp. paracasei   L. diolivorans   L. durianis   L. paracasei subsp. tolerans   L. ferintoshensis   L. paralimentarius   L. fermentum   L. fructivorans   L. paraplantarum   L. frumenti   L. gastricus   L. hammesii   L. hilgardii   L. ingluviei   L. kefiri   L. rhamnosus   L. sakei subsp. sakei   L. sakei subsp. carnosus   L. versmoldensis   
+	L. homohiochii   L. acidifarinae   L. intestinalis   L. antri   L. brevis   L. buchneri   L. coleohominisb   L. murinus   L. collinoides   L. paracasei subsp. paracasei   L. diolivorans   L. durianis   L. paracasei subsp. tolerans   L. ferintoshensis   L. paralimentarius   L. fermentum   L. fructivorans   L. paraplantarum   L. frumenti   L. gastricus   L. hammesii   L. hilgardii   L. ingluviei   L. kefiri   L. rhamnosus   L. sakei subsp. sakei   L. sakei subsp. carnosus   L. versmoldensis   
 Species
 Phylogenetic       u                   re           u           u              re                  u                 u                u              u                    re              u                  re             re             u              u              re               u
   group
@@ -3785,7 +3785,7 @@ footnote c: W. P. Hammes, unpublished results.
 
 #####
 TABLE 87. Differentiation of the genus Paralactobacillus from other rod-shaped genera within the order of "Lactobacillales"a
-   L. malefermentans   Paralactobacillus   Allofustis   Atopostipes   Alkalibacteriumb   L. parabuchneri   Carnobacterium   L. paracollinoides   Desemzia   L. parakefiri   Isobaculum   Heterofermentative Lactobacillusc   Homofermentative Lactobacillusd   L. sanfranciscensis   Leuconostoce   Marinilactibacillus   Pilibacter   L. thermotolerans   Weissellae   L. vaccinostercus   
+	L. malefermentans   Paralactobacillus   Allofustis   Atopostipes   Alkalibacteriumb   L. parabuchneri   Carnobacterium   L. paracollinoides   Desemzia   L. parakefiri   Isobaculum   Heterofermentative Lactobacillusc   Homofermentative Lactobacillusd   L. sanfranciscensis   Leuconostoce   Marinilactibacillus   Pilibacter   L. thermotolerans   Weissellae   L. vaccinostercus   
 Characteristic
 G + C content (mol%)          46                   39           44            39–41                 33–37             40             39             33–55                 32–53              37–44           34–36                  38           37–47
 Motility                      −                                  −              +                     d               +f              −                d                     d                 −               +                    −              −
@@ -3811,7 +3811,7 @@ footnote f: Information is given for the type species which constitutes the only
 
 #####
 TABLE 88. Percentage DNA–DNA similarity among pediococci and with reference also to Tetragenococcus and Aerococcus (Pediococcus urinaeequi – Syn. Aerococcus)a
-   P. acidilactici   P. damnosus   P. dextrinicus   P. inopinatus   T. halophilus   P. parvulus   P. pentosaceus   subsp. interme- P. pentosaceus dius   P. urinaeequi   P. cellicola   P. stilesii   
+	P. acidilactici   P. damnosus   P. dextrinicus   P. inopinatus   T. halophilus   P. parvulus   P. pentosaceus   subsp. interme- P. pentosaceus dius   P. urinaeequi   P. cellicola   P. stilesii   
 Species
 P. acidilactici          100
 P. damnosus              0–7                 100
@@ -3834,7 +3834,7 @@ footnote a: Data compiled from Back and Stackebrandt (1978), Dellaglio et al. (1
 
 #####
 TABLE 88. Percentage DNA–DNA similarity among pediococci and with reference also to Tetragenococcus and Aerococcus (Pediococcus urinaeequi – Syn.Aerococcus)a
-   P. acidilactici   P. damnosus   P. dextrinicus   P. inopinatus   T. halophilus   P. parvulus   P. pentosaceus   subsp. interme- P. pentosaceus dius   P. urinaeequi   P. cellicola   P. stilesii   
+	P. acidilactici   P. damnosus   P. dextrinicus   P. inopinatus   T. halophilus   P. parvulus   P. pentosaceus   subsp. interme- P. pentosaceus dius   P. urinaeequi   P. cellicola   P. stilesii   
 Species
 P. acidilactici          100
 P. damnosus              0–7                 100
@@ -3958,7 +3958,7 @@ footnote a: Symbols: +, >85% positive; d, different strains give different react
 
 #####
 TABLE 93. Phenotypic characteristics that differentiate the genus Abiotrophia from other catalase-negative, Gram-positive coccia
-   Abiotrophia   Aerococcus   Enterococcus   Gemella   Granulicatella   Lactococcus   Leuconostoc   Pediococcus   Streptococcus   Vagococcus   
+	Abiotrophia   Aerococcus   Enterococcus   Gemella   Granulicatella   Lactococcus   Leuconostoc   Pediococcus   Streptococcus   Vagococcus   
 Characteristic
 Satellitism                                  +b        −                        −                    −                +b        −          −         −                                         −         −
 Susceptibility to vancomycin              Sensitive Sensitive                Sensitive            Sensitive        Sensitive Sensitive Resistant Resistant                                  Sensitive Sensitive
@@ -4006,7 +4006,7 @@ footnote a: Symbols: +, >85% positive; d, different strains give different react
 
 #####
 TABLE 95. Conventional phenotypic tests (Facklam and Elliott, 1995) which are useful in distinguishing Dolosicoccus paucivorans from related bacteria from human sourcesa,b
-   Dolosicoccus Dolosigranulum           Facklamia          Facklamia            Facklamia          Facklamia    Globicatella    Ignavigravum   
+	Dolosicoccus Dolosigranulum           Facklamia          Facklamia            Facklamia          Facklamia    Globicatella    Ignavigravum   
 Test            paucivorans      pigrum                hominis            ignava              languida            sourekii     sanguinis         ruoffiae
 LAP                   −                 +                 +                   +                    +                +              −                +
 Hippurate             d                 −                 +                   +                    −                +              +                −
@@ -4022,7 +4022,7 @@ footnote b: Abbreviation: LAP, leucine aminopeptidase.
 
 #####
 TABLE 96. API Rapid ID 32Strep system tests which are useful in distinguishing Dolosicoccus paucivorans from some related Gram-stain-positive, catalase-negative, coccus-shaped species from human and animal sourcesa,b
-   Dolosicoccus Eremococcus      Facklamia     Facklamia     Facklamia     Faclamia       Facklamia     Globicatella    Globicatella    Ignavigranum   
+	Dolosicoccus Eremococcus      Facklamia     Facklamia     Facklamia     Faclamia       Facklamia     Globicatella    Globicatella    Ignavigranum   
 Test             paucivorans   coleocola        hominis       ignava       languida      miroungae       sourekii      sanguinis     sulfidifaciens      ruoffiae
 Acid from:
   d-Arabitol         −               −             −              −             −             −             +              −               −                −
@@ -4133,7 +4133,7 @@ footnote b: I, associated with animals and products of animal origin; II, presen
 
 #####
 TABLE 101. Selected physiological characteristics of species of the genus Carnobacteriuma
-   C. divergens   C. alterfunditum   C. funditum   C. gallinarum   C. inhibens   C. maltaromaticum   C. mobile   C. pleistocenium e   C. viridans   
+	C. divergens   C. alterfunditum   C. funditum   C. gallinarum   C. inhibens   C. maltaromaticum   C. mobile   C. pleistocenium e   C. viridans   
 Characteristic
 Growth at 0 °C                     +                 +                          +               +                +            d                    +           +                   (2 °C+)
 Growth at 30 °C                    +                 −                          −              ND                +            +                    +           −                      +
@@ -4204,7 +4204,7 @@ footnote f: Data from Ishikawa et al. (2003).
 
 #####
 TABLE 103. Occurrence of 16S rDNA signatures demonstrating the phylogenetic heterogeneity of the genus Carnobacterium and the phylogenetic closeness of Desemzia incerta with members of Carnobacterium group
-   Desemzia incerta, C. alterfundidum,        C. divergens, C. gallinarum,   Carnobacterium group 1                 Carnobacterium group 2   
+	Desemzia incerta, C. alterfundidum,        C. divergens, C. gallinarum,   Carnobacterium group 1                 Carnobacterium group 2   
 Nucleotide positiona                            C. inhibens, C. mobile, C. fundidum                 C. piscicola
 70–98                                                         U–A                                     A–G
 77–92                                                         Yb–Rc                                   G–Y
@@ -4239,7 +4239,7 @@ footnote a: R, purine.
 
 #####
 TABLE 105. Physiological reactions differentiating Desemzia incerta and type strains of Carnobacterium speciesa,b
-   incerta (DSM C. alterfundidum C. divergens C. fundidum                   C. gallinarum     C. mobile   C. piscicola    (CCUG   Desemzia                                                                                                            C. inhibens   
+	incerta (DSM C. alterfundidum C. divergens C. fundidum                   C. gallinarum     C. mobile   C. piscicola    (CCUG   Desemzia                                                                                                            C. inhibens   
 Physiological test         20581T)    (DSM 5972T) (DSM 20623T) (DSM 5970T)                       (DSM 4847T)     (DSM 4848T) (DSM 20730T)      31728T)c
 N-Acetyl-d-                   w                  w                 w                 +                 +              +             +             +
   glucosamine
@@ -4353,7 +4353,7 @@ footnote b: Data obtained from Collins and Lawson (2000), Christensen and Fackla
 
 #####
 TABLE 109. Characteristics differentiating Isobaculum melis from its nearest phylogenetic relatives, Desemzia and Carnobacteriuma
-   I. melis CCUG 37660T   D. incerta CCUG 38799T   C. alterfundium CCUG   34643T   C. divergens NCDO 2763T   C. funditum CCUG 34644T   C. gallinarum CCUG 30095T   C. mobile CCUG 30096T   C. piscicola CCUG 34645T   C. inhibens CCUG 31728T   
+	I. melis CCUG 37660T   D. incerta CCUG 38799T   C. alterfundium CCUG   34643T   C. divergens NCDO 2763T   C. funditum CCUG 34644T   C. gallinarum CCUG 30095T   C. mobile CCUG 30096T   C. piscicola CCUG 34645T   C. inhibens CCUG 31728T   
 Test
 Production of
 acid from:
@@ -4523,7 +4523,7 @@ AF394926                  99.6                   100                 99.3       
 
 #####
 TABLE 116. Tests differentiating species groups and species of the genus Enterococcusa
-   E. faecalis   E. faecalis group                                                                         E. avium group                                                                                 E. faecium group                                                     group        group      group                                                                             Phylogenetically distinct species E. caccae   E. haemoperoxidus   E. moraviensis   E. silesiacus   E. termitis   E. avium   E. devriesei   E. gilvus   E. malodoratus   E. pseudoavium   E. raffinosus   E. faecium   E. canis   E. durans   E. hirae   E. mundtii   E. ratti   E. villorum   E. cecorum E. gallinarum E. italicus E. cecorum   E. columbae   E. gallinarum   E. casseliflavus   E. italicus   E. camelliae   E. aquimarinus   E. asini   E. canintestini   E. dispar   E. hermanniensis   E. pallens   E. phoeniculicola   E. saccharolyticus   E. sulfureus   598   
+	E. faecalis   E. faecalis group                                                                         E. avium group                                                                                 E. faecium group                                                     group        group      group                                                                             Phylogenetically distinct species E. caccae   E. haemoperoxidus   E. moraviensis   E. silesiacus   E. termitis   E. avium   E. devriesei   E. gilvus   E. malodoratus   E. pseudoavium   E. raffinosus   E. faecium   E. canis   E. durans   E. hirae   E. mundtii   E. ratti   E. villorum   E. cecorum E. gallinarum E. italicus E. cecorum   E. columbae   E. gallinarum   E. casseliflavus   E. italicus   E. camelliae   E. aquimarinus   E. asini   E. canintestini   E. dispar   E. hermanniensis   E. pallens   E. phoeniculicola   E. saccharolyticus   E. sulfureus   598   
 Motility                   −               −            −                   −                −               −            −                         −            −                −                −              −            −          −           −          −            −           −              −          db             +b               +b                −             −              −                 −          −                 −                             −              −                   −                   −
 Pyruvate utilization       +               +            +                   +                                             +                         +            +                +                +              −            +          −           −          −            −           −              +          +              −                d                                                                −                            +                             +b             −                   −                   −
 Production of:
@@ -4570,7 +4570,7 @@ Acid from:
 
 #####
 TABLE 116. (continued)
-   E. faecalis   E. faecalis group                                                                         E. avium group                                                                                 E. faecium group                                                     group        group      group                                                                             Phylogenetically distinct species E. caccae   E. haemoperoxidus   E. moraviensis   E. silesiacus   E. termitis   E. avium   E. devriesei   E. gilvus   E. malodoratus   E. pseudoavium   E. raffinosus   E. faecium   E. canis   E. durans   E. hirae   E. mundtii   E. ratti   E. villorum   E. cecorum E. gallinarum E. italicus E. cecorum   E. columbae   E. gallinarum   E. casseliflavus   E. italicus   E. camelliae   E. aquimarinus   E. asini   E. canintestini   E. dispar   E. hermanniensis   E. pallens   E. phoeniculicola   E. saccharolyticus   E. sulfureus   
+	E. faecalis   E. faecalis group                                                                         E. avium group                                                                                 E. faecium group                                                     group        group      group                                                                             Phylogenetically distinct species E. caccae   E. haemoperoxidus   E. moraviensis   E. silesiacus   E. termitis   E. avium   E. devriesei   E. gilvus   E. malodoratus   E. pseudoavium   E. raffinosus   E. faecium   E. canis   E. durans   E. hirae   E. mundtii   E. ratti   E. villorum   E. cecorum E. gallinarum E. italicus E. cecorum   E. columbae   E. gallinarum   E. casseliflavus   E. italicus   E. camelliae   E. aquimarinus   E. asini   E. canintestini   E. dispar   E. hermanniensis   E. pallens   E. phoeniculicola   E. saccharolyticus   E. sulfureus   
   Erythritol                      −                          −                  −                −                −            −          −                          −                                                 −            −          −           −          −                       −                            −            −               −                 −              −              −                −           −                            −                                                     −                   −
   d-Fructose                      +                          +                  +                +                +            +          +                          +                                                 +            +          +           +          +                       +              +             +            +               +                 +              +              +                +           +                            +                                 +                   +                   +
   d-Fucose                        −                          −                  −                −                −            −          −                          −                                                 −            −          −           −          −                       −              −             −            −               −                 −              −              −                −           −                            −c                                                    −                   −
@@ -4615,7 +4615,7 @@ footnote c: Enantiomers are not stated in literature.
 
 #####
 TABLE 117. DNA similarity values recorded between Tetragenococcus spp.a,b
-   T. halophilus IAM         T. halophilus    T. muriaticus   Percentage relatedness to labeled DNA from:   
+	T. halophilus IAM         T. halophilus    T. muriaticus   Percentage relatedness to labeled DNA from:   
 Strain                       1676T                IAM 1678        JCM 10006T
 T. halophilus:
    IAM 1676T                 100                    ND                 49
@@ -4690,7 +4690,7 @@ footnote b: Data from Garvie (1986), Collins et al. (1990b), Röling and van Ver
 
 #####
 TABLE 119. Fatty acid composition (as % of total fatty acids) of Tetragenococcus spp.a,b
-   T. halophilus T. muriaticus T. koreensis T. solitarius   
+	T. halophilus T. muriaticus T. koreensis T. solitarius   
 Fatty acid           IAM 1676T JCM 10006T DSM 16501T DSM 5634T
 Saturated:
    12:0                    −           0.9            −             2.7
@@ -4768,7 +4768,7 @@ footnote d: Related to those of Leuconostoc and Weissella.
 
 #####
 TABLE 122. Phenotypic characteristics differentiating Leuconostoc speciesa,b
-   mesenteroides   L. mesenteroides subsp.   dextranicm   cremoris   L. argentinum   L. carnosum   L. citreum   L. durionis   L. fallax   L. ficulneum   L. fructosum   L. gasicomitatum   L. gelidum   L. inhae   L. kimchii   L. lactis   L. pseudomesenteroides   
+	mesenteroides   L. mesenteroides subsp.   dextranicm   cremoris   L. argentinum   L. carnosum   L. citreum   L. durionis   L. fallax   L. ficulneum   L. fructosum   L. gasicomitatum   L. gelidum   L. inhae   L. kimchii   L. lactis   L. pseudomesenteroides   
 Characteristic
 Cell morphology                   Coccoid   Coccoid     Coccoid     Coccoid     Coccoid     Coccoid Rods in Coccoid Short rods Short rods Coccoid     Coccoid     Coccoid Coccoid Coccoid        Coccoid
                                      to      to elon-    to elon-    to elon-    to elon-    to elon- pairs or to elon-                    to elon-    to elon-    to elon- or ovoid to elon-     to elon-
@@ -4813,7 +4813,7 @@ footnote b: Data for Leuconostoc mesenteroides are from Garvie (1986), for Leuco
 
 #####
 TABLE 123. Percentage sequence similarities for a 1491-nucleotide region of 16S rRNA of some species of the genus Leuconostoc, compared to Weissella paramesenteroides (compiled from Björkroth and Holzapfel, 2006)a
-   L. argentinum   L. carnosum   L. citreum   L. fallax   L. gelidum   L. lactis   L. mesenteroides subsp. cremoris   L. mesenteroides subsp. mesenteroides   L. pseudomesenteroides   paramesenteroides Weissella   
+	L. argentinum   L. carnosum   L. citreum   L. fallax   L. gelidum   L. lactis   L. mesenteroides subsp. cremoris   L. mesenteroides subsp. mesenteroides   L. pseudomesenteroides   paramesenteroides Weissella   
 Species
 L. mesenteroides subsp. mesenteroides    97.5             97.8           97.7            94.6         97.9          98.2         100                       100                       99.5                      91.8
 L. mesenteroides subsp. cremoris         97.7             97.8           97.7            94.6         97.9          98.2         100                       100                       99.5                      91.8
@@ -4862,7 +4862,7 @@ footnote a: GenBank accession numbers do not necessarily refer to the ATCC type 
 
 #####
 TABLE 125. Phenotypic characteristics of Oenococcus oeni, Oenococcus kitaharae and Leuconostoc speciesa,b
-   O. oeni   O. kitaharae   L. mesenteroides subsp. mesenteroides   L. mesenteroides subsp. dextranicum   L. mesenteroides subsp. cremoris   L. pseudomesenteroides   L. citreum   L. carnosum   L. gasicomitatum   L. gelidum   L. lactis   L. argentinum   L. fallax   
+	O. oeni   O. kitaharae   L. mesenteroides subsp. mesenteroides   L. mesenteroides subsp. dextranicum   L. mesenteroides subsp. cremoris   L. pseudomesenteroides   L. citreum   L. carnosum   L. gasicomitatum   L. gelidum   L. lactis   L. argentinum   L. fallax   
 Characteristic
 Acid from:
   Arabinose                     d         −           +            −            −            d         +        −        +        +         −          d          −
@@ -4927,7 +4927,7 @@ footnote a: Data from Schillinger and Holzapfel (2002). Oenococcus kitaharae doe
 
 #####
 TABLE 127. Levels of DNA–DNA similarity (%) for Oenococcus oeni, Oenococcus kitaharae, Leuconostoc species, and other related species a,b
-   Oenococcus     Lactobacillus    Leuconostoc     Leuconostoc        subsp.         Weissella     parames-      Weissella   Leuconostoc mesenteroides                  Weissella   
+	Oenococcus     Lactobacillus    Leuconostoc     Leuconostoc        subsp.         Weissella     parames-      Weissella   Leuconostoc mesenteroides                  Weissella   
 Species or subspecies                      oeni           kimchi         carnosum          lactis        mesenteroides    confusa       enteroides   viridescens
 O. oeni                                    100              ND              ND             3–11              8–15            ND            5–7           ND
 O. kitaharae                              25–30             ND              ND               ND               ND             ND            ND            ND
@@ -4990,7 +4990,7 @@ footnote b: Data for Weissella confusus, Weissella halotolerans, Weissella helle
 
 #####
 TABLE 129. 16S rRNA encoding gene sequence similarities between the different Weissella speciesa,b
-   W. confusa   W. cibaria   W. halotolerans   W. hellenica   W. kandleri   W. koreensis   W. minor   W. paramesenteroides   W. soli   W. virdescens   subsp. mesenteroides L. mesenteroides   
+	W. confusa   W. cibaria   W. halotolerans   W. hellenica   W. kandleri   W. koreensis   W. minor   W. paramesenteroides   W. soli   W. virdescens   subsp. mesenteroides L. mesenteroides   
 Species
 W. confusa NCIMB 9311T                                            100
 W. cibaria LMG 17699T                                             99.2            100
@@ -5505,7 +5505,7 @@ footnote ab: Data obtained from: 1. Ahmet et al. (1995); 2. Baele et al. (2003);
 
 #####
 TABLE 132. Biochemical tests differentiating β-hemolytic streptococcal species (Pyogenic group plus Anginosus group)a
-   S. pyogenes   S. agalactiae   S. canis   S. didelphis   S. dysgalactiae subsp. dysgalactiae   S. dysgalactiae subsp. equisimilis   S. equi subsp. equi   S. equi subsp. zooepidemicus   S. iniae   S. phocae   S. porcinus   S. anginosus   S. constellatus subsp. constellatus   S. constellatus subsp. pharyngis   S. intermedius   
+	S. pyogenes   S. agalactiae   S. canis   S. didelphis   S. dysgalactiae subsp. dysgalactiae   S. dysgalactiae subsp. equisimilis   S. equi subsp. equi   S. equi subsp. zooepidemicus   S. iniae   S. phocae   S. porcinus   S. anginosus   S. constellatus subsp. constellatus   S. constellatus subsp. pharyngis   S. intermedius   
 Characteristic
 Catalase                            −                −                  −            +b                  −                     −                −                        −              −             −               −               −                   −                    −                 −
 Acid production from:
@@ -5542,7 +5542,7 @@ footnote f: Reported results differ.
 
 #####
 TABLE 133. Characteristics of Streptococcus species: oral streptococcal species groupsa,b
-   S. anginosus   Anginosus group                                                                                                                                           Mutans group   S. constellatus subsp. constellatus   S. constellatus subsp. pharyngis   S. intermedius   S. criceti   S. devriesei   S. downei   S. ferus   S. macacae   S. mutans   S. orisratti   S. ratti   S. sobrinus   
+	S. anginosus   Anginosus group                                                                                                                                           Mutans group   S. constellatus subsp. constellatus   S. constellatus subsp. pharyngis   S. intermedius   S. criceti   S. devriesei   S. downei   S. ferus   S. macacae   S. mutans   S. orisratti   S. ratti   S. sobrinus   
 Characteristic
 Acid production
 from:
@@ -5594,7 +5594,7 @@ footnote i: O antigen present in biovar 1 strains.
 
 #####
 TABLE 134. Differential characteristics of the Bovis groupa,b
-   S. gallolyticus subsp.         S. gallolyticus subsp.   
+	S. gallolyticus subsp.         S. gallolyticus subsp.   
 Characteristic                             S. alactolyticus        S. equinus                gallolyticus                  macedonicus             S. infantarius          S. lutetiensis        S. pasteurianus
 Acid production from:
   Glycogen                                          −                  d                         +                              −                          d                      −                      −
@@ -5634,7 +5634,7 @@ footnote c: Character score differs from Facklam (2002), with the latter’s sco
 
 #####
 TABLE 135. Characteristics differentiating unusual streptococci including the Hyovaginalis groupa
-   Anginosus group   Bovis group   Species groups                                                                    Hyovaginalis group                                                      Unusual (ungrouped) streptococcal species   Mitis group   Mutans group   Pyogenic group   Salivarius group   S. hyovaginalis   S. pluranimalium   S. thoraltensis   S. acidominimusb   S. entericus   S. gallinaceus   S. hyointestinalis   S. minor   S. ovis   S. suis   680   
+	Anginosus group   Bovis group   Species groups                                                                    Hyovaginalis group                                                      Unusual (ungrouped) streptococcal species   Mitis group   Mutans group   Pyogenic group   Salivarius group   S. hyovaginalis   S. pluranimalium   S. thoraltensis   S. acidominimusb   S. entericus   S. gallinaceus   S. hyointestinalis   S. minor   S. ovis   S. suis   680   
 Characteristic
 Acid production from:
   Glycogen                             −             d                  −               d               d               −                  −                     −                   −                   −                   +               −                 −                     +          +        +
@@ -5734,7 +5734,7 @@ footnote a: +, Detected by direct plating; (+), detected by plating after enrich
 
 #####
 TABLE 138. Characteristics differentiating species and subspecies of the genus Lactococcusa,b
-   L. lactis subsp.   L. lactis subsp.    L. lactis subsp.   
+	L. lactis subsp.   L. lactis subsp.    L. lactis subsp.   
 Characteristic                     lactis            cremoris            hordniae            L. garviae           L. piscium    L. plantarum       L. raffinolactis
 Peptidoglycan type              Lys–d-Asp         Lys–d-Asp           Lys–d-Asp          Lys–Ala–Gly–Ala             ND         Lys–Ser–Ala        Lys–Thr–Ala
 Major menaquinonesd             MK-9, MK-8        MK-9, MK-8          MK-8, MK-9           MK-9, MK-8                ND              −                  −
@@ -5983,7 +5983,7 @@ TABLE 142. Characteristics of the species of the genus Clostridiuma
 
 #####
 TABLE 143. Characteristics of Clostridium species that fall outside cluster I of the clostridia and indicated as other characteristics in the species descriptionsa
-   C. aceticum   C. acidurici   C. aminovalericum   C. formicaceticum   C. leptum   C. polysaccharolyticum   C. propionicum   C. purinilyticum   C. sporosphaeroides   C. sticklandii   
+	C. aceticum   C. acidurici   C. aminovalericum   C. formicaceticum   C. leptum   C. polysaccharolyticum   C. propionicum   C. purinilyticum   C. sporosphaeroides   C. sticklandii   
 Characteristics
 Products from PYGb                  A              Af             Af                  A(Fs)                 A(2)               Fabp2                       PiVibbas (1)          FA                 ABp                    Aivbpib
 Motility                             +             +              0                     +                    −                   +                              +                 +                  −                        +
@@ -6013,7 +6013,7 @@ footnote b: Products (listed in the order of amounts usually detected): a, aceti
 
 #####
 TABLE 144. Characteristics of Clostridium species that fall outside cluster I of the clostridia and indicated as other characteristics in the species descriptionsa
-   C. arcticum   C. bifermentans   C. cellobioparum   C. clostridioforme   C. coccoides   C. cocleatum   C. colinum   C. difficile   C. felsineum   C. innocuum   C. lituseburense   C. nexile   C. oroticum   C. papyrosolvens   C. ramosum   C. rectum   C. saccharolyticum   C. sordellii   C. sphenoides   C. spiroforme   C. symbiosum   
+	C. arcticum   C. bifermentans   C. cellobioparum   C. clostridioforme   C. coccoides   C. cocleatum   C. colinum   C. difficile   C. felsineum   C. innocuum   C. lituseburense   C. nexile   C. oroticum   C. papyrosolvens   C. ramosum   C. rectum   C. saccharolyticum   C. sordellii   C. sphenoides   C. spiroforme   C. symbiosum   
 Characteristic
 Products from PYGb            PA(b) AF(ivic Alf2 A(Fls2)                                                 AS             AF(Ls) FAp(1) BAicivib AB4 BLa BAiVp- AF2 AF2(ls) AL2 FAl(s2) Bapv Afl2     A       AF(ls2) AFl(s2) ABL(f2,4)
                                     pibbls2)                                                                                          (fvl2,4) (lsf) (fs)   fib    (ls)                         (FiCpibivl)
@@ -6082,7 +6082,7 @@ footnote c: Products (listed in the order of amounts usually detected): a, aceti
 
 #####
 TABLE 146. Differential characteristics of Alkaliphilus species and other phylogenetically related genera of the family Clostridiaceaea
-   transvaalensis Alkaliphilus   crotonatoxidan Alkaliphilus   metalliredigens" "Alkaliphilus   magadiensis Tindallia   californiensis Tindallia   histidinovorans Natronoincola   Clostridium felsineum   
+	transvaalensis Alkaliphilus   crotonatoxidan Alkaliphilus   metalliredigens" "Alkaliphilus   magadiensis Tindallia   californiensis Tindallia   histidinovorans Natronoincola   Clostridium felsineum   
 Characteristic
 Motility                                         +                  +                   +                          +b               +                 +                 +
 Spore formation                                  +                  +                   +                           −               +                 d                 +
@@ -6115,7 +6115,7 @@ footnote b: Described as nonmotile in the original article, but motility has sin
 
 #####
 TABLE 146. Differential characteristics of Alkaliphilus species and other phylogenetically related genera of the family Clostridiaceaea
-   transvaalensis Alkaliphilus   crotonatoxidan Alkaliphilus   metalliredigens" "Alkaliphilus   magadiensis Tindallia   californiensis Tindallia   histidinovorans Natronoincola   Clostridium felsineum   
+	transvaalensis Alkaliphilus   crotonatoxidan Alkaliphilus   metalliredigens" "Alkaliphilus   magadiensis Tindallia   californiensis Tindallia   histidinovorans Natronoincola   Clostridium felsineum   
 Characteristic
 Motility                                        +                   +                   +                          +b               +                 +                 +
 Spore formation                                 +                   +                   +                           −               +                 d                 +
@@ -6196,7 +6196,7 @@ footnote e: Data from Kevbrin et al. (1998).
 
 #####
 TABLE 148. Differential characteristics of the members of the genus Caloramatora
-   1. C. fervidus Clostridium (formerly fervidus)   2. "C. celer" (for- brachium celere) merly Thermo-   3. C. coolhaasii   4. C. indicus   5. C. proteoclasticus   6. C. viterbiensis   
+	1. C. fervidus Clostridium (formerly fervidus)   2. "C. celer" (for- brachium celere) merly Thermo-   3. C. coolhaasii   4. C. indicus   5. C. proteoclasticus   6. C. viterbiensis   
 Characteristic
 Type strain               Strain Rt4-B1T=ATCC Strain JW/                          Strain ZT=DSM               Strain                  Strain UT=DSM        Strain JM/MS-
                              43204T=DSM         YL-NZ35T=DSM                        12679T                      IndiB4T=ACM             10124T               VS5T=DSM
@@ -6310,7 +6310,7 @@ footnote d: Smit (1933) reported that Sarcina maxima ferments lactose.
 
 #####
 TABLE 151. Glucose fermentation by Sarcina ventriculi and Sarcina maximaa,b
-   S. ventriculi                             S. maxima   Amount of productd   
+	S. ventriculi                             S. maxima   Amount of productd   
 Productc                                        1           2             3                 4               5
 Carbon dioxide                                195          190           190               149          197
 Hydrogen                                       41          170           140               230          223
@@ -6406,7 +6406,7 @@ footnote c: Only on peptone, and only as minor product.
 
 #####
 TABLE 154. Descriptive table of the Tindallia speciesa
-   T. magadiensis                      T. californiensis                    T. texcoconensis   
+	T. magadiensis                      T. californiensis                    T. texcoconensis   
 Morphology:
    Cell sizes (μm)                                 0.5–0.6 × 1.2–2.5                  0.6–0.7 × 2.4–3.0                      0.4–0.6×3.0–5.0
    Gram-positive cell-wall structure                       +                                  +                                     +
@@ -6561,7 +6561,7 @@ footnote g: Lecithinase may be produced.
 
 #####
 TABLE 157. Characteristics differentiating Alkalibacter and other representatives of the Eubacteriaceaea
-   Alkalibacter saccharofermentansb   Acetobacterium bakiic   Acetobacterium carbinolicumd   Acetobacterium fimetariumc   Acetobacterium malicume   Acetobacterium paludosumc   Acetobacterium psammolithicumf   Acetobacterium tundraeg   Acetobacterium wieringaeh   Acetobacterium woodiii   Anaerofustis stercorihominis j   Eubacterium aggregansk   Eubacterium barkeril   Eubacterium callanderim   Eubacterium limosuml   Garciella nitratireducensn   Pseudoramibacter alactolyticuso   898   
+	Alkalibacter saccharofermentansb   Acetobacterium bakiic   Acetobacterium carbinolicumd   Acetobacterium fimetariumc   Acetobacterium malicume   Acetobacterium paludosumc   Acetobacterium psammolithicumf   Acetobacterium tundraeg   Acetobacterium wieringaeh   Acetobacterium woodiii   Anaerofustis stercorihominis j   Eubacterium aggregansk   Eubacterium barkeril   Eubacterium callanderim   Eubacterium limosuml   Garciella nitratireducensn   Pseudoramibacter alactolyticuso   898   
 Characteristic
 Growth substrate:
   H2+CO2p             −        +                                                         +                                 +                               +                            +                            +                                 +                         +                            +                      ND                                     +                      ND                          −                           +                      ND                             −
@@ -6609,7 +6609,7 @@ footnote p: +, Homoacetogens.
 
 #####
 TABLE 158. Major characteristics that discriminate Garciella nitratireducens from Caloranaerobacter azorensis, Alkalibacter saccharofermentans, and Thermohalobacter berrensisa
-   Alkalibacter   
+	Alkalibacter   
 Characteristic                          Garciella nitratireducensb       Caloranaerobacter azorensisc    saccharofermentansd        Thermohalobacter berrensise
 Motility                                     Polar flagella                          ND                           −                      Lateral flagella
 Sporulation                                        +                                  −                           −                             −
@@ -6657,7 +6657,7 @@ footnote g: Only produced by Eubacterium callanderi.
 
 #####
 TABLE 160. Characteristics differentiating heliobacteriaa,b
-   Heliobacterium chlorum   Heliobacterium gestii   Heliobacterium modesticaldum   Heliobacterium sulfidophilum   Heliobacterium undosum   Heliobacillus mobilis   Heliophilum fasciatum   Heliorestis daurensis   Heliorestis baculata   Heliorestis convoluta   
+	Heliobacterium chlorum   Heliobacterium gestii   Heliobacterium modesticaldum   Heliobacterium sulfidophilum   Heliobacterium undosum   Heliobacillus mobilis   Heliophilum fasciatum   Heliorestis daurensis   Heliorestis baculata   Heliorestis convoluta   
 Characteristic
 Habitat                 Temperate soil                   Tropical paddy                 Neutral/alkaline        Alkaline           Alkaline              Tropical                    Tropical paddy soil              Soda lake shore                   Soda lake                  Soda lake shore
                                                               soil                      hot springs and         sulfidic            sulfidic            paddy soil                                                       line soil                    shoreline soil                  line soil
@@ -6761,7 +6761,7 @@ footnote c: Dalrymple et al. (1999) demonstrated that two different strains labe
 
 #####
 TABLE 163. Phenotypic features of Butyrivibrio groupsa
-   Butyrivibrio crossotusb   Butyrivibrio fibrisolvensc   Butyrivibrio hungateid   Curved rods group 2e   Curved rods group1e   Pseudobutyrivibrio ruminisf   Pseudobutyrivibrio xylanivoransd   
+	Butyrivibrio crossotusb   Butyrivibrio fibrisolvensc   Butyrivibrio hungateid   Curved rods group 2e   Curved rods group1e   Pseudobutyrivibrio ruminisf   Pseudobutyrivibrio xylanivoransd   
 Saccharolytic metabolism                     +                                                        +                                                                           +                                    +
 Poor growth without fermentable              +                                                        +                                                                                                                +
    carbohydrate
@@ -6821,7 +6821,7 @@ Fermentation of:
 
 #####
 TABLE 163. (continued)
-   Butyrivibrio crossotusb   Butyrivibrio fibrisolvensc   Butyrivibrio hungateid   Curved rods group 2e   Curved rods group1e   Pseudobutyrivibrio ruminisf   Pseudobutyrivibrio xylanivoransd   
+	Butyrivibrio crossotusb   Butyrivibrio fibrisolvensc   Butyrivibrio hungateid   Curved rods group 2e   Curved rods group1e   Pseudobutyrivibrio ruminisf   Pseudobutyrivibrio xylanivoransd   
   Melibiose                                          −
   Pectin                                                                         d
   Oxalate                                            −                                                                                                                                      −
@@ -6982,7 +6982,7 @@ footnote d: A/a, acetate; F, formate; L/l, lactate; P, propionate. Upper- and lo
 
 #####
 TABLE 168. Characteristics differentiating Dorea formicigenerans Dorea longicatena from other nonspore-forming Gram-stain-rods that do not produce butyratea,
-   Dorea formicigenerans   Dorea longicatena   Collinsella aerofaciens   Eggerthella lenta   Eubacterium contortum   Eubacterium eligens   Eubacterium fissicatena   Eubacterium hadrum   
+	Dorea formicigenerans   Dorea longicatena   Collinsella aerofaciens   Eggerthella lenta   Eubacterium contortum   Eubacterium eligens   Eubacterium fissicatena   Eubacterium hadrum   
 Characteristic
 Motility                   −                       −                    −                        −                    −                      +                      −                        −
 Utilization of:
@@ -7029,7 +7029,7 @@ footnote a: Symbols: +, >85% positive; d, different strains give different react
 
 #####
 TABLE 170. Characteristics differentiating Moryella indoligenes from some phylogenetically closely related bacteriaa,b
-   Moryella indoligenes   Butyrivibrio crossotus   Butyrivibrio fibrisolvens   Clostridium clostridioforme   Clostridium bolteae   Clostridium asparagiforme   Lachnospira multipara   Lachnospira pectinoschiza   Oribacterium sinus   Shuttleworthia satelles   
+	Moryella indoligenes   Butyrivibrio crossotus   Butyrivibrio fibrisolvens   Clostridium clostridioforme   Clostridium bolteae   Clostridium asparagiforme   Lachnospira multipara   Lachnospira pectinoschiza   Oribacterium sinus   Shuttleworthia satelles   
 Characteristics
 Cell shape        Elongated, with Curved       Curved                                                          Straight                         Straight                      Straight with Curved                                       Straight                       Ovoid                 Slightly
                     pointed ends                                                                                                                                              tapered ends                                                                                                    curved
@@ -7163,7 +7163,7 @@ footnote b: Data are based on Roseburia cecicola strain GMT (Stanton and Savage,
 
 #####
 TABLE 175. Characteristics differentiating Shuttleworthia satelles and other closely related taxaa
-   Shuttleworthia satelles   Butyrivibrio fibrisolvens   Eubacterium rectale   Eubacterium ramulus   Pseudobutyrivibrio ruminis   Roseburia cecicola   
+	Shuttleworthia satelles   Butyrivibrio fibrisolvens   Eubacterium rectale   Eubacterium ramulus   Pseudobutyrivibrio ruminis   Roseburia cecicola   
 Characteristic
 Cell shape                              Slightly                        Curved                        Slightly curved                Straight                   Curved                          Slightly curved
                                          curved
@@ -7268,7 +7268,7 @@ footnote f: 3-Hydroxybenzoate.
 
 #####
 TABLE 178. Characteristics of the genera of the family Peptococcaceae
-   Peptococcus   Cryptaerobacter   Dehalobacter   Desulfitobacterium   Desulfonispora   Desulfosporosinus   Desulfotomaculum   Pelotomaculum   Sporomaculum   Syntrophobotulus   Thermincola   
+	Peptococcus   Cryptaerobacter   Dehalobacter   Desulfitobacterium   Desulfonispora   Desulfosporosinus   Desulfotomaculum   Pelotomaculum   Sporomaculum   Syntrophobotulus   Thermincola   
 Characteristic
 Type species      niger              phenolicus                restrictus          dehalogenans               thiosulfatigenes           orientis                   nigriﬁcans             thermopropionicum Hydroxybenzoicum          glycolicus (of          carboxydiphila
   (GenBank      (X55797)            (AY327251)                (U84497)              (L28946)                     (Y18214)               (M34417)                    (X62176)                  (AB035723)        (Y14845)              strain SiGlym             (AY603000)
@@ -7498,7 +7498,7 @@ TABLE 186. Characteristics differentiating the species of the genus Desulfotomac
 
 #####
 TABLE 187. Characteristics differentiating members of the family Peptostreptococcus fam. nov. and related generaa
-   Peptostreptococcus   Filifactor   Tepidibacter   Anaerococcus   Finegoldia   Fusibacter   Gallicola   Helcococcus   Micromonas   Peptoniphilus   Sedimentibacter   Sporanaerobacter   Tissierella   
+	Peptostreptococcus   Filifactor   Tepidibacter   Anaerococcus   Finegoldia   Fusibacter   Gallicola   Helcococcus   Micromonas   Peptoniphilus   Sedimentibacter   Sporanaerobacter   Tissierella   
 Characteristic
 GenBank accession               D14150                  X73452         AY158079            D14139             D14149          AF050099         AB038361          X69837           AF542231          D14138              L11305              AF358114                X80833
   number (16S rRNA)b
@@ -7533,7 +7533,7 @@ footnote b: GenBank accession number given for type species of the genus.
 
 #####
 TABLE 188. Differentiation of butyrate-producing anaerobic Gram-stain-positive cocci found in human specimensa
-   Genus Peptostreptococcus   Peptostreptococcus anaerobius   Genus Anaerococcus   Anaerococcus prevotii   Anaerococcus tetradius   Anaerococcus lactolyticus   Anaerococcus hydrogenalis   Anaerococcus octavius   Anaerococcus vaginalis   Genus Peptoniphilus   Peptoniphilus asaccharolyticus   Peptoniphilus lacrimalis   Peptoniphilus harei   Peptoniphilus ivorii   Peptoniphilus indolicus   
+	Genus Peptostreptococcus   Peptostreptococcus anaerobius   Genus Anaerococcus   Anaerococcus prevotii   Anaerococcus tetradius   Anaerococcus lactolyticus   Anaerococcus hydrogenalis   Anaerococcus octavius   Anaerococcus vaginalis   Genus Peptoniphilus   Peptoniphilus asaccharolyticus   Peptoniphilus lacrimalis   Peptoniphilus harei   Peptoniphilus ivorii   Peptoniphilus indolicus   
 16S rRNA GenBank                                                 L04168                                                   D14139                      D14142                     D14154                        D14140                          Y07841                      D14146                                            D14138                             D14141                       Y07839                  Y07840                   D14147
   accession no.
 DNA G+C content                    33–34                         33–34                              26–34                  29–33                      30–32                      30–34                          30–34                           26–31                      28–30                      25–34                  31–32                              30–34                          25                      29                     32–34
@@ -7599,7 +7599,7 @@ footnote b: Small to moderate amounts.
 
 #####
 TABLE 191. Characteristics of species of the genus Ruminococcusa
-   R. flavefaciens   R. albus   R. bromii   R. callidus   R. gnavus   R. hansenii   R. hydrogenotrophicus   R. lactaris   R. luti   R. obeum   R. productus   R. schinkii   R. torques   
+	R. flavefaciens   R. albus   R. bromii   R. callidus   R. gnavus   R. hansenii   R. hydrogenotrophicus   R. lactaris   R. luti   R. obeum   R. productus   R. schinkii   R. torques   
 Characteristic
 16S rRNA gene                   X83430                X85098       X85099        X85100          D14136        D14155          X95624                    L76602          AJ133124     X85101       D14144           X94965          L76604
    accession no.
@@ -7625,7 +7625,7 @@ footnote a: Symbols: +, >85% positive; d, different strains give different react
 
 #####
 TABLE 192. Characteristics differentiating Acetanaerobacterium elongatum from its phylogenetic relativesa
-   Acetanaerobacterium elongatum   Anaerofilum agile   Anaerofilum pentosovorans   Anaerotruncus colihominis   Clostridium cellulosi   Clostridium leptum   Clostridium methylpentosum   Clostridium sporosphaeroides   Eubacterium siraeum   Fusobacterium prausnitzii   Ruminococcus flavefaciens   
+	Acetanaerobacterium elongatum   Anaerofilum agile   Anaerofilum pentosovorans   Anaerotruncus colihominis   Clostridium cellulosi   Clostridium leptum   Clostridium methylpentosum   Clostridium sporosphaeroides   Eubacterium siraeum   Fusobacterium prausnitzii   Ruminococcus flavefaciens   
 Characteristic
 DNA G+C content                50.5                               54.5                  55                           54                           35                         51–52                  46                             27                              45                    52–57                        39–44
   (mol%)
@@ -7646,7 +7646,7 @@ footnote c: On a scale of − (negative) to 4 (abundant); +, H2 produced.
 
 #####
 TABLE 193. Characteristics differentiating the genus Anaerotruncus from phylogenetically closely related taxaa,b
-   Anaerotruncus   Acetanaerobacterium   Anaerofilum   Clostridium cellulosi   Clostridium leptum   Clostridium sporosphaeroides   Ethanoligenens   Eubacterium siraeum   Fecalibacterium   Ruminococcus   Subdoligranulum   
+	Anaerotruncus   Acetanaerobacterium   Anaerofilum   Clostridium cellulosi   Clostridium leptum   Clostridium sporosphaeroides   Ethanoligenens   Eubacterium siraeum   Fecalibacterium   Ruminococcus   Subdoligranulum   
 Characteristic
 Cellular morphology                Thin rods            Thin rods                Thin long rods      Rods                     Rods                  Rods                             Rods                 Rods                        Rods                       Coccoid             Coccoid-droplet,
                                                                                                                                                                                                                                                                                     highly pleomorphic
@@ -7707,7 +7707,7 @@ d-Lactate                1.7             5.3             2.6          5.5
 
 #####
 TABLE 196. Characteristics which are useful in differentiating Fastidiosipila sanguinis from other taxa in rRNA cluster III and some other related organismsa,b
-   Fastidiosipila sanguinis   Acetivibrio cellulolyticus   Anaerofilum   Bacteroides cellulosolvens   Clostridium aldrichii   Clostridium cellobioparum   Clostridium cellulolyticum   Clostridium hungatei   Clostridium papyrosolvens   Clostridium stercorarium   Clostridium thermocellum   Clostridium thermosuccinogenes   Faecalibacterium prausnitzii   Papillibacter cinnaminivorans   
+	Fastidiosipila sanguinis   Acetivibrio cellulolyticus   Anaerofilum   Bacteroides cellulosolvens   Clostridium aldrichii   Clostridium cellobioparum   Clostridium cellulolyticum   Clostridium hungatei   Clostridium papyrosolvens   Clostridium stercorarium   Clostridium thermocellum   Clostridium thermosuccinogenes   Faecalibacterium prausnitzii   Papillibacter cinnaminivorans   
 Characteristic
 Cellular               Cocci                         Rods                          Rods           Rods                           Rods                      Rods                            Rods                          Rods                     Rods                          Rods                          Rods                         Rods                               Rods Rods
   morphology
@@ -7733,7 +7733,7 @@ footnote d: Cellulose fermentation.
 
 #####
 TABLE 197. Characteristics which are useful in differentiating Fastidiosipila sanguinis from some other Gram-positive coccus-shaped taxaa,b
-   Fastidiosipila sanguinis   Anaerococcus prevotii   Anaerococcus tetradius   Anaerococcus lactolyticus   Anaerococcus hydrogenalis   Anaerococcus octavius   Anaerococcus vaginalis   Peptoniphilus asaccharolyticus   Peptoniphilus lacrimalis   Peptoniphilus harei   Peptoniphilus ivorii   Peptoniphilus indolicus   Gallicola barnesae   Finegoldia magna   Micromonas micros   Peptostreptococcus anaerobius   Peptococcus niger   
+	Fastidiosipila sanguinis   Anaerococcus prevotii   Anaerococcus tetradius   Anaerococcus lactolyticus   Anaerococcus hydrogenalis   Anaerococcus octavius   Anaerococcus vaginalis   Peptoniphilus asaccharolyticus   Peptoniphilus lacrimalis   Peptoniphilus harei   Peptoniphilus ivorii   Peptoniphilus indolicus   Gallicola barnesae   Finegoldia magna   Micromonas micros   Peptostreptococcus anaerobius   Peptococcus niger   
 Characteristic
 Major terminal VFAc                               A, B                          B                        B                         B                            B                           B, C                      B                         B                                 B                          B                     B                       B                         A, B                   A                   A                   IC, IV                            C
 Production of:
@@ -7812,7 +7812,7 @@ footnote b: Substrates tested but not used by both strains include the following
 
 #####
 TABLE 199.       Characteristics differentiating the genus Subdoligranulum from phylogenetically closely related taxaa,b
-   Subdoligranulum   Anaerofilum   Clostridium cellulosi   Clostridium leptum   Clostridium sporosphaeroides   Eubacterium siraeum   Faecalibacterium   Ruminococcusc   
+	Subdoligranulum   Anaerofilum   Clostridium cellulosi   Clostridium leptum   Clostridium sporosphaeroides   Eubacterium siraeum   Faecalibacterium   Ruminococcusc   
 Characteristic
 Cellular mor-             Coccoid-     Thin long rods                       Rods                       Rods                    Rods                               Rods                       Rods                 Coccoid
   phology              droplet, highly
@@ -7843,7 +7843,7 @@ footnote e: PY-cellobiose broth.
 
 #####
 TABLE 200. Characteristics that differentiate species in the family Syntrophomonadaceaea
-   Syntrophomonas wolfei subsp. wolfei   Syntrophomonas wolfei subsp. saponavida   Syntrophomonas sapovorans   Syntrophomonas curvata   "Syntrophomonas erecta subsp. erecta"   "Syntrophomonas erecta subsp. sporosyntropha"   Pelospora glutarica   Syntrophospora bryantii   Syntrophothermus lipocalidus   Thermosyntropha lipolytica   
+	Syntrophomonas wolfei subsp. wolfei   Syntrophomonas wolfei subsp. saponavida   Syntrophomonas sapovorans   Syntrophomonas curvata   "Syntrophomonas erecta subsp. erecta"   "Syntrophomonas erecta subsp. sporosyntropha"   Pelospora glutarica   Syntrophospora bryantii   Syntrophothermus lipocalidus   Thermosyntropha lipolytica   
 Characteristic
 Cell width (μm)                           0.5–1.0                          0.4–0.6                         0.4–0.6                        0.5–0.7                         0.6–0.8                            0.5–0.7                             0.8                    0.4                       0.4–0.5                           0.3–0.4
 Cell length (μm)                          2.0–7.0                          2.0–4.0                         2.0–4.0                        2.3–4.0                         2.0–8.0                              4–14                           4.5–6.5                  4.5–6                      2.0–4.0                           2.0–3.5
@@ -7877,7 +7877,7 @@ Substrate utilization in pure culture:
 
 #####
 TABLE 200. (continued)
-   Syntrophomonas wolfei subsp. wolfei   Syntrophomonas wolfei subsp. saponavida   Syntrophomonas sapovorans   Syntrophomonas curvata   "Syntrophomonas erecta subsp. erecta"   "Syntrophomonas erecta subsp. sporosyntropha"   Pelospora glutarica   Syntrophospora bryantii   Syntrophothermus lipocalidus   Thermosyntropha lipolytica   1048   
+	Syntrophomonas wolfei subsp. wolfei   Syntrophomonas wolfei subsp. saponavida   Syntrophomonas sapovorans   Syntrophomonas curvata   "Syntrophomonas erecta subsp. erecta"   "Syntrophomonas erecta subsp. sporosyntropha"   Pelospora glutarica   Syntrophospora bryantii   Syntrophothermus lipocalidus   Thermosyntropha lipolytica   1048   
 Characteristic
 Substrate utilization in co-culture with
 methanogens:
@@ -8236,7 +8236,7 @@ footnote a: Symbols: +, >85% positive; −, 0–15% positive; v, variable.
 
 #####
 TABLE 214. Utilization of substrates by species of the genus Sporomusaa
-   1. S. sphaeroides   2. S. acidovorans   3. S. aerivorans   4. S. malonica   5. S. ovata   6. S. paucivorans   7. S. rhizae   8. S. silvacetica   9. S. termitida   
+	1. S. sphaeroides   2. S. acidovorans   3. S. aerivorans   4. S. malonica   5. S. ovata   6. S. paucivorans   7. S. rhizae   8. S. silvacetica   9. S. termitida   
 Utilization of
 N-Acetylglucosamine          NR                    NR                  NR                 NR               NR            NR                   +             NR                  NR
 Betaine                       +                    NR                  NR                  +                +             +                   +              +                   +
@@ -8266,7 +8266,7 @@ footnote b: Produces acetate from succinate; other species form propionate as th
 
 #####
 TABLE 215. Characteristics differentiating Zymophilus from other related taxaa
-   Zymophilus   Pectinatus   Propionispira   Selenomonas   
+	Zymophilus   Pectinatus   Propionispira   Selenomonas   
 Characteristic
 Acetoin production                     −             +               ND               ND
 Acid produced from:
@@ -8325,7 +8325,7 @@ footnote a: Symbols: +, >85% positive; d d, different among strains; −, 0–15
 
 #####
 TABLE 218. Comparison of Sedimentibacter with some Gram-stain-positive, rod-shaped bacteria from the family Peptostreptococcaceae, former clostridial cluster XII (Collins et al., 1994), and Clostridiales Family Incerta Sedis XI (Ludwig et al., 2009)a
-   Sedimentibacter hydroxybenzoicus   Clostridium acidiurici   Clostridium purinolyticum   Filifactor villosus   Fusibacter paucivorans   Soehngenia saccharolytica   Sporanaerobacter acetigens   Tissierella praeacutab   
+	Sedimentibacter hydroxybenzoicus   Clostridium acidiurici   Clostridium purinolyticum   Filifactor villosus   Fusibacter paucivorans   Soehngenia saccharolytica   Sporanaerobacter acetigens   Tissierella praeacutab   
 Characteristic
 Shape of rods                   Slightly curved,    Straight                                            Straight                        Rounded ends                 Spindle shaped                Slightly thickened in the                   Straight                        Rounded ends, swelling
                                  pointed ends                                                                                                                                                                middle                                                               toward the end
@@ -8491,7 +8491,7 @@ footnote d: Data from Fendrich et al. (1990).
 
 #####
 TABLE 224. Differential characteristics for Mogibacterium and phenotypically related generaa
-   Mogibacterium pumilum ATCC 700696T   Mogibacterium diversum ATCC 700923T   Mogibacterium neglectum ATCC 700924T   Mogibacterium timidum ATCC 33093T   Mogibacterium vescum ATCC 700697T   Slackia exigua ATCC 700122T   Cryptobacterium curtum ATCC 700683T   Eggerthella lenta ATCC 25559T   Eubacterium minutum ATCC 70079T   Eubacterium nodatum ATCC 33099T   Eubacterium saphenum ATCC 49989T   Eubacterium brachy ATCC 33089   
+	Mogibacterium pumilum ATCC 700696T   Mogibacterium diversum ATCC 700923T   Mogibacterium neglectum ATCC 700924T   Mogibacterium timidum ATCC 33093T   Mogibacterium vescum ATCC 700697T   Slackia exigua ATCC 700122T   Cryptobacterium curtum ATCC 700683T   Eggerthella lenta ATCC 25559T   Eubacterium minutum ATCC 70079T   Eubacterium nodatum ATCC 33099T   Eubacterium saphenum ATCC 49989T   Eubacterium brachy ATCC 33089   
 Characteristic
 End products from peptone/yeast extract/                 phe-a                                      phe-a                                  phe-a                                      phe-a                                 phe-a                                  _                              _                                     _                            B or b                              a,B                                a,b                                ib, ic, iv,
 glucose brothb                                                                                                                                                                                                                                                                                                                                                                                                                                                                  phe-p
@@ -8804,7 +8804,7 @@ footnote d: Grows well on propionate, 2-aminobutyric acid, malate, pyruvate, tar
 
 #####
 TABLE 235. Differential characteristics of the genera of the order Halanaerobiales (families Halanaerobiaceae and Halobacteroidaceae)a
-   Halanaerobium   Halanaerobiaceae                                                                                            Halobacteroidaceae   Halocella   Halothermothrix   Halobacteroides   Acetohalobium   Halanaerobacter   Halonatronum   Natroniella   Orenia   Selenihalanaerobacter   Sporohalobacter   
+	Halanaerobium   Halanaerobiaceae                                                                                            Halobacteroidaceae   Halocella   Halothermothrix   Halobacteroides   Acetohalobium   Halanaerobacter   Halonatronum   Natroniella   Orenia   Selenihalanaerobacter   Sporohalobacter   
 Characteristic
 Endospores                                 −                −             −                    D                   v                     −                    +               +                +         −                        +
 Sphaeroplast formation                     −                +            NR                     +                 NR                     +                    +               +                −        NR                        +
@@ -8892,7 +8892,7 @@ footnote b: Table taken from Rainey et al. 1995b. Anaerobe 1: 185–199. Reprodu
 
 #####
 TABLE 238. Differential characteristics of the type strains of species of the genus Halanaerobiuma,b
-   H. praevalens DSM 2228T   H. acetethylicum DSM 3532T   H. saccharolyticum subsp. saccharolyticum DSM 6643T   H. saccharolyticum subsp. senegalense DSM 7379T   H. salsuginis ATCC 51327T   H. alcaliphilum DSM 8275T   H. lacusrosei DSM 10165T   H. congolense DSM 11287T   H. kushneri ATCC 700103T   H. fermentans JCM 10494T   1198   
+	H. praevalens DSM 2228T   H. acetethylicum DSM 3532T   H. saccharolyticum subsp. saccharolyticum DSM 6643T   H. saccharolyticum subsp. senegalense DSM 7379T   H. salsuginis ATCC 51327T   H. alcaliphilum DSM 8275T   H. lacusrosei DSM 10165T   H. congolense DSM 11287T   H. kushneri ATCC 700103T   H. fermentans JCM 10494T   1198   
 Characteristic
 Cell size (μm)     0.9–11 × 2–2.6                        0.2–0.7 × 1–1.6                    0.5–0.7 × 1–1.5                  0.4–0.6 × 2–5                   0.3–0.4 × 2.6–4                   0.8 × 3.3–5                       0.5 × 2–3                      0.5–1 × 2–4                    0.7 × 2–3.3                     1–1.2 × 2.7–3.3
 Motility                    −                                   +                                  +                               +                                −                               +                                +                               −                              +                                 +
@@ -9077,7 +9077,7 @@ footnote b: Data obtained from Oren et al. (1987), Zhilina et al. (1999), and Mo
 
 #####
 TABLE 244.       Characteristics differentiating species of the genus Thermoanaerobactera
-   T. ethanolicus   T. acetoethylicus   T. brockii subsp. brockii   T.brockii subsp. finnii   T. brockii subsp. lactiethylicus   T. italicus   T. kivui   T. mathranii subsp. mathranii   T. mathranii subsp. alimentarius   T. pseudethanolicus   T. siderophilus   T. sulfurigignens   T. sulfurophilus   T. thermocopriae   T. thermohydrosulfuricus   T. wiegelii   T. ‘keratinophilus’   
+	T. ethanolicus   T. acetoethylicus   T. brockii subsp. brockii   T.brockii subsp. finnii   T. brockii subsp. lactiethylicus   T. italicus   T. kivui   T. mathranii subsp. mathranii   T. mathranii subsp. alimentarius   T. pseudethanolicus   T. siderophilus   T. sulfurigignens   T. sulfurophilus   T. thermocopriae   T. thermohydrosulfuricus   T. wiegelii   T. ‘keratinophilus’   
 Characteristic
 Spores                                            −       −       +       +       +      +   −       +     −    +    +       +       −       +       +        +       −
 Motility                                          +       +       −       +       +      −   −       +     +    +    +       +       +       +       +        +      NR
@@ -9221,7 +9221,7 @@ footnote b: With the exception of some species.
 
 #####
 TABLE 249. Characteristics differentiating Thermodesulfobium from other sulfate-reducing micro-organismsa
-   Thermodesulfobium (Firmicutes)   Archaeoglobus (Euryarchaeota)   Caldivirga (Crenarchaeota)   Desulfotomaculum and relatives (Firmicutes)   Desulfovibrio and relatives (Deltaproteobacteria)   Thermodesulfobacterium (Thermodesulfobacteria)   Thermodesulfovibrio (Nitrospirae)   
+	Thermodesulfobium (Firmicutes)   Archaeoglobus (Euryarchaeota)   Caldivirga (Crenarchaeota)   Desulfotomaculum and relatives (Firmicutes)   Desulfovibrio and relatives (Deltaproteobacteria)   Thermodesulfobacterium (Thermodesulfobacteria)   Thermodesulfovibrio (Nitrospirae)   
 Characteristic
 Optimum growth                50–55                               82–85                                      85                              20–68                                           10–38b                                                70–75                                              65
   temperature (°C)
@@ -9264,7 +9264,7 @@ footnote c: ND, Not determined.
 
 #####
 TABLE 251. Differential characteristics of the genus Coprothermobacter and other phylogenetically related and phenotypically similar genera
-   Coprothermobacter   Aquifex   Fervidobacterium   Thermoanaerobacter   Thermoanaerobacterium   Thermosipho   Thermotoga   
+	Coprothermobacter   Aquifex   Fervidobacterium   Thermoanaerobacter   Thermoanaerobacterium   Thermosipho   Thermotoga   
 Characteristic
 Morphology                                              Rods                  Rods       Rods with sheath,         Rods                  Rods                       Rods with         Rods with
                                                                                             spheroids                                                             sheath, chains       sheath
@@ -9313,7 +9313,7 @@ footnote f: Data from Huang et al. (1998).
 
 #####
 TABLE 253. Comparison of properties among Thermoananerobacterium speciesa,b
-   T. aciditolerans   T. aotearoense   T. polysaccharolyticum   T. saccharolyticum   T. thermosaccharolyticum   T. thermosulfurigenes   T. xylanolyticum   T. zeae   
+	T. aciditolerans   T. aotearoense   T. polysaccharolyticum   T. saccharolyticum   T. thermosaccharolyticum   T. thermosulfurigenes   T. xylanolyticum   T. zeae   
 Characteristics
 Spores                                       +                     +                   −                         −                      +                             +                        +                    −
 Gram stain                                  NA                     −                   v                         −                      −                             −                        −                    v
