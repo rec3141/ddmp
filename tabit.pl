@@ -11,7 +11,7 @@ while (<>) {
 #   $str =~ s/^$charspace//;
 #   $str =~ s/\b[ ]+$//; #remove trailing spaces
 #   $str =~ s/^[ ]+\b//; #remove beginning spaces
-  while ($str =~ s/(\S*)[ ]{3,}(\S)/$1\t$2/g) {; #make tabs
+  while ($str =~ s/(\S)[ ]{2,}(\S)/$1\t$2/g) {; #make tabs
   $str =~ s/ \t/\t/g; #despace tabs
   }
 print $str;# unless ($str eq $_);
