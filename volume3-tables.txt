@@ -1,3 +1,4 @@
+#####
 TABLE 1. Phenotypic characteristics of genera belonging to the family Bacillaceae a
                                                                                                                                                                                                                                                                                                                                                                                                                                22
 
@@ -47,11 +48,6 @@ Oxygen requirements:
   Facultative anaerobes                 +             −                  +                   +                 −                                      +               +                     −                +                        −                  −                  +                    +                      −                  −                                        −                      +
   Strict anaerobes                      +
 Growth in media with added NaCl:
-                                                                                                                                                                                                                                                                                                                                                                                                                               FAMILY I. BACILLACEAE
-
-
-
-
   0%                                    +             −                                      +                 +                   −                  +               v                     −                +                        −                  v                  +                    +                      −                  +                    −                   −                      v
   5%                                    +             +                  +                   +                 +                   +                  +               +                     +                +                        +                  +                  +                    +                      +                                       +                   +                      +
   10%                                   +             +                                      −                 −                   +                  +               +                     +                +                        +                  +                  +                    +                      +                                       +                   +                      +
@@ -328,71 +324,71 @@ f
  Assimilation data for Bacillus simplex are for the type strain only.
 
 #####
-                TABLE 5. Differentiation of Bacillus subtilis from closely related Bacillus speciesa,b
-                                                                               6. B. amyloliquefaciens
-                                                  subtilis and spizizeniic
-                                                  1. B. subtilis subspp.
+TABLE 5. Differentiation of Bacillus subtilis from closely related Bacillus speciesa,b
+                                                               6. B. amyloliquefaciens
+                                  subtilis and spizizeniic
+                                  1. B. subtilis subspp.
 
 
 
 
-                                                                                                                             51. B. licheniformis
+                                                                                                             51. B. licheniformis
 
 
 
 
-                                                                                                                                                                                                             91. B. vallismortis
-                                                                                                         11. B. atrophaeus
+                                                                                                                                                                                             91. B. vallismortis
+                                                                                         11. B. atrophaeus
 
 
 
 
-                                                                                                                                                    57. B. mojavensis
+                                                                                                                                    57. B. mojavensis
 
 
 
 
-                                                                                                                                                                                         83. B. sonorensis
-                                                                                                                                                                        73. B. pumilus
-                Characteristic
-                Pigmented colonies
-                   Yellow-pink-red                        −d                       −                      −                     −                      −                  −              we                   −
-                   Dark brown/black                       −d                       −                      +f                    −                      −                  −              −                    −
-                Anaerobic growth                          −                        −                      −                     +                      −                  −              +                    −
-                Acid from:
-                   Glycogen                                 +                      +                     nd                     +                   nd                    −              nd                  nd
-                   Methyl α-d-mannoside                     −                      −                     nd                     −                   nd                    +              nd                  nd
-                   Starch                                   +                      +                     nd                     +                   nd                    −              nd                  nd
-                Hydrolysis of starch                        +                      +                      +                     +                    +                    −               +                   +
-                Utilization of propionate                   −                      −                      −                     +                    −                    −               +                   −
-                Nitrate reduction                           +                      +                      +                     +                    +                    −               +                   +
-                Growth in NaCl:
-                   5%                                     +                    +                          +                   +                        +                  +               −                   +
-                   7%                                     +                   nd                          +                   +                        +                  +               −                   +
-                   10%                                   nd                   d                          nd                  nd                        +                  +               −                   +
-                Growth at:
-                   5 °C                                     −                      −                       d                    −                     d                   d               −                  d
-                   10 °C                                    d                      −                       +                    −                     +                   d               −                  +
-                   50 °C                                    d                      +                       +                    +                     +                   d               +                  +
-                   55 °C                                    −                      −                       d                    d                     d                   −               +                  −
-                   65 °C                                    −                      −                       −                    −                     −                   −               −                  −
-                a
-                  Symbols: +, >85% positive; d, different strains give different reactions (16–84% positive); −, 0–15% posi-
-                tive; w, weak reaction; nd, no data are available.
-                b
-                  Compiled from Claus and Berkeley (1986), Priest et al. (1987), Nakamura (1989), Roberts et al. (1994,
-                1996), Nakamura et al. (1999), and Palmisano et al. (2001).
-                c
-                  The subspecies of Bacillus subtilis are not distinguishable by routine phenotypic tests.
-                d
-                  Bacillus subtilis may form pigments, varying from cream through yellow, orange, pink and red, to brown
-                or black, on potato or agar media containing glucose; strains forming brown or black pigment were often
-                formerly called “Bacillus subtilis var. aterrimus.”
-                e
-                  Colonies are yellowish-cream on routine media, and bright yellow on pH 5.6 agar.
-                f
-                  This species accommodates strains forming brownish-black pigment on tyrosine (and so often evident on
-                the crude media available to earlier workers), and often formerly called “Bacillus subtilis var. niger.”
+                                                                                                                                                                         83. B. sonorensis
+                                                                                                                                                        73. B. pumilus
+Characteristic
+Pigmented colonies
+   Yellow-pink-red                        −d                       −                      −                     −                      −                  −              we                   −
+   Dark brown/black                       −d                       −                      +f                    −                      −                  −              −                    −
+Anaerobic growth                          −                        −                      −                     +                      −                  −              +                    −
+Acid from:
+   Glycogen                                 +                      +                     nd                     +                   nd                    −              nd                  nd
+   Methyl α-d-mannoside                     −                      −                     nd                     −                   nd                    +              nd                  nd
+   Starch                                   +                      +                     nd                     +                   nd                    −              nd                  nd
+Hydrolysis of starch                        +                      +                      +                     +                    +                    −               +                   +
+Utilization of propionate                   −                      −                      −                     +                    −                    −               +                   −
+Nitrate reduction                           +                      +                      +                     +                    +                    −               +                   +
+Growth in NaCl:
+   5%                                     +                    +                          +                   +                        +                  +               −                   +
+   7%                                     +                   nd                          +                   +                        +                  +               −                   +
+   10%                                   nd                   d                          nd                  nd                        +                  +               −                   +
+Growth at:
+   5 °C                                     −                      −                       d                    −                     d                   d               −                  d
+   10 °C                                    d                      −                       +                    −                     +                   d               −                  +
+   50 °C                                    d                      +                       +                    +                     +                   d               +                  +
+   55 °C                                    −                      −                       d                    d                     d                   −               +                  −
+   65 °C                                    −                      −                       −                    −                     −                   −               −                  −
+a
+  Symbols: +, >85% positive; d, different strains give different reactions (16–84% positive); −, 0–15% posi-
+tive; w, weak reaction; nd, no data are available.
+b
+  Compiled from Claus and Berkeley (1986), Priest et al. (1987), Nakamura (1989), Roberts et al. (1994,
+1996), Nakamura et al. (1999), and Palmisano et al. (2001).
+c
+  The subspecies of Bacillus subtilis are not distinguishable by routine phenotypic tests.
+d
+  Bacillus subtilis may form pigments, varying from cream through yellow, orange, pink and red, to brown
+or black, on potato or agar media containing glucose; strains forming brown or black pigment were often
+formerly called “Bacillus subtilis var. aterrimus.”
+e
+  Colonies are yellowish-cream on routine media, and bright yellow on pH 5.6 agar.
+f
+  This species accommodates strains forming brownish-black pigment on tyrosine (and so often evident on
+the crude media available to earlier workers), and often formerly called “Bacillus subtilis var. niger.”
 
 #####
 TABLE 6. Differentiation of alkaliphilic Bacillus speciesa,b
@@ -462,6 +458,7 @@ red colonies, owing to elemental selenium precipitation, on selenium oxide media
 color, and one of the three strains described produces dark yellow colonies with age; Bacillus pseudofirmus colonies are yellow.
 d
   Bacillus arseniciselenatis does not grow aerobically; Bacillus selenitireducens grows weakly in microaerobic conditions.
+
 #####
 TABLE 7. Differentiation of Bacillus cereus from closely related Bacillus speciesa,b.
                                                                    60. B. cereus (emetic biovar)c
@@ -680,6 +677,7 @@ marine agar they are predominantly ellipsoidal.
 d
   Mosquitocidal strains of Bacillus sphaericus produce parasporal toxin crystals which are smaller than those produced by Bacillus thuringiensis, but which are none-
 theless visible by phase-contrast microscopy.
+
 #####
 TABLE 10. Differential characteristics of Alkalibacillus speciesa
 
@@ -725,6 +723,7 @@ Hydrolysis of:
 Nitrate reduction                                    −                                  −                     −                   +
 a
     Data are based on Table 1 in Usami et al. (2007). w, Weak.
+
 #####
 TABLE 10. Differential characteristics of Alkalibacillus speciesa
 
@@ -770,9 +769,9 @@ Hydrolysis of:
 Nitrate reduction                                    −                                  −                     −                   +
 a
     Data are based on Table 1 in Usami et al. (2007). w, Weak.
+
 #####
-TABLE 11. Differential characteristics of Amphibacillus species and members of closely related genera
-in the phylogenetic treea
+TABLE 11. Differential characteristics of Amphibacillus species and members of closely related genera in the phylogenetic treea
 
 
 
@@ -849,6 +848,7 @@ f
   Wainø et al. (1999).
 g
   Pyruvate is produced under aerobic conditions.
+
 #####
 TABLE 12. Distinctive characteristics of the genus Anoxybacillus and other endospore-forming generaa
 
@@ -928,6 +928,7 @@ l
   Data from Pikuta et al. (2003b).
 m
   Data from Kevbrin et al. (1998).
+
 #####
 TABLE 13. Diagnostic characteristics for species of genus Anoxybacillusa
 
@@ -1144,6 +1145,7 @@ j
  Data from Garabito et al. (1997).
 k
   Data from Heyndrickx et al. (1998).
+
 #####
 TABLE 16. Characteristics of Filobacillus milensisa
 Characteristic                                                Result          
@@ -1776,8 +1778,7 @@ b
   Data from Ishikawa et al. (2005).
 
 #####
-TABLE 33. Characteristics differentiating Paraliobacillus from related members of the halophilic/halotolerant/alkaliphilic and/or alkalitolerant
-group in Bacillus rRNA group 1, Alkalibacterium species and Marinilactibacillus psychrotoleransa
+TABLE 33. Characteristics differentiating Paraliobacillus from related members of the halophilic/halotolerant/alkaliphilic and/or alkalitolerant group in Bacillus rRNA group 1, Alkalibacterium species and Marinilactibacillus psychrotoleransa
                                                                                               Amphibacillus tropicusd
                                                 Amphibacillus xylanusc
                                                                                                                                                                                                                                          Marinilactibacillus
@@ -2535,6 +2536,7 @@ e
   Nitrates reduced to nitrites by Listeria grayi subsp. murrayi.
 f
  Tween 80 esterase not produced by Listeria grayi subsp. murrayi.
+
 #####
 TABLE 41. Additional descriptive characteristics for differentiating species of the genus Listeria a,b
 Characteristic                            L. monocytogenes            L. grayi            L. innocua           L. ivanovii          L. seeligeri      L. welshimeri
@@ -2679,6 +2681,7 @@ k
   Straight-chain saturated; U, monounsaturated; A, anteiso-methyl-branched; I, iso-methyl-branched; cyclopropane-ring fatty acids.
 l
   Those in parentheses may be present.
+
 #####
 TABLE 44. DNA–DNA hybridization (per cent relative binding at 60°C) of Listeria speciesa
 Species                    L. monocytogenes        L. ivanovii   L. innocua    L. welshimeri    L. seeligeri
@@ -2694,8 +2697,7 @@ a
 
 
 #####
-TABLE 45. Numbers of nucleotide differences and homology values of a continuous stretch
-of 1458 nucleotides of the 16S rRNA of Listeria species
+TABLE 45. Numbers of nucleotide differences and homology values of a continuous stretch of 1458 nucleotides of the 16S rRNA of Listeria species
                                  No. nucleotide differences or % homology between:a,b
 Species                L. innocua      L. ivanovii      L. monocytogenes   L. seeligeri L. welshimeri
 L. innocua                                  98.8             99.2               98.7         99.1
@@ -3505,8 +3507,7 @@ d
   Data for this species were obtained by incubating at 45°C.
 
 #####
-TABLE 54. Percentage fatty acid composition of Cohnella thermotolerans,
-Cohnella hongkongensis, Bacillus subtilis, and Paenibacillus polymyxaa
+TABLE 54. Percentage fatty acid composition of Cohnella thermotolerans, Cohnella hongkongensis, Bacillus subtilis, and Paenibacillus polymyxaa
 Fatty acid C. thermotolerans C. hongkongensis B. subtilis                P. polymyxa
 C13:0 anteiso        0.8
 C14:0 iso            2.1                   2.3                 1
@@ -3535,9 +3536,7 @@ taken from Kämpfer (2002) and are compiled from several species descriptions.
 
 
 #####
-TABLE 55. Common characteristics of Pasteuria ramosa Metchnikoff (1888), Pasteuria penetrans sensu stricto emend. Starr and Sayre (1988a), Pas-
-teuria thornei Starr and Sayre (1988a), Pasteuria nishizawae Sayre, Wergin, Schmidt and Starr (1991) emend. Noel, Atibalentja and Domier (2005),
-and “Candidatus Pasteuria usgae” Giblin-Davis, Williams, Bekal, Dickson, Brito, Becker and Preston (2003b)
+TABLE 55. Common characteristics of Pasteuria ramosa Metchnikoff (1888), Pasteuria penetrans sensu stricto emend. Starr and Sayre (1988a), Pasteuria thornei Starr and Sayre (1988a), Pasteuria nishizawae Sayre, Wergin, Schmidt and Starr (1991) emend. Noel, Atibalentja and Domier (2005), and “Candidatus Pasteuria usgae” Giblin-Davis, Williams, Bekal, Dickson, Brito, Becker and Preston (2003b)
 Characterisitic                                                                                     Description
 Morphological similarities as observed by light microscopy:
  Vegetative cells                                             Microcolonies consist of dichotomously branched mycelium. Diameter of mycelial
@@ -4136,8 +4135,7 @@ h
   Personal data.
 
 #####
-TABLE 67. Results of substrate utilization as determined by BIOLOG GP2 microtiter plates scored after incubation of 24 h at 28°C
-or 72 h at 25°C for Kurthia speciesa
+TABLE 67. Results of substrate utilization as determined by BIOLOG GP2 microtiter plates scored after incubation of 24 h at 28°C or 72 h at 25°C for Kurthia speciesa
 Carbon source                                    1. K. zopfii DSM 20580T            2. K. gibsonii DSM 20636T           3. K. sibirica DSM 4747T
 Glycogen                                                     w                                   −                                   −
 N-Acetyl-β-d-glucosamine                                     ++                                  −                                   −
@@ -5425,8 +5423,7 @@ f
  Information is given for the type species which constitutes the only species of the genus.
 
 #####
-TABLE 88. Percentage DNA–DNA similarity among pediococci and with reference also to Tetragenococcus and Aerococcus (Pediococcus urinaeequi – Syn.
-Aerococcus)a
+TABLE 88. Percentage DNA–DNA similarity among pediococci and with reference also to Tetragenococcus and Aerococcus (Pediococcus urinaeequi – Syn. Aerococcus)a
                                                                                                                                                            subsp. interme-
                                                                                                                                           P. pentosaceus
 
@@ -5487,8 +5484,7 @@ a
 Data compiled from Back and Stackebrandt (1978), Dellaglio et al. (1981), Dellaglio and Torriani (1986), Franz et al. (2006), and Zhang et al. (2005).
 
 #####
-TABLE 88. Percentage DNA–DNA similarity among pediococci and with reference also to Tetragenococcus and Aerococcus (Pediococcus urinaeequi – Syn.
-Aerococcus)a
+TABLE 88. Percentage DNA–DNA similarity among pediococci and with reference also to Tetragenococcus and Aerococcus (Pediococcus urinaeequi – Syn.Aerococcus)a
                                                                                                                                                            subsp. interme-
                                                                                                                                           P. pentosaceus
 
@@ -5549,8 +5545,7 @@ a
 Data compiled from Back and Stackebrandt (1978), Dellaglio et al. (1981), Dellaglio and Torriani (1986), Franz et al. (2006), and Zhang et al. (2005).
 
 #####
-TABLE 89. Differentiation of the genus Pediococcus from the atyptical species Pediococcus dextrinicus and from Aerococcus and Tetra-
-genococcus (Holzapfel et al., 2005)a,b
+TABLE 89. Differentiation of the genus Pediococcus from the atyptical species Pediococcus dextrinicus and from Aerococcus and Tetragenococcus (Holzapfel et al., 2005)a,b
 Characteristic                                                              Pediococcus
                                                      Pediococcus            dextrinicus          Aerococcus           Tetragenococcus
 Growth at pH 5                                            +                     +                    −                       −
@@ -5728,8 +5723,7 @@ Symbols: +, >85% positive; d, different strains give different reactions (16–8
 determined.
 
 #####
-TABLE 95. Conventional phenotypic tests (Facklam and Elliott, 1995) which are useful in distinguishing Dolosicoccus paucivorans from related
-bacteria from human sourcesa,b
+TABLE 95. Conventional phenotypic tests (Facklam and Elliott, 1995) which are useful in distinguishing Dolosicoccus paucivorans from related bacteria from human sourcesa,b
                 Dolosicoccus Dolosigranulum           Facklamia          Facklamia            Facklamia          Facklamia    Globicatella    Ignavigravum
 Test            paucivorans      pigrum                hominis            ignava              languida            sourekii     sanguinis         ruoffiae
 LAP                   −                 +                 +                   +                    +                +              −                +
@@ -5743,8 +5737,7 @@ b
 Abbreviation: LAP, leucine aminopeptidase.
 
 #####
-TABLE 96. API Rapid ID 32Strep system tests which are useful in distinguishing Dolosicoccus paucivorans from some related Gram-stain-positive,
-catalase-negative, coccus-shaped species from human and animal sourcesa,b
+TABLE 96. API Rapid ID 32Strep system tests which are useful in distinguishing Dolosicoccus paucivorans from some related Gram-stain-positive, catalase-negative, coccus-shaped species from human and animal sourcesa,b
                  Dolosicoccus Eremococcus      Facklamia     Facklamia     Facklamia     Faclamia       Facklamia     Globicatella    Globicatella    Ignavigranum
 Test             paucivorans   coleocola        hominis       ignava       languida      miroungae       sourekii      sanguinis     sulfidifaciens      ruoffiae
 Acid from:
@@ -5774,8 +5767,7 @@ glucoside; ADH, arginine dihydrolase; APPA, alanyl phenylalanine proline arylami
 URE, urease.
 
 #####
-TABLE 97. Phenotypic characteristics of Facklamia species, Ignavigranum ruoffiae, and Dolosigranulum pigrum as determined
-by conventional biochemical testsa,b
+TABLE 97. Phenotypic characteristics of Facklamia species, Ignavigranum ruoffiae, and Dolosigranulum pigrum as determined by conventional biochemical testsa,b
 Test                   D. pigrum     F. hominis     F. ignava     F. miroungae     F. languida     F. sourekii       F. tabacinasalis   I. ruoffiae
 Arginine                   −                +           −               +               −               −                   −                  −
 Hippurate                  −                +           +               −               −               +                   −                  −
@@ -5815,8 +5807,7 @@ glutamic acid arylamidase; all species fail to produce acid from l-arabinose, cy
 raffinose, ribose, and tagatose. None display activity for alkaline phosphatase, β-glucosidase, β-glucuronidase, or β-mannosidase.
 
 #####
-TABLE 99. Tests distinguishing Globicatella sanguinis and Globicatella
-sulfidifaciensa
+TABLE 99. Tests distinguishing Globicatella sanguinis and Globicatella sulfidifaciensa
 Test                              G. sanguinis               G. sulfidifaciens
 Acid from:
   Mannitol                              +                           −
@@ -5960,9 +5951,7 @@ f
  Data from Ishikawa et al. (2003).
 
 #####
-TABLE 103. Occurrence of 16S rDNA signatures demonstrating the phylogenetic heterogeneity of
-the genus Carnobacterium and the phylogenetic closeness of Desemzia incerta with members of Carnobac-
-terium group
+TABLE 103. Occurrence of 16S rDNA signatures demonstrating the phylogenetic heterogeneity of the genus Carnobacterium and the phylogenetic closeness of Desemzia incerta with members of Carnobacterium group
                                                      Carnobacterium group 1                 Carnobacterium group 2
                                                 Desemzia incerta, C. alterfundidum,        C. divergens, C. gallinarum,
 Nucleotide positiona                            C. inhibens, C. mobile, C. fundidum                 C. piscicola
@@ -5980,8 +5969,7 @@ c
   Purine.
 
 #####
-TABLE 104. Presence of unique nucleotides of Desemzia incerta, com-                                                  
-pared to the homologous composition in members of Carnobacterium                                                     
+TABLE 104. Presence of unique nucleotides of Desemzia incerta, compared to the homologous composition in members of Carnobacterium                                                     
 Nucleotide position                                        Desemzia incerta               Carnobacterium species     
 78–91                                                                     C–G                    Ra–Y                
 139–224                                                                   C–G                    U–A                 
@@ -6064,8 +6052,7 @@ tions: ADH, arginine dihydrolase; APPA, alanine phenylalanine proline arylamidas
 dase; NAG, N-acetyl β-glucosaminidase; PYRA, pyroglutamic acid arylamidase; URE, urease.
 
 #####
-TABLE 107. Characteristics distinguishing the genus Granulicatella from phylogenetically closely
-related taxaa,b
+TABLE 107. Characteristics distinguishing the genus Granulicatella from phylogenetically closely related taxaa,b
 Characteristic                           Granulicatella                     Atopobacter               Trichococcus
 Cell morphology                             Cocci                              Rods                  Cocci/ovoid
 Relationship to air                Facultatively anaerobic            Facultatively anaerobic        Aerotolerant
@@ -6225,8 +6212,7 @@ b
 Data from Ishikawa et al. (2005).
 
 #####
-TABLE 113. Characteristics that distinguish Marinilactibacilus psychrotolerans from other lactic acid rods and Paraliobacillus ryukyuensis, which are
-phenotypically similar and were isolated from saline/alkaline environmentsa
+TABLE 113. Characteristics that distinguish Marinilactibacilus psychrotolerans from other lactic acid rods and Paraliobacillus ryukyuensis, which are phenotypically similar and were isolated from saline/alkaline environmentsa
                       Marinilact-
                         ibacillus    Alkalibacterium Alkalibacterium Alkalibacterium Carnobacterium Carnobacterium Halolactibacillus Paraliobacillus
 Characteristic      psychrotoleransb    iburiensec   olivapovliticusd psychrotoleranse alterfunditumf funditumf      halophilusg      ryukyuensish
@@ -6483,8 +6469,7 @@ c
   Enantiomers are not stated in literature
 
 #####
-TABLE 117. DNA similarity values recorded between Tetragenococcus                 
-spp.a,b                                                                           
+TABLE 117. DNA similarity values recorded between Tetragenococcus spp.a,b                                                                           
                         Percentage relatedness to labeled DNA from:               
                        T. halophilus IAM         T. halophilus    T. muriaticus   
 Strain                       1676T                IAM 1678        JCM 10006T      
@@ -6561,8 +6546,7 @@ Kobayashi et al. (2000b), Ennahar and Cai (2005), Lee et al. (2005). Sugar ferme
 type strains.
 
 #####
-TABLE 119. Fatty acid composition (as % of total fatty acids) of Tetrag-        
-enococcus spp.a,b                                                               
+TABLE 119. Fatty acid composition (as % of total fatty acids) of Tetragenococcus spp.a,b                                                               
                      T. halophilus T. muriaticus T. koreensis T. solitarius     
 Fatty acid           IAM 1676T JCM 10006T DSM 16501T DSM 5634T                  
 Saturated:                                                                      
@@ -6589,8 +6573,7 @@ b
 Data from Lee et al. (2005).                                                    
 
 #####
-TABLE 120. Tests based on the API Rapid ID32 Strep system which is useful in distinguishing
-species of the genus Vagococcusa,b
+TABLE 120. Tests based on the API Rapid ID32 Strep system which is useful in distinguishing species of the genus Vagococcusa,b
 Test                          V. fluvialis          V. fessus            V. lutrae        V. salmoninarum
 Acid from:
    Cyclodextrin                    +                   d                    +                    −
@@ -6619,8 +6602,7 @@ raffinose; produce pyroglutamic acid arylamidase; do not produce arginine dihydr
 nine proline arylamidase, or β-glucuronidase; and do not hydrolyze hippurate.
 
 #####
-TABLE 121. Major phenotypic characteristics differentiating members of the genus Leuconostoc from other genera of the lactic acid bacteria (LAB) (Björkroth and
-Holzapfel, 2006; modified)a
+TABLE 121. Major phenotypic characteristics differentiating members of the genus Leuconostoc from other genera of the lactic acid bacteria (LAB) (Björkroth and Holzapfel, 2006; modified)a
                                                                  Homofermentative
                                                            ovoid-shaped LAB (Enterococcus,    Homofermentative      Heterofermentative
 Characteristic             Leuconostoc        Weissella       Lactococcus, Streptococcus)       Lactobacillus          Lactobacillus       Carnobacterium    Pediococcus
@@ -6716,9 +6698,7 @@ et al. (2000b), for Leuconostoc lactis from Garvie (1986), and for Leuconostoc p
 obtained from the German Collection of Microorganisms and Cell Cultures (DSMZ), Braunschweig, Germany.
 
 #####
-TABLE 123. Percentage sequence similarities for a 1491-nucleotide region of 16S rRNA of some species
-of the genus Leuconostoc, compared to Weissella paramesenteroides (compiled from Björkroth and Holzapfel,
-2006)a
+TABLE 123. Percentage sequence similarities for a 1491-nucleotide region of 16S rRNA of some species of the genus Leuconostoc, compared to Weissella paramesenteroides (compiled from Björkroth and Holzapfel, 2006)a
 
 
 
@@ -6782,10 +6762,7 @@ enteroides, LMG 11482T; Weissella paramesenteroides LMG 9852T
 
 
 #####
-TABLE 124. 16S rRNA gene sequence information for Leuconostoc spp.
-(modified from Barrangou et al., 2002; Antunes et al., 2002; Kim et al.,
-
-2003; Leisner et al., 2005)
+TABLE 124. 16S rRNA gene sequence information for Leuconostoc spp. (modified from Barrangou et al., 2002; Antunes et al., 2002; Kim et al., 2003; Leisner et al., 2005)
 
 Species/subspecies                 Accession no.a       Total length (nt)
 Leuconostoc amelibiosum         S78390                         1490
@@ -7923,7 +7900,6 @@ a
 TABLE 138. Characteristics differentiating species and subspecies of the genus Lactococcusa,b
                               L. lactis subsp.   L. lactis subsp.    L. lactis subsp.
 Characteristic                     lactis            cremoris            hordniae            L. garviae           L. piscium    L. plantarum       L. raffinolactis
-                      c
 Peptidoglycan type              Lys–d-Asp         Lys–d-Asp           Lys–d-Asp          Lys–Ala–Gly–Ala             ND         Lys–Ser–Ala        Lys–Thr–Ala
 Major menaquinonesd             MK-9, MK-8        MK-9, MK-8          MK-8, MK-9           MK-9, MK-8                ND              −                  −
 Acid production from:
@@ -7969,9 +7945,7 @@ b
 Lancefield (1933).
 
 #####
-TABLE 140. Species of the genus Clostridium falling within the radia-       
-tion of cluster I and considered to represent the genus Clostridium sensu   
-stricto                                                                     
+TABLE 140. Species of the genus Clostridium falling within the radiation of cluster I and considered to represent the genus Clostridium sensu stricto                                                                     
 Clostridium butyricum                                                       
 Clostridium acetireducans                                                   
 Clostridium acetobutylicum                                                  
@@ -8052,8 +8026,7 @@ Clostridium uliginosum
 Clostridium vincentii
 
 #####
-TABLE 141. Species of the genus Clostridium not falling within the       
-radiation of cluster I (genus Clostridium sensu stricto)
+TABLE 141. Species of the genus Clostridium not falling within the radiation of cluster I (genus Clostridium sensu stricto)
                                                                           
 Cluster II                                                                
   Clostridium histolyticum                                                
@@ -8305,8 +8278,7 @@ isocaproic acid; 2, ethanol; 3, propanol; 4, butanol; i4, isobutanol; i5, isopen
 detected uniformly.
 
 #####
-TABLE 145. Characteristics of Clostridium species that fall outside cluster I of the clostridia and indicated as other characteristics in
-the species descriptionsa
+TABLE 145. Characteristics of Clostridium species that fall outside cluster I of the clostridia and indicated as other characteristics in the species descriptionsa
 Characteristics                                  C. ghonii                        C. irregulare                  C. mangenotii                  C. thermocellumb
 Products from PYGc                        Abivicib4i4 (fpls2,3)                    Aiv (fpibl)                      Afpibivic                          A2l
 Motility                                          +                                    +                               −                                −
@@ -8617,8 +8589,7 @@ g
   Grows well on glucose, fructose, sucrose, cellobiose, lactose, galactose, starch and mannose but not xylose and arabinose.
 
 #####
-TABLE 149. Differential characteristics of the species of the genus       
-Sarcinaa                                                                  
+TABLE 149. Differential characteristics of the species of the genus Sarcinaa                                                                  
 Characteristic                1. Sarcina ventriculi   2. Sarcina maxima   
 Ethanol production                      +                    −            
 Cellulose formation                     +                    −            
@@ -9045,8 +9016,7 @@ p
   +, Homoacetogens.
 
 #####
-TABLE 158. Major characteristics that discriminate Garciella nitratireducens from Caloranaerobacter azorensis, Alkalibacter saccharofermentans, and Ther-
-mohalobacter berrensisa
+TABLE 158. Major characteristics that discriminate Garciella nitratireducens from Caloranaerobacter azorensis, Alkalibacter saccharofermentans, and Thermohalobacter berrensisa
                                                                                                              Alkalibacter
 Characteristic                          Garciella nitratireducensb       Caloranaerobacter azorensisc    saccharofermentansd        Thermohalobacter berrensise
 Motility                                     Polar flagella                          ND                           −                      Lateral flagella
@@ -9072,8 +9042,7 @@ e
   Data from Cayol et al. (2000).
 
 #####
-TABLE 159. Differentiation of Pseudoramibacter from its nearest phylogenetic neighbors and some other genera Gram-stain-negative, non-
-sporeforming rods
+TABLE 159. Differentiation of Pseudoramibacter from its nearest phylogenetic neighbors and some other genera Gram-stain-negative, non-sporeforming rods
 Genus                          Acetobacteriuma    Eubacterium sensu strictob     Pseudoramibacterc              Lactobacillusd          Carnobacteriumd
 H2-CO2 autotrophic                    +                       ve                         −
   growth
@@ -9456,8 +9425,7 @@ b
 Components making up more than 10% of fatty acids; FA, fatty acid; DMA, dimethyl acetal; ECL, equivalent chain-length.
 
 #####
-TABLE 167. Biochemical characteristics of species of the genus Copro-
-coccusa
+TABLE 167. Biochemical characteristics of species of the genus Coprococcusa
 Organism                               C. eutactus       C. catus      C. comes
 DNA G+C content (mol%)                      41            39–41         40–42
 Major PYG fermentation                   F, B, l, a       B, P, a       L, B, a
@@ -9485,8 +9453,7 @@ ters indicate ≥1 and <1 meq/100 ml of culture, respectively.
 
 
 #####
-TABLE 167. Biochemical characteristics of species of the genus Copro-
-coccusa
+TABLE 167. Biochemical characteristics of species of the genus Coprococcusa
 Organism                               C. eutactus       C. catus      C. comes
 DNA G+C content (mol%)                      41            39–41         40–42
 Major PYG fermentation                   F, B, l, a       B, P, a       L, B, a
@@ -9514,14 +9481,7 @@ ters indicate ≥1 and <1 meq/100 ml of culture, respectively.
 
 
 #####
-TABLE 168. Characteristics differentiating Dorea formicigenerans and                                                                                                                                              phology and many biochemical characteristics with species of the
-Dorea longicatena from other nonspore-forming Gram-stain-positive                                                                                                                                                 genus Dorea. Tests which are useful in differentiating Dorea species
-rods that do not produce butyratea,b                                                                                                                                                                              from some other nonspore-forming Gram-positive rods that also
-                                                                                                                                                                                                                  fail to produce butyrate and indole are given in Table 168.
-
-
-
-
+TABLE 168. Characteristics differentiating Dorea formicigenerans Dorea longicatena from other nonspore-forming Gram-stain-rods that do not produce butyratea,
                                                                                                                                                                    Eubacterium fissicatena
                                                                                                                      Eubacterium contortum
                           Dorea formicigenerans
@@ -9530,7 +9490,7 @@ rods that do not produce butyratea,b                                            
 
 
                                                                        Collinsella aerofaciens
-                                                                                                                                                                                                                  Differentiation of the species of the genus Dorea
+                                                                                                                                                                                                                 
 
 
 
@@ -9543,42 +9503,41 @@ rods that do not produce butyratea,b                                            
 
 
                                                                                                  Eggerthella lenta
-                                                                                                                                                                                                                  Biochemical tests which may be helpful in differentiating Dorea
-                                                                                                                                                                                                                  formicigenerans and Dorea longicatena from each other are given
-                                                                                                                                                                                                                  in Table 169. Currently the most reliable means of differentiat-
-                                                                                                                                                                                                                  ing these species is by 16S rRNA gene sequence analysis.
+                                                                                                                                                                                                                 
+                                                                                                                                                                                                                 
+                                                                                                                                                                                                                 
+                                                                                                                                                                                                                 
 Characteristic
-                                                                                                                                                                                                                  Taxonomic comments
+                                                                                                                                                                                                                 
 Motility                   −                       −                    −                        −                    −                      +                      −                        −
-Utilization of:                                                                                                                                                                                                   The genus Dorea was created to accommodate the species for-
-  Amygdalin               −                        +                    −                        −                    −                       −                    −                          −                   merly designated Eubacterium formicigenerans and some Gram-
-  Arabinose               d                        +                    −                        −                    +                       −                    −                          −                   stain-positive, asporogenous, rod-shaped organisms isolated
-  Esculin                 −                        +                    −                        −                    −                       −                    −                          −                   from human feces (Taras et al., 2002). The two currently
-  Glucose                 +                        +                    +                        −                    +                       v                    +                          +                   defined Dorea species form a distinct subline within a supra-
-  Inositol                −                        +                    −                        −                   NR                       −                    +                         NR                   generic rRNA cluster referred to as the Clostridium coccoides
-  Inulin                  −                        w                    −                        −                    −                      NR                    −                         NR                   group (rRNA cluster XIVa) (Collins et al., 1994). Phylogeneti-
+Utilization of:                                                                                                                                                                                                  
+  Amygdalin               −                        +                    −                        −                    −                       −                    −                          −                  
+  Arabinose               d                        +                    −                        −                    +                       −                    −                          −                  
+  Esculin                 −                        +                    −                        −                    −                       −                    −                          −                  
+  Glucose                 +                        +                    +                        −                    +                       v                    +                          +                  
+  Inositol                −                        +                    −                        −                   NR                       −                    +                         NR                  
+  Inulin                  −                        w                    −                        −                    −                      NR                    −                         NR                  
   Mannose                 −                        −                    +                        −                    d                       −                    w                          +
-                                                                                                                                                                                                                  cally, the genus Dorea does not display a particularly close affin-
+                                                                                                                                                                                                                 
   Maltose                 +                        +                    +                        −                    +                       −                    +                          v
   Melibiose
-                                                                                                                                                                                                                  ity to any other taxon within this group. The two Dorea species
+                                                                                                                                                                                                                 
                           −                        −                    −                        −                    +                       −                    −                          −
   Raffinose               −                        w                    −                        −                    +                       −                    −                          −
-                                                                                                                                                                                                                  display a 16S rRNA sequence divergence value of approximately
-  Rhamnose                −                        −                    −                        −                    v                       −                    +                          −                   6%, which clearly shows that they are closely related, but never-
-  Sorbitol                −                        +                    −                        −                    −                       −                    −                          v                   theless, different species. A tree showing the position of Dorea
-  Trehalose               −                        −                    −                        −                    −                       −                    w                          −                   species within the Clostridium coccoides rRNA group is shown in
+                                                                                                                                                                                                                 
+  Rhamnose                −                        −                    −                        −                    v                       −                    +                          −                  
+  Sorbitol                −                        +                    −                        −                    −                       −                    −                          v                  
+  Trehalose               −                        −                    −                        −                    −                       −                    w                          −                  
 a
   Symbols: +, >85% positive; d, different strains give different reactions (16–84%
-                                                                                                                                                                                                                  Figure 164. According to the 16S rRNA phylogenetic analysis
-positive); −, 0–15% positive; w, weak reaction; v, variable; NR, not reported.                                                                                                                                    presented in the roadmap to this volume (Figure 5), the genus
+                                                                                                                                                                                                                 
+positive); −, 0–15% positive; w, weak reaction; v, variable; NR, not reported.                                                                                                                                   
 b
-  Data for species not members of the genus Dorea were taken from Moore and                                                                                                                                       Dorea is a member of the family Lachnospiraceae, order Clostridi-
-Holdeman Moore, (1986).                                                                                                                                                                                           ales, class Clostridia in the phylum Firmicutes.
+  Data for species not members of the genus Dorea were taken from Moore and                                                                                                                                      
+Holdeman Moore, (1986).                                                                                                                                                                                          
 
 #####
-TABLE 169. Tests differentiating Dorea formicigenerans and Dorea
-longicatenaa
+TABLE 169. Tests differentiating Dorea formicigenerans and Dorea longicatenaa
 
 Characteristic                       D. formicigenerans       D. longicatena
 Acid produced from:
@@ -9665,33 +9624,30 @@ d
   F, formate; A, acetate; B, butyrate; E, ethanol; L, lactate. Parentheses indicate an inconstant production. Capital letters indicate major products.
 
 #####
- TABLE 171. Characteristics useful for differentiating Roseburia
- speciesa
+TABLE 171. Characteristics useful for differentiating Roseburia speciesa
 
- Characteristic                         R. cecicola         R. intestinalis
+Characteristic                         R. cecicola         R. intestinalis
 
- Host                                    Mouse            Human (infant)
- 16S rDNA sequence similarity            100%              94.9–97.1 %b
-   to Roseburia cecicola GMT
+Host                                    Mouse            Human (infant)
+16S rDNA sequence similarity            100%              94.9–97.1 %b
+  to Roseburia cecicola GMT
 
- Esculin hydrolysis                         −                    +
- Fructose fermentation                      −                    +
- Formate production                         −                    +
- Lactate production                         −                    +
- Ethanol production                  + (trace amts)              −
- DNA G+C content (mol%)                    42                  29–31
-   (Tm)
- a
-  Symbols: +, >85% positive; −, 0–15% positive.
- b
-  The identifiable nucleotides of Roseburia cecicola GMT (L14676) and Roseburia
- intestinalis LC1-82T (AJ312385) 16S rRNAs are 94.9% identical over 1357 base
- positions. The overall sequences would be 97.1% identical, if ambiguous nucleotides were identical.
+Esculin hydrolysis                         −                    +
+Fructose fermentation                      −                    +
+Formate production                         −                    +
+Lactate production                         −                    +
+Ethanol production                  + (trace amts)              −
+DNA G+C content (mol%)                    42                  29–31
+  (Tm)
+a
+ Symbols: +, >85% positive; −, 0–15% positive.
+b
+ The identifiable nucleotides of Roseburia cecicola GMT (L14676) and Roseburia
+intestinalis LC1-82T (AJ312385) 16S rRNAs are 94.9% identical over 1357 base
+positions. The overall sequences would be 97.1% identical, if ambiguous nucleotides were identical.
 
 #####
-TABLE 173. Utilization of carbon compounds for growth by Roseburia
-
-speciesa,b
+TABLE 173. Utilization of carbon compounds for growth by Roseburia speciesa,b
 
 Compound                                       R. cecicola GMT      R. intestinalis
 Cellobiose, d-glucose d-maltose,                       +                    +
@@ -9758,8 +9714,7 @@ a
  Heat-labile medium components and glucose are filter-sterilized and added sep-   
     
 #####
-TABLE 174. Products of glucose and acetate metabolism by growing
-cells of Roseburia speciesa,b
+TABLE 174. Products of glucose and acetate metabolism by growing cells of Roseburia speciesa,b
                               Roseburia cecicola           Roseburia intestinalis
 
                             Amount   Amount              Amount   Amount
@@ -9994,21 +9949,7 @@ Major fermentation       Butyric, cap-     Butyric acid      Acetic acid        
 a
 Symbols: +, >85% positive; −, 0–15% positive; D, different among species; w, weak acid produced.
 
-#####
-TABLE 179. Characteristics differentiating the genus Peptococcus from other anaerobic cocci found in human specimensa
-Characteristic            Peptococcus      Anaerococcus       Finegoldia        Gallicola      Helcococcus   Parvimonas    Peptoniphilus   Peptostreptococcus
-DNA G+C content              50–51            30–35             32–34            32–34             29–29.5     28–30          30–34             34–36
-  (mol%)
-Growth conditions         Obligate          Obligate          Obligate          Obligate       Facultative   Obligate       Obligate       Obligate anaer-
-                          anaerobe          anaerobe          anaerobe         anaerobe         anaerobe     anaerobe      anaerobe             obe
-Peptidoglycan             Lys, D-Asp        Lys, D-Glu         Lys, Gly        Orn, D-Asp        No data        Lys        Orn, D-Glu        Lys, D-Asp
-  (Pos3, bridge)
-Sugar fermented               –                 w                 –                –                 D            –             –                  w
-Major fermentation       Butyric, cap-     Butyric acid      Acetic acid        Butyric,           No data   Acetic acid   Butyric acid    iso-Caproic, iso-
-  product                 roic acids                                          acetic acids                                                   valelic acids
-a
-Symbols: +, >85% positive; −, 0–15% positive; D, different among species; w, weak acid produced.
- 
+
 #####
 TABLE 179. Characteristics differentiating the genus Peptococcus from other anaerobic cocci found in human specimensa
 Characteristic            Peptococcus      Anaerococcus       Finegoldia        Gallicola      Helcococcus   Parvimonas    Peptoniphilus   Peptostreptococcus
@@ -10327,9 +10268,7 @@ C, capronate; iC, iso-capronate; iv, iso-valerate; A, acetate; L, lactate; P, pr
 arylamidase(AMD); ProA, proline AMD; PheA, phenylalanine AMD; LeuA, leucine AMD; PryA, pyloglutamyl AMD; HisA, histidine AMD.
 
 #####
-TABLE 190. Descriptive characteristics of the species of the genus
-
-Filifactora
+TABLE 190. Descriptive characteristics of the species of the genus Filifactora
 
 Characteristic                     F. alocis          F. villosus
 Production of:
@@ -10439,56 +10378,6 @@ Characteristic
 DNA G+C content                50.5                               54.5                  55                           54                           35                         51–52                  46                             27                              45                    52–57                        39–44
   (mol%)
 Cell morphology                Rod                                Rod                   Rod                          Rod                          Rod                        Rod                    Ring                           Rod                             Rod                    Rod                         Coccus
-Spore formation                 −                                  −                     −                            −                            +                          +                      +                              +                               −                      −                            −
-Products from PYGb             A2                                 LA2F                 LA2F                          AB                           A2                         A(2)                    −                             ABp                              −                    FBAL                         S2(L)
-H2 producedc                    4                                  −                     −                            +                            4                          4                      −                              4                               −                      −                            4
-Motility                        +                                  +                     −                            −                            +                          −                      −                              −                               −                      −                            −
-Optimum growth                  37                                 37                  25–40                        36–40                        55–60                        37                     45                           37–45                           37–45                    37                         37–42
-  temperature (°C)
-a
-  Symbols: +, >90% of strains positive; −, <10% of strains positive.
-b
-  Products from PYG (peptone-yeast extract-glucose; given in decreasing order of amounts usually detected): A, acetate; B, butyrate; F, formate; L,
-lactate; P, propionate; S, succinate; 2, ethanol. Upper-case letters and arabic numerals indicate at least 1 mg/ml of culture, and lower-case letters
-and number within parentheses indicate less than 1 mg/ml of culture. Products in parentheses are not detected uniformly.
-c
- On a scale of − (negative) to 4 (abundant); +, H2 produced.
-
-#####
-TABLE 192. Characteristics differentiating Acetanaerobacterium elongatum from its phylogenetic relativesa
-
-
-
-
-                                 Acetanaerobacterium elongatum
-
-
-
-
-                                                                                                                                                                                                                                   Clostridium sporosphaeroides
-                                                                                                                                                                                                     Clostridium methylpentosum
-                                                                                        Anaerofilum pentosovorans
-
-
-
-                                                                                                                     Anaerotruncus colihominis
-
-
-
-
-                                                                                                                                                                                                                                                                                                                        Ruminococcus flavefaciens
-                                                                                                                                                                                                                                                                                          Fusobacterium prausnitzii
-                                                                                                                                                                                                                                                                   Eubacterium siraeum
-                                                                                                                                                  Clostridium cellulosi
-
-
-
-                                                                                                                                                                               Clostridium leptum
-                                                                   Anaerofilum agile
-Characteristic
-DNA G+C content                50.5                               54.5                  55                           54                           35                         51–52                  46                             27                              45                    52–57                        39–44
-  (mol%)
-Cell morphology                Rod                                Rod                   Rod                          Rod                          Rod                        Rod                    Ring                           Rod                             Rod                    Rod                         Coccus
 Spore formation                  −                                  −                    −                            −                            +                          +                      +                              +                               −                      −                            −
 Products from PYGb             A2                                 LA2F                 LA2F                          AB                           A2                         A(2)                     −                            ABp                              −                    FBAL                         S2(L)
 H2 producedc                    4                                  −                     −                            +                            4                          4                      −                              4                               −                      −                            4
@@ -10558,8 +10447,7 @@ e
   Genus Ruminococcus is phylogenetically heterogenous; data refer to Ruminococcus albus, Ruminococcus bromii, Ruminococcus callidus, and Ruminococcus flavescens.
 
 #####
-TABLE 194. Phenotypic properties of Faecalibacterium prausznitzii
-strainsa
+TABLE 194. Phenotypic properties of Faecalibacterium prausznitzii strainsa
 
 Carbohydrate substrate           A2-165         L2-6      27766     27768T
 Arabinose                           −            −          −          −
@@ -10581,9 +10469,7 @@ Symbols: +, >85% positive; −, 0–15% positive; w, weak reaction; ND, not dete
 mined.
 
 #####
-TABLE 195. Short-chain fatty acid formed and utilized (mM) by
-Faecalibacterium prausnitzii strains on M2G medium (Duncan et al.,
-2002)
+TABLE 195. Short-chain fatty acid formed and utilized (mM) by Faecalibacterium prausnitzii strains on M2G medium (Duncan et al., 2002)
 Strain                  A2-165           L2-6           27766        27768T
 Formate                  17.3            7.6             4.7          10.3
 Acetate                  −5.3           −12.3           −10.2         −9.7
@@ -10719,8 +10605,7 @@ c
   VFA, volatile fatty acids; B, butyrate; C, caproate; IC, isocaproate; IV, isovalerate; A, acetate.
 
 #####
-TABLE 198.     Characteristics that differentiate Papillibacter cinnamivorans
-from Sporobacter termitidisa
+TABLE 198.     Characteristics that differentiate Papillibacter cinnamivorans from Sporobacter termitidisa
 
                                     Papillibacter        Sporobacter termitidis
 Characteristic                    cinnamivorans
@@ -11131,8 +11016,7 @@ c
  Parentheses indicate that production is not constant. Major products are underlined.
 
 #####
-TABLE 208. Characteristics useful in differentiating the genus Megasphaera from other genera of anaerobic Gram-stain-nega-
-tive cocci belonging to the family Veillonellaceaea,b
+TABLE 208. Characteristics useful in differentiating the genus Megasphaera from other genera of anaerobic Gram-stain-negative cocci belonging to the family Veillonellaceaea,b
 Characteristic                                                 Megasphaera                 Acidaminococcus        Anaeroglobus       Veillonella
 Cell size (μm)                                              0.4–0.6 × 1.3–2.6                    0.6–1               0.5–1.1          0.3–0.5
 Acid production from:
@@ -11226,8 +11110,7 @@ h
   Negative according to Holdeman et al. (1986).
 
 #####
-TABLE 211. Differential characteristics of closely related anaerobic Gram-stain-negative rod-shaped bacteria isolated
-from breweriesa,b
+TABLE 211. Differential characteristics of closely related anaerobic Gram-stain-negative rod-shaped bacteria isolated from breweriesa,b
                                      Pectinatus          Pectinatus      Pectinatus       Zymophilus           Zymophilus         Selenomonas
 Characteristic                     cerevisiiphilusc     frisingensisc    haikaraec        paucivorans        raffinosivorans        lacticifex
 Acid produced from:
@@ -11347,14 +11230,13 @@ b
     Produces acetate from succinate; other species form propionate as the major succinate-derived product.
 
 #####
-TABLE 215. Characteristics differentiating Zymophilus from other                                    TABLE 216. Characteristics differentiating Zymphilus raffinosivorans
-related taxaa                                                                                       and Zymophilus paucivoransa
+TABLE 215. Characteristics differentiating Zymophilus from other related taxaa                                                                                       
 
 
 
 
                                                                      Propionispira
-                                                                                                    Characteristic                  Z. raffinosivorans      Z. paucivorans
+                                                                                                    
 
 
 
@@ -11365,21 +11247,39 @@ related taxaa                                                                   
 
 
                                                    Pectinatus
-                                                                                                    Acid produced from:
-                                                                                                      Dulcitol                              +                     −
-Characteristic                                                                                        Inositol                              +                     −
-                                                                                                      Lactose                               +                     −
-Acetoin production                     −             +               ND               ND              Melibiose                             +                     −
-Acid produced from:                                                                                   Raffinose                             +                     −
-  Maltose                              +             −               ND                +              Rhamnose                              +                     −
-  Sucrose                              +             −               ND                +              Xylitol                               +                     −
-Lactic acid as major                   −             −                −              − or +           Xylose                                +                     −
-  fermentation product                                                                              a
-                                                                                                        Symbols: +, >85% positive; −, 0–15% positive.
+                                                                                                    
+                                                                                                    
+Characteristic                                                                                      
+                                                                                                    
+Acetoin production                     −             +               ND               ND            
+Acid produced from:                                                                                 
+  Maltose                              +             −               ND                +            
+  Sucrose                              +             −               ND                +            
+Lactic acid as major                   −             −                −              − or +         
+  fermentation product                                                                              
+                                                                                                    
 DNA G+C content (mol%)             38–41          38–41             36–37            48–58
 Nitrogen fixation                   ND             ND                 +               ND
 a
 Symbols: +, >85% positive; −, 0–15% positive; ND, not determined.
+
+
+
+#####
+TABLE 216. Characteristics differentiating Zymphilus raffinosivorans and Zymophilus paucivoransa
+Characteristic                  Z. raffinosivorans      Z. paucivorans
+Acid produced from:
+  Dulcitol                              +                     −
+  Inositol                              +                     −
+  Lactose                               +                     −
+  Melibiose                             +                     −
+  Raffinose                             +                     −
+  Rhamnose                              +                     −
+  Xylitol                               +                     −
+  Xylose                                +                     −
+a
+    Symbols: +, >85% positive; −, 0–15% positive.
+
 
 #####
 TABLE 217. Characteristics differentiating Finegoldia, Gallicola, and Parvimonas speciesa
@@ -11404,8 +11304,7 @@ arginine arylamidase(AMD); ProA, proline AMD; PheA, phenylalanine AMD; LeuA, leu
 AMD; HisA, histidine AMD.
 
 #####
-TABLE 218. Comparison of Sedimentibacter with some Gram-stain-positive, rod-shaped bacteria from the family Peptostreptococcaceae, former clostridial cluster XII (Collins et al., 1994), and
-Clostridiales Family Incerta Sedis XI (Ludwig et al., 2009)a
+TABLE 218. Comparison of Sedimentibacter with some Gram-stain-positive, rod-shaped bacteria from the family Peptostreptococcaceae, former clostridial cluster XII (Collins et al., 1994), and Clostridiales Family Incerta Sedis XI (Ludwig et al., 2009)a
 
 
 
@@ -11466,8 +11365,7 @@ e
   Major end products in parentheses (A, acetate; B, butyrate).
 
 #####
-TABLE 219. Characteristics for differentiation of Sedimentibacter                                
-hydroxybenzoicus and Sedimentibacter saalensisa                                                  
+TABLE 219. Characteristics for differentiation of Sedimentibacter hydroxybenzoicus and Sedimentibacter saalensisa                                                  
 Characteristicb                              S. hydroxybenzoicusc          S. saalensisd         
 Cell size (μm)e                              0.35–0.67 × 2.5–5.1 0.5–0.7 × 3.7–6
                                                                                                  
@@ -11545,8 +11443,7 @@ c
 
 
 #####
-TABLE 222. Fermentation of glucose in the presence and absence of thiosulfate by Fusibacter
-paucivorans
+TABLE 222. Fermentation of glucose in the presence and absence of thiosulfate by Fusibacter paucivorans
                               Amount of        Amount of end products formed (mM)           Ratio of acetate
                                substrate                                                    produced/sugar
 Culture conditionsa           used (mM)       Acetate     Butyrate    CO2 b   H2 b   H2S       consumed
@@ -11658,8 +11555,7 @@ b
   ND, Not determined.
 
 #####
-TABLE 226. Comparison of percentage lipid fatty
-acid profiles of two Anaerobranca species
+TABLE 226. Comparison of percentage lipid fatty acid profiles of two Anaerobranca species
 Fatty acid     A. horikoshii      A. gottschalkii
 
 C13:0                                  2.6.
@@ -11797,8 +11693,7 @@ NaCl range (optimum) (% w/v)                1–10 (3)                0.5–7 (2
 DNA G+C content (mol%)                         56                      51                       52                      51
 
 #####
-TABLE 231. Characteristics differentiating the genus Thermanaerovibro
-from its closest phylogenetic relativesa
+TABLE 231. Characteristics differentiating the genus Thermanaerovibro from its closest phylogenetic relativesa
 Characteristic             Thermanaerovibrio Anaerobaculum Dethiosulfovibrio
 Morphology:
    Curved rod                       +                      +            +
@@ -11976,8 +11871,7 @@ a
     Symbols: +, >85% positive; −, 0–15% positive; D, different taxa give different reactions; w, weak reaction; NR, not reported.
 
 #####
-TABLE 236. 16S rRNA signature nucleotides defining the Halanaerobi-                                                                   
-ales within the Bacillus/Clostridium subphylum of the Firmicutesa,b                                                                   
+TABLE 236. 16S rRNA signature nucleotides defining the Halanaerobiales within the Bacillus/Clostridium subphylum of the Firmicutesa,b                                                                   
                                                                              Majority of the                                          
                                                                              members of the                                           
 Position (E. coli                     Halanaerobiales                      Bacillus/Clostridium                                       
@@ -11997,8 +11891,7 @@ b
  Table taken from Rainey et al. 1995b. Anaerobe 1: 185–199. Reproduced with permission.
 
 #####
-TABLE 237. 16S rRNA gene signature nucleotides defining the two              
-families within the order Halanaerobialesa,b
+TABLE 237. 16S rRNA gene signature nucleotides defining the two families within the order Halanaerobialesa,b
                                                                              
 Position (Escherichia coli                                                   
 nomenclature)                       Halanaerobiaceae    Halobacteroidaceae
@@ -12113,8 +12006,7 @@ b
     Table based in part on tables provided by Kobayashi et al. (2000b) and Bhupathiraju et al. (1999)
 
 #####
-TABLE 239. Main characteristics that differentiate Halothermothrix
-orenii from Thermohalobacter berrensis
+TABLE 239. Main characteristics that differentiate Halothermothrix orenii from Thermohalobacter berrensis
 Characteristic                                  H. oreniia   T. berrensisb
 NaCl range (%)                                     4–20          2–15
 NaCl optimum (%)                                    10             5
@@ -12143,9 +12035,7 @@ b
 
 
 #####
-TABLE 240. Fatty acid profile of
-
-Halothermothrix orenii
+TABLE 240. Fatty acid profile of Halothermothrix orenii
 
 Fatty acid               Amount (%)
 C13:0                       2.29
@@ -12168,8 +12058,7 @@ Branched                    75.64
 
 
 #####
-TABLE 241. Main characteristics that differentiate the genera Halo-          
-thermothrix, Halocella, and Halanaerobium of the family Halanaerobiaceaea    
+TABLE 241. Main characteristics that differentiate the genera Halothermothrix, Halocella, and Halanaerobium of the family Halanaerobiaceaea    
 Characteristic       Halothermothrix      Halocella      Halanaerobium       
 Cell dimensions     0.4–0.6 × 10–20 0.4–0.6 × 3.8–12 0.3–1.2 × 0.5–5
                                                                              
@@ -12322,8 +12211,7 @@ c
  Thiosulfate significantly stimulated growth
 
 #####
-TABLE 245. Distribution of the O-alkyl hydrocarbon chains of the
-glycerol diethers and glycerol monoethers of Ammonifex degensii
+TABLE 245. Distribution of the O-alkyl hydrocarbon chains of the glycerol diethers and glycerol monoethers of Ammonifex degensii
 Carbon                                  Diether           Monoether
 number          Compound              (relative %)        (relative %)
 
@@ -12473,8 +12361,7 @@ b
 Except for Thermodesulforhabdus norvegica, Desulfacinum infernum, and Desulfacinum hydrothermale (optimum temperature for growth of each species is 60 °C).
 
 #####
-TABLE 250. Characteristics differentiating Coprothermobacter proteolyti-            
-cus and Coprothermobacter platensis                                                 
+TABLE 250. Characteristics differentiating Coprothermobacter proteolyticus and Coprothermobacter platensis                                                 
 Characteristic                             C. proteolyticusa        C. platensisb   
 Dimensions (μm)                               0.5 × 1–6             0.5 × 1.5–2.0
                                                                                     
@@ -12624,8 +12511,7 @@ b
   All species are motile and produce acetic acid, ethanol, H2, and CO2 when fermenting glucose.
 
 #####
-TABLE 254. Major discriminating characteristics between Mahella australiensis and its closest relatives Thermoan-
-aerobacterium thermosulfurogenes and Thermoanaerobacterium aotearoensea
+TABLE 254. Major discriminating characteristics between Mahella australiensis and its closest relatives Thermoanaerobacterium thermosulfurogenes and Thermoanaerobacterium aotearoensea
 Characteristic                                       M. australiensisb         T. thermosulfurogenesb         T. aotearoensec
 Temperature range (°C)                                    30–60                        35–75                      35–66
 Optimum temperature (°C)                                    50                           60                       60–63
@@ -12643,29 +12529,7 @@ d
   Data from Liu et al. (1996).
 
 #####
-TABLE 254. Major discriminating characteristics between Mahella australiensis and its closest relatives Thermoan-
-aerobacterium thermosulfurogenes and Thermoanaerobacterium aotearoensea
-Characteristic                                       M. australiensisb         T. thermosulfurogenesb         T. aotearoensec
-Temperature range (°C)                                    30–60                        35–75                      35–66
-Optimum temperature (°C)                                    50                           60                       60–63
-DNA G + C content (mol%)                                   55.5                         32.6                    34.5–35.0
-Reduction of thiosulfate                                     −                            +                          +
-End products of glucose fermentation               L, F, E, A, H2, CO2            E, A, L, H2, CO2           E, A, L, H2, CO2
-a
-  Symbols and abbreviations: +, present; −, absent; A, acetate; E, ethanol; F, formate; L, lactate. Major end products of metabolism
-are indicated in bold type.
-b
-  Data from Bonilla-Salinas et al. (2004).
-c
- Data from Schink and Zeikus (1983).
-d
-  Data from Liu et al. (1996).
-
-
-#####
-TABLE 255. Phenotypic properties that differentiate type strains of
-Erysipelothrix species as determined by API 32 STREPT and Biolog GP
-microplate panelsa
+TABLE 255. Phenotypic properties that differentiate type strains of Erysipelothrix species as determined by API 32 STREPT and Biolog GP microplate panelsa
                             1. E. rhusio-
 Characteristic                 pathiae      2. E. inopinata 3. E. tonsillarum
 API STREPT
@@ -12706,8 +12570,7 @@ b
 et al., 2004).
 
 #####
-TABLE 256. Useful characters in differentiating the genera Erysipelo-                   
-thrix, Brochothrix, Kurthia, Listeria, and Corynebacteriuma                             
+TABLE 256. Useful characters in differentiating the genera Erysipelothrix, Brochothrix, Kurthia, Listeria, and Corynebacteriuma                             
                        Erysipe-                                           Coryne-
                                                                                         
 Characteristic         lothrix Brochothrix      Kurthia      Listeria    bacterium      
