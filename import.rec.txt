@@ -1,0 +1,861 @@
+#####
+TABLE BXII.c.92. Differentiation of Neptunomonas from some other marine naphthalene-degrading bacteria!a!b
+                                       Neptunomonas                Cycloclasticus           Marinobacter              Pseudoalteromonas              Vibrio
+Utilization of:
+  phenanthrene                                           − or w!c                    +!c                         −d!c                           v!c                        +!c
+  carbohydrates                                             +                        −                         −                            +                        +
+  d-glucose                                                  +                        −                         −                            +                        +
+  d-fructose                                                 +                        −                         −                            v                        v
+  amino acids                                                +                        +f                        +g                           +                        +
+production of:
+  Indigo from indole                                        +!c                        −!c                         +!c                            v!c                        −!c
+Growth:
+  marine broth 2216                                +                       − or w                     +                            +                        +
+  requires Na+                                                       +                        +                         v                            +                       +e
+Production of acid from:
+  d-glucose                                      + or w                    NG                        −                            −                        +
+mol% G+C                                                 46                       39                    57.3–57.7d                     37–50                    38–51
+
+footnote a: For symbols see standard definitions; NG, no growth in test medium; w, weakly positive.
+footnote b: Marine bacteria are defined here as requiring Na+ ions for growth. Taxa that have not been fully described are not considered here.
+footnote c: The results for these phenotypes are only given for naphthalene-degrading strains. Otherwise, characteristics are generalized to encompass the whole genus.
+footnote d: For these features we used the results of Sproer et al. (1998), which differ from those obtained previously (Gauthier et al., 1992).
+footnote e: All Vibrio strains require Na+ except V. cholerae.
+footnote f: Cycloclasticus utilizes only l-glutamate.
+footnote g: Marinobacter utilizes only l-proline and l-glutamate.
+
+#####
+TABLE BXII.c.137. Characteristics differentiating the species of the genus Colwellia!a
+                     Colwellia psychrerythraea   Colwellia demingiae   Colwellia hadaliensis   Colwellia hornerae   Colwellia maris   Colwellia psychrotropica   Colwellia rossensis
+Growth:
+  25°C                              −                    −                  −                 −               −                 +                    −
+  Barophilic                           −                    nd                   +              nd              nd                 nd                  nd
+Prodigiosin-like pigments                   v!b                   −                  −                 −               −                 −                    −
+Motility                                    +                    +                  +                 +               +                 +                    −
+Gas vesicles                                −                    −                  −                 −               −                 −                    +
+Susceptible to vibriostatic agent O/129                −                    −                nd                    +               +                 −                    −
+Hydrolysis of:
+  Chitin                                    +                    +                  +                 −               −                 +                   +
+  Starch                                    +                    +                  nd                  +               −                 −                   +
+  Uric acid                                 −                    −                  nd                  −              nd                   +                   −
+  Urea                                      +                    −                  nd                  −              nd                   +                   +
+  Tween 80                                  +                    −                  nd                  +               +                 +                   ng
+  Gelatin                                   +                    −                  nd                  −               +                 −                   −
+  Casein                                    +                    +                  nd                  +               −                 +                   −
+  DNA                                       −                    −                  nd                  −               +                 −                   −
+Production of acid from:
+  d-Glucose                                 +                    −                  +                 −               +                 −                    +
+  Maltose                                   +                    −                 nd                   −               −                 −                    −
+  Glycerol                                  −                    −                 nd                   +             nd                    −                    +
+Mol% G+C                         35–40                  37                 46                39              39                42                   38
+footnote a: Symbols: see standard definitions; blank space, no data available; NG, no growth occurred on test medium.
+footnote b: Type strain is positive.
+
+#####
+TABLE BXII.c.138. Other characteristics of the species of the genus Colwellia!a
+                                             Colwellia psychrerythraea   Colwellia demingiae   Colwellia hadaliensis   Colwellia hornerae   Colwellia maris    Colwellia psychrotropica      Colwellia rossensis
+flagella                                                single polar               nd               single polar               nd             single polar                 nd                    nd
+Gas vesicles                                                      −               −          −            −          −           −                 +
+Growth:
+  0–25% sea salts                                         −               −          nd           −         −c           −                 −
+  400% sea salts                                          −               −          nd           −          nd          −                 −
+  NaCl                                                  2.75%             nd         nd           nd         3–6.5%      nd                 nd
+  requires yeast extract                         −               −          nd           +          nd          −                 −
+  Tolerates 200% sea salts                                      v!b              −          nd           +         nd           +                 −
+  Maximum Temperature                 19            18       10         23       22        25             15
+  Minimum Temperature                 0            0       2         0       0        0             0
+Susceptible to vibriostatic agent O/129                        v!b              −          nd             +          +           −                 −
+Enzyme activity:
+  Arginine dihydrolase, lysine decarboxylase, ornithine decarboxylase          −               −           nd           −          nd          −                −
+  Oxidase                                                           +               +           +           +          +           +                 +
+  Alkaline phosphatase                                              +               +           +           +          nd          +                 +
+  Acid phosphatase, trypsin                                        nd               nd          +           nd         nd          nd               nd
+  Catalase                                                         +               +          nd           +          +           +                 +
+reduction of:
+  nitrate                                                         +               +          nd           +          +           +                 +
+  Fe(III), trimethylamine N-oxide                                    −               −          nd           −          nd          −                 −
+production of:
+  hydrogen sulfide                                                  −               −          nd           −          nd          −                 −
+  Indole                                                           −               −          nd           −          −           −                 −
+Hydrolysis of:
+  Alginic acid                                                   nd              nd          nd          nd          −           nd               nd
+  Casein                                                         +               +           nd           +          −           +                −
+  Chitin                                                         +e              +e           +           −          −           +e               +e
+  Dextran                                                        −               −           nd           −          nd          −                −
+  DNA                                                            −               −           nd           −          +           −                −
+  Esculin                                                        +               +           nd           +          nd          −                ng
+  Gelatin                                                        v!b              −           nd           −          +           −                −
+  ortho-Nitrophenyl-β-galactoside                                                           −               −           nd           −          nd          −                −
+  Starch                                                         +               +           nd           +          −           −                +
+  Tween 80                                                       +               −           nd           +          +           +                ng
+  Tyrosine                                                       v!d              −           nd           −          nd          +                −
+  Urea                                                           v!b              −           nd           −          nd          +                +
+  Uric acid                                                      −               −           nd           −          nd          +                −
+Production of acid from:
+  N-Acetylglucosamine                                            +e              +e          nd           −         nd           +e               +e
+  l-Arabinose, d-fructose, d-mannose, melibiose, sucrose         −               −           nd           −          −           −                −
+  d-Arabinose, inositol, mannitol, sorbitol, trehalose, xylose, lactose          −               −           nd           −         nd           −                −
+  Cellobiose                                                     v!b               −          nd           −         nd           −                −
+  d-Galactose                                                    −                −          nd           −         nd           −                +
+  d-Glucose                                                      +e               −           +           −          −           −                +e
+  Maltose                                                        +e               −          nd           −          −           −                −
+  l-Rhamnose                                                     −                −          nd           +e        nd           −                −
+  Glycerol                                                       −                −          nd           +         nd           −                +
+Utilization of:
+  l-Proline, acetate, butyrate, fumarate, l-glutamate, succinate, pyruvate            +               +          nd           +         nd           +                 +
+  Oxaloacetate                                                     +              +           nd           +         nd           +                 −
+  Valerate, caproate, c-aminobutyrate                             −              +           nd           +         nd           +                 +
+  N-Acetylglucosamine                                             +              +           nd           −         nd           +                 +
+  3-Hydroxybutyrate                                               +              −           nd           −         nd           +                 +
+  Citrate                                                         −              +           nd           +         nd           −                 +
+  Glycogen                                                        +              v!d          nd           −         nd           −                 +
+  dl-Lactate                                                      v!b             +           nd           +         nd           +                 −
+  d-Glucose                                                       v!b             −           nd           −          +           −                 +
+  Propionate                                                      v!d             +           nd           +         nd           −                 −
+  l-Asparagine                                                    −              +           nd           −         nd           +                 +
+  l-Alanine, l-aspartate                                          −              v!b          nd           −         nd           +                 +
+  Hydroxy-l-proline                                               −              v!b          nd           +         nd           −                 −
+  l-Phenylalanine                                                 −              v!b          nd           −         nd           −                 −
+  l-Serine                                                        −              +           nd           −         nd           −                 −
+  Azelate                                                         −              v!b          nd           +         nd           −                 −
+  Caprylate                                                       −              v!b          nd           −         nd           −                 −
+  Glutarate                                                       −              +           nd           +         nd           −                 −
+  Heptanoate                                                      −              v!b          nd           +         nd           −                 −
+  Isobutyrate                                                     −              v!b          nd           −         nd           +                 −
+  Malonate                                                        −              v!b          nd           −         nd           −                 +
+  d-Mannose, d-raffinose                                          nd             nd          nd           nd         −          nd                nd
+  d-Melibiose                                                     −               −          nd           −          −           −                 −
+  Glycerol                                                        −               −          nd           +          −           −                 +
+  l-Malate                                                        −               −          nd           −         nd           +                 +
+  2-Oxoglutarate                                                  −               −          nd           −         nd           +                 −
+  l-Arabinose, d-fructose, d-gluconate                            −               −          nd           −          −           −                 +
+  l-Raffinose, trehalose, d-adonitol, d-arabitol, m-inositol, d-mannitol, d-sorbitol, l-threonine, l-valine, aconitate, adipate, d-gluconate, d-glucuronate, nonanoate, saccharate, α-glycerophosphate, putrescine, isovalerate, pimelate                −               −          nd           −         nd           −                 −
+  Lactose, maltose, sucrose, D-xylose                               −               −          nd             −        −            −                −
+Fatty acid composition:
+  C14:0                                                           5.1–7.8           7.6–8.0            nd              3               nd                0.8            4.6
+  C14:1 x7c                                                       5.1–7.3           9.1–9.3            nd             2.8              nd                 2             2.8
+  C15:1 x8c                                                        0–2.3            1.9–2.6            nd             20.3             nd                4.2            4.1
+  C15:1 x6c                                                         0-0.4               −              nd              1.1             nd                 0.1             −
+  C15:0                                                           1.7–11.0           0.9–1.4           nd              14.3            nd                 2.7            2.9
+  C16:0 iso                                                         0–0.2               −              nd              10.3            nd                  −              −
+  C16:1 x9c                                                       6.2–8.8          9.5–11.8            nd              2              20                −             1.8
+  C16:1 x7c                                                       31.4–36.3         37.5–37.8          nd              15.4            6                56.8           43.4
+  C16:1 x9t                                                          nd                  nd            nd               nd               20                 nd            nd
+  C16:0                                                          26.8–33.2         21.9–23.6           nd             13.5            18               21.9           27.1
+  C17:1 x8c                                                         0–1.3              tre             nd              5.6             nd                 4.5            0.5
+  C17:1 x6c                                                         0–0.9               −              nd              1.9             nd                 0.9             −
+  C17:0                                                             0–1.3               tr             nd              2.5              5               1.5            0.1
+  C18:1 x11c                                                          nd                nd             nd              nd                 6               nd             nd
+  C18:1 x9c                                                          0–1.7                0.2          nd              1.4              nd                 0.3            0.8
+  C18:1 x7c                                                         0.3–2.1             1.3–1.4        nd              −                nd                 1.9            4.2
+  C18:0                                                             0.1–2.4             0.2–0.5        nd               2               nd                 0.4             tr
+  C20:5 x3                                                          0–1.5                 −            nd             −                 nd                0.1             tr
+  C22:6 x3                                                          5.5–8.0             1.7–2.2        nd              2.1              nd                 0.7             6
+Isoprenoid quinone                                                   nd                  nd            nd             nd           ubiquinone-8          nd             nd
+footnote a: Symbols: see standard definitions; blank space, no data available; NG, no growth occurred on test medium; tr, trace fatty acid component making up 0.1% or less of total fatty acid content.
+footnote b: Reaction differs among strains; type strain is positive.
+footnote c: No growth occurs without NaCl.
+footnote d: Reaction differs among strains; type strain is negative.
+footnote e: Acid (but no gas) was formed from this substrates in Leifson oxidation/fermentation medium.
+
+
+#####
+TABLE BXII.c.135. Characteristics differentiating some genera belonging to the family Alteromonadaceae!a
+                             Alteromonas      Colwellia     Ferrimonas      Moritella      Pseudoalteromonas      Shewanella
+Growth:
+  0% NaCl                                        −              −              −                       −                          −                   v
+  10% NaCl                                       +              −              −                       −                          v                   v
+  4°C                                            −              +              −                       +                          v                   v
+  25°C                                           +              −              +                       v                          +                   v
+  35°C                                           +              −              +                       −                          v                   v
+  Barophilic                                       −              v              −                       v                          −                   v
+  Fermentative                                   −              +              −                       +                          −                   v
+  Anaerobic respiration                                    −              +              +                       +                          −                   +
+reduction of:
+  Nitrate                                         −              +              +                       +                          v                   +
+Denitrification                                   −              −              +                       −                          v                   v
+Hydrolysis of:
+  Gelatin                                        +              +              −                       +                          +                   +
+  Starch                                         +              +              −                       −                          v                   v
+Utilization of:
+  d-glucose, maltose                             +              +              nd                      +                          +                   v
+  Salicin, galacturonate, dl-glycerate           +              −              nd                      −                          −                   −
+fatty acid composition:
+  polyunsaturated fatty acid                                             −            +              −                     +                          −                  +
+  docosahexaenoic acid                                             −            +              −                     +                          −                  −
+  eicosapentaenoic acid                                             −            −              −                     −                          −                  +
+Mol% G+C                              44–47          35–46            54                    40–42                      36–48               38–54
+footnote a: For symbols, see standard definitions; nd, not determined; PUFA, polyunsaturated fatty acid; EPA, eicosapentaenoic acid (20:5 x3c); DHA, docosahexaenoic acid (C20:6 x3c).
+
+
+#####
+TABLE BXII.c.136. Characteristics of Alteromonas macleodii!a
+                                      Alteromonas macleodii       Alteromonas macleodii ATCC 27126
+Accumulation of poly-b-hydroxybutyrate                    −                   −
+Hydrogen autotrophy                                       −                   −
+reduction of:
+  Nitrate                                                   −                   −
+Growth:
+  4°C                                                     −                   −
+  30°C                                                    +                   +
+  40°C                                                    d                   +
+  45°C                                                    −                   −
+  requires Na+                                                      +                   +
+enzyme activity: 
+  Lipase, gelatinase, amylase                               +                   +
+  Alginase                                                 (–)                  +
+  Chitinase                                                 −                   −
+  Catalase, oxidase                                         +                   +
+  Arginine dihydrolase                                      −                   −
+Utilization of:
+  d-Fructose, d-galactose, d-glucose, caprate, pyruvate, dl-glycerate, l-alanine, cellobiose, butyrate, caproate, caprylate, pelargonate, isobutyrate, valerate, lactose, maltose, melibiose, sucrose, trehalose, salicin, glycerol, acetate, propionate                     +                   +
+  d-Gluconate, d-galacturonate, ethanol                          (+)                  +
+  l-Tyrosine                                             (+)                  −
+  N-Acetylglucosamine, d-mannitol, propanol, heptanoate, dl-lactate, glycine                        d                   +
+  Propane-1,2-diol, isovalerate, dl-3-hydroxybutyrate, l-arginine, l-aspartate, l-glutamate, l-isoleucine, l-leucine, l-serine, l-valine                     d                  −
+  d-Xylose      (−)                  +
+  d-ribose, d-arabinose, l-arabinose, d-fucose, l-rhamnose, d-mannose, inulin, i-erythritol, d-sorbitol, meso-inositol, adonitol, ethane-1,2-diol, butane-2,3-diol, methanol, isopropanol, isobutanol, saccharate, mucate, d-glucuronate, formate, oxalate, malonate, succinate, adipate, pimelate, suberate, azelate, sebacate, dl-malate, d(–)-tartrate, l(+)-tartrate, meso-tartrate, 2-oxoglutarate, fumarate, citrate, aconitate, maleate, levulinate, citraconate, itaconate, mesaconate, d-mandelate, l-mandelate, benzoylformate, benzoate, o-hydroxybenzoate, m-hydroxybenzoate, p-hydroxybenzoate, phenylacetate, quinate, d-alanine, b-alanine, l-citrulline, l-histidine, l-lysine, l-norleucine, l-ornithine, l-phenylalanine, l-proline, l-threonine, d-tryptophan, l-tryptophan, dl-kynurenine, kynurenate, anthranilate, m-aminobenzoate, p-aminobenzoate, c-aminobutyrate, d-aminovalerate, hippurate, methylamine, ethanolamine, benzylamine, putrescine, spermine, histamine, tryptamine, butylamine, 2-amylamine, pentylamine, betaine, sarcosine, creatine, pantothenate, acetamide, nicotinate, nicotinamide, trigollenine, allantoin, adenine, guanine, cytosine, thymine, uracil, n-hexadecane     −     −
+Mol% G+C                                  45–46                 46
+footnote a: Symbols: +, positive for 90% or more strains; (+), positive for 75–89% of strains; d, positive for 26–74% of strains; (–), positive for 11–25% of strains; −, positive for 0–10% of strains.
+footnote b: The following substrates are not utilized: d-ribose, d-arabinose, l-arabinose, d-fucose, l-rhamnose, d-mannose, inulin, i-erythritol, d-sorbitol, meso-inositol, adon-itol, ethane-1,2-diol, butane-2,3-diol, methanol, isopropanol, isobutanol, saccharate, mucate, d-glucuronate, formate, oxalate, malonate, succinate, adipate, pimelate, suberate, azelate, sebacate, dl-malate, d(–)-tartrate, l(+)-tartrate, meso-tartrate, 2-oxoglutarate, fumarate, citrate, aconitate, maleate, levulinate, citraconate, itaconate, mesaconate, d-mandelate, l-mandelate, benzoylformate, benzoate, o-hydroxybenzoate, m-hydroxybenzoate, p-hydroxybenzoate, phenylacetate, quinate, d-alanine, b-alanine, l-citrulline, l-histidine, l-lysine, l-norleucine, l-ornithine, l-phenylalanine, l-proline, l-threonine, d-tryptophan, l-tryptophan, dl-kynurenine, kynurenate, anthranilate, m-aminobenzoate, p-aminobenzoate, c-aminobutyrate, d-aminovalerate, hippurate, methylamine, ethanolamine, benzylamine, putrescine, spermine, histamine, tryptamine, butylamine, 2-amylamine, pentylamine, betaine, sarcosine, creatine, pantothenate, acetamide, nicotinate, nicotinamide, trigollenine, allantoin, adenine, guanine, cytosine, thymine, uracil, and n-hexadecane.
+
+#####
+TABLE BXII.c.140. Characteristics differentiating the species of the genus Glaciecola!a
+                                  Glaciecola punicea       Glaciecola pallidula
+Pigmentation                                          Pink-red           Pale pink
+Production of Acid from:
+  maltose                                                 −                 (+)         
+Hydrolysis of:                                                                         
+  Urate                                                  d                    −
+  Esculin                                                d                    −        
+  Starch                                                 −                    d
+  Tween 80                                               d                    +        
+Utilization of:                                                                        
+  α-Glycerophosphate                                     d                    +
+  Succinate, l-malate, fumarate, l-proline                      +                    −
+  Glycerol, glycogen, acetate, pyruvate, dl-lactate, l-glutamate                           −                    +        
+  l-Tyrosine                                             d                    −
+  Butyrate                                               −                    d
+growth:
+  Marine broth 2216, R2A + 2.5% NaCl, ZoBells marine medium   +   +
+  15°C     +   +
+  25°C     −   −
+  3x strength seawater   −   − 
+  requires Yeast extract                                          d                  −          
+enzyme activity:
+  b-Galactosidase                             +                  −          
+  catalase, oxidase, α-galactosidase, b-galactosidase   +   +
+  l-phenylalanine deaminase, l-tryptophan deaminase, arginine dihydrolase, glutamate decarboxylase, lysine decarboxylase, ornithine decarboxylase, α-glucosidase, b-glucosidase, α-fucosidase, α-arabinosidase, b-glucuronidase, b-N-acetylglucosaminidase   −   −
+utilization of:
+  oxaloacetate    +   +
+production of acid from:
+  d-glucose, d-galactose, d-melibiose, glycerol   +   +
+growth:
+  5% ox-bile salts   −   −
+nitrate as a nitrogen source   −   −
+reduction of:
+  nitrate   −   −
+denitrification   −   −
+nitrogen fixation   −   −
+hydrolysis of:
+  urea, xanthine, egg yolk, casein, gelatin, elastin, chitin, dextran, dNA   −   −
+production of:
+  hydrogen sulfide from thiosulfate, hydrogen sulfide from l-cysteine   −   −
+  indole from l-tryptophan   −   −
+production of acid from:
+  l-arabinose, d-mannose, d-fructose, l-rhamnose, d-xylose, d-mannitol, N-acetylglucosamine, sucrose, lactose, cellobiose, trehalose, d-raffinose, dextran, adonitol, l-arabitol, d-sorbitol, m-inositol   −    −  
+utilization of:
+  N-acetylglucosamine, l-arabinose, cellobiose, d-xylose   −   −
+Mol% G+C                                  44–46                  40
+footnote a: Symbols: +, test positive for all strains; d, variable (10–90% of strains) results between strains; −, strains negative for test; (+), the test exhibited a weak and delayed reaction. 
+footnote b: All Glaciecola strains tested are positive for the following tests: growth on Marine 2216, R2A (Oxoid Pty. Ltd.) + 2.5% NaCl, and ZoBells marine medium (5 g bacteriological peptone, 2 g yeast extract dissolved in 1000 ml seawater); growth at <15°C on agar media; catalase, oxidase, α-galactosidase, b-galactosidase; utilization of oxaloacetate; and acid production (but weak and delayed) from d-glucose, d-galactose, d-melibiose, and glycerol.
+footnote c: All Glaciecola strains tested are negative for the following tests: growth at 25°C or higher on agar media; growth with 3× or 4× strength seawater; tolerance to 5% ox-bile salts; nitrate as a nitrogen source; nitrate reduction, denitrification, and nitrogen fixation; hydrolysis of urea, xanthine, egg yolk, casein, gelatin, elastin, chitin, dextran, and DNA; production of l-phenylalanine deaminase, l-tryptophan deaminase, arginine dihydrolase, glutamate decarboxylase, lysine decarboxylase, ornithine decarboxylase, α-glucosidase, b-glucosidase, α-fucosidase, α-arabinosidase, b-glucuronidase, b-N-acetylglucosaminidase; production of indole from l-tryp- tophan; production of hydrogen sulfide from thiosulfate or l-cysteine; acid pro- duction from l-arabinose, d-mannose, d-fructose, l-rhamnose, d-xylose, d-mannitol, N-acetylglucosamine, sucrose, lactose, cellobiose, trehalose, d-raffinose, dextran, adonitol, l-arabitol, d-sorbitol, and m-inositol; utilization of N-acetylglucosamine, l-arabinose, cellobiose, and d-xylose
+
+
+#####
+TABLE BXII.c.141. Phenotypic characterisitics differentiating the genus Marinobacter from other marine bacteria
+                              Marinobacter               Marinobacterium           Microbulbifer         Marinomonas            Oceanospirillum
+Morphology                                      Rod                           Rod                    Rod               Curved rods           Curved, helical
+growth:
+  requires Na+                                             +a                             +                      +                    +                       +
+enzyme activity:
+  Gelatinase                                        −                             −                      +                    −                       v
+Denitrification                                   +                             −                      −                    −                       −
+utilization of:
+  Carbohydrates                                   −                             +                      +                    +                       −
+Mol% G+C                                    52.7!b; 57.3!c                       55                     58                 45–50                   45–51
+footnote a: Symbols: +, positive; v, test results vary between species; − negative.
+footnote b: Gauthier et al., 1992.
+footnote c: Sproer et al., 1998.
+
+
+#####
+TABLE BXII.c.142. Phenotypic characteristics of Marinobacter hydrocarbonoclasticus and Pseudomonas nautica!a!b!c
+                                                                   Marinobacter hydrocarbonoclasticus                Pseudomonas nautica
+Morphology                                                                              Rods                         Rods
+Flagella                                                                        Single polar or none         Single polar or none
+Accumulation of poly-b-hydroxybutyrate                                                   −                            −
+growth:
+  Optimum temperature                                                                   32                         35
+  4°C                                                                                    −                            −
+  45°C                                                                                  +                             d
+  requires NaCl                                                                                   +                            +
+  Tolerates 20% NaCl                                                                       +                            ND
+enzyme activity:
+  Catalase, oxidase                                                        +                            +
+  Arginine dihydrolase, lysine decarboxylase, ornithine decarboxylase                                    −                            −
+  Lipase                                                                +                            +
+  Lecithinase                                                            +                            +
+  Urease                                                                             −                            −
+denitrification                                                        +                            +
+Hydrogen autotrophy                                                                      −                            −    
+Gelatin liquefaction                                                                       −                            −
+hydrolysis of:
+  Starch                                                                                   −                            −
+  Tween 80                                                                                 +                            +
+production of Acid from:
+  glucose                                                                          −                            −
+Utilization of:
+  Acetate, butyrate, caproate, succinate, fumarate, dl-lactate, p-hydroxybenzoate, l-proline, hexadecane, eicosane                            +                            +
+  Adipate, citrate, l-glutamate                                                            +                            d
+  dl-Alanine, benzoate                                                                     −                            d
+  Propionate, isobutyrate, valerate, heptanoate, caprylate, pelargonate, caprate, malonate, pyruvate, dl-malate, dl-3-hydroxybutyrate, l-histidine                                ND                           +
+  Isovalerate, sebacate, propylene glycol, ethanol, propanol, butanol, isobutanol                              ND                            d
+  Tetradecane, heneicosane, pristane, phenyldecane, phenanthrene                                       +                            ND
+  dl-arabinose, d-ribose, d-fructose, d-glucose, d-mannose, lactose, sucrose, cellobiose, d-mannitol, d-sorbitol, glycerol, d-gluconate, N-acetylglucosamine, glycolate, 2-oxoglutarate, m-hydroxybenzoate, o-hydroxybenzoate, dl-mandelate, propionate, l-arginine, l-asparagine, l-aspartate, glycine, l-lysine, l-methionine, l-ornithine, l-serine, dl-tryptophan, sarcosine    −    −
+  d-xylose, d-fucose, l-rhamnose, d-galactose, trehalose, maltose, melibiose, saccharate, mucate, d-galacturonate, d-glucuronate, salicin, inulin, cellulose, agar, adonitol, i-erythritol, m-inositol, ethylene glycol, methanol, isopropanol, geraniol, formate, oxalate, glutarate, pimelate, suberate, azelate, l(+)-tartrate, d(–)-tartrate, meso-tartrate, glycerate, aconitate, maleate, levulinate, citraconate, itaconate, mesaconate, benzoylformate, phenylacetate, phenylethanediol, naphthalene, quinate, b-alanine, l-citrulline, l-isoleucine, l-leucine, l-norleucine, l-phenylalanine, l-threonine, l-tyrosine, l-valine, kynurenate, kynurenine, trigollenine, anthranilate, m-aminobenzoate, p-aminobenzoate, α-aminobutyrate, c-aminobutyrate, d-aminovalerate, methylamine, ethanolamine, benzylamine, tryptamine, butylamine, 1-amylamine, 2-amylamine, putrescine, spermine, betaine, creatine, histamine, hippurate, acetamide, pantothenate, nicotinate, nicotinamide    ND    −
+footnote a: Symbols: +, 80–100% of strains are positive; d, 20–80% of strains are positive; –, 0–20% of strains are positive; ND, no data.
+footnote b: Phenotypic data from Gauthier et al. (1992) and Baumann et al. (1983b). M. hydrocarbonoclasticus and P. nautica do not utilize dl-arabinose, d-ribose, d-fructose, d-glucose, d-mannose, lactose, sucrose, cellobiose, d-mannitol, d-sorbitol, glycerol, d-gluconate, N-acetylglucosamine, glycolate, 2-oxoglutarate, m-hydroxybenzoate, o-hydroxybenzoate, dl-mandelate, propionate, l-arginine, l-asparagine, l-aspartate, glycine, l-lysine, l-methionine, l-ornithine, l-serine, dl-tryptophan, and sarcosine. 
+footnote c: In addition most strains of P. nautica (<20% positive) do not utilize d-xylose, d-fucose, l-rhamnose, d-galactose, trehalose, maltose, melibiose, saccharate, mucate, d-galacturonate, d-glucuronate, salicin, inulin, cellulose, agar, adonitol, i-erythritol, m-inositol, ethylene glycol, methanol, isopropanol, geraniol, formate, oxalate, glutarate, pimelate, suberate, azelate, l(+)-tartrate, d(–)-tartrate, meso-tartrate, glycerate, aconitate, maleate, levulinate, citraconate, itaconate, mesaconate, benzoylformate, phenylacetate, phenylethanediol, naphthalene, quinate, b-alanine, l-citrulline, l-isoleucine, l-leucine, l-norleucine, l-phenylalanine, l-threonine, l-tyrosine, l-valine, kynurenate, kynurenine, trigollenine, anthranilate, m-aminobenzoate, p-aminobenzoate, α-aminobutyrate, c-aminobutyrate, d-aminovalerate, methylamine, ethanolamine, benzylamine, tryptamine, butylamine, 1-amylamine, 2-amylamine, putrescine, spermine, betaine, creatine, histamine, hippurate, acetamide, pantothenate, nicotinate, nicotinamide. 
+
+
+#####																														
+TABLE BXII.c.143. Differential characteristics of Marinobacterium and some aerobic, rod-shaped, marine bacteria that require NaCl to grow!a																														
+	Marinobacterium	Alteromonas macleodii	Shewanella hanedai	Shewanella colwelliana	Halomonas marina	Marinobacter hydrocarbonoclasticus	Marinomonas communis	Marinomonas vaga	Mesophilobacter	Methylomicrobium pelagicum	Methylophaga marina	Oceanospirillum jannaschii	Oceanospirillum kriegii	Pseudomonas doudoroffii	Pseudomonas stanieri	Pseudomonas stutzeri	Halomonas aquamarina	Halomonas cupida	Halomonas halophila	Halomonas pacifica	Halomonas venusta	Pseudoalteromonas haloplanktis	Pseudoalteromonas espejiana	Pseudoalteromonas undina	Pseudoalteromonas rubra	Pseudoalteromonas luteoviolacea	Pseudoalteromonas citrea	Pseudoalteromonas aurantia	Pseudoalteromonas nigrifaciens	Pseudoalteromonas denitrificans
+morphology	Straight rod	Straight rod	Straight rod	Straight rod	Straight rod	Straight rod	Curved rod	Straight rod	Straight rod!k	Straight rod	Straight rod, curved rod	Straight rod	Straight rod	Straight rod	Straight rod	Straight rod	Straight rod	Straight rod	Straight rod	Straight rod	Straight rod	Straight rod	Straight rod	Straight rod, curved rod	Straight rod	Straight rod	Straight rod	Straight rod	Straight rod	Straight rod
+Motility	+	+	+	+	+	+	+	+	−	+	+	+	+	+	+	+	+	+	+	+	+	+	+	+	+	+	+	+	+	+
+flagella	polar	polar	polar	polar	polar	polar	polar	polar	nd	polar	polar	polar	polar	polar	polar	−	lateral	lateral	lateral	lateral	lateral	polar	polar	polar	polar	polar	polar	polar	polar	polar
+Cell diameter	0.5–0.7	0.5–1.5	0.5–1.5	0.5–1.5	0.8–1.1	0.3–0.5	0.7–1.5	0.7–1.5	0.5–0.6	0.8–1.2	0.2	1.0–1.4	0.8–1.2	0.7–1.2	0.6–0.8	0.5–0.7	0.8–1.1	0.8–1.1	0.8–1.1	0.8–1.1	0.8–1.1	0.5–1.5	0.5–1.5	0.5–1.5	0.5–1.5	0.5–1.5	0.5–1.5	0.5–1.5	0.5–1.5	0.5–1.5
+accumulation of Poly-b-hydroxybutyrate	−	−	−	−	+	−	−	−	−	−	nd	+	+	+	+	−	+	+	+	+	+	−	−	−	−	−	−	−	−	−
+reduction of:																														
+  nitrate	−	−	+	+	−	d	−	−	+	nd	nd	+	−	d	−	−	D	D	D	D	D	D	−	−	−	−	−	−	−	+
+enzyme activity:																														
+  Oxidase	+	+	+	+	−	+	D	D	+	nd	+	+	+	+	+	+	D	D	D	D	D	+	+	+	+	+	+	+	+	+
+  Lipase	+	+	+	+	nd	+	−	−	nd	nd	nd	−	+	−	−	−	nd	nd	nd	nd	nd	+	+	+	+	+	+	+	+	+
+  Gelatinase	−	+	+	+	−	d	−	−	nd	nd	nd	−	−	−	−	−	−	−	−	−	−	+	+	+	+	+	+	+	+	+
+Utilization of:																														
+   dl-Malate	+	−	−	−	+	d	−	−	+	−	−	d	+	+	d	+	D	D	D	D	D	−	−	−	−	−	−	−	−	−
+   α-Ketoglutarate	nd	−	−	+	+	−	+	+	nd	−	−	nd	+	+	+	+	D	D	D	D	D	−	−	−	−	−	−	−	−	−
+   b-Hydroxybutyrate	+	−	−	−	nd	d	+	+	nd	−	−	−	+	+	+	+	nd	nd	nd	nd	nd	−	−	−	−	−	−	−	−	−
+   Methane	nd	−	−	−	−	−	−	−	nd	+	+	−	−	−	−	−	−	−	−	−	−	−	−	−	−	−	−	−	−	−
+   Methanol	+	−	−	−	−	−	−	−	nd	+	+	−	−	−	−	−	−	−	−	−	−	−	−	−	−	−	−	−	−	−
+   Methylamine	−	−	−	−	−	−	−	−	nd	−	D	−	−	−	−	−	−	−	−	−	−	−	−	−	−	−	−	−	−	−
+   d-Glucose	+	+	d	−	+	−	+	+	+	−	−	−	+	−	−	+	+	+	+	+	+	+	+	+	+	+	+	+	+	+
+   d-Fructose	+	D	D	D	+	−	+	+	+	−	+	−	+	+	−	−	D	D	D	D	D	D	D	D	D	D	D	D	D	D
+   Saccharate	nd	nd	nd	nd	−	−	+	+	nd	nd	nd	−	−	−	−	+	D	D	D	D	D	nd	nd	nd	nd	nd	nd	nd	nd	nd
+   Glycolate	nd	nd	nd	nd	−	−	−	−	nd	nd	nd	−	−	+	−	+	D	D	D	D	D	nd	nd	nd	nd	nd	nd	nd	nd	nd
+   Mannitol	nd	nd	nd	nd	+	−	+	+	+	nd	nd	−	+	−	−	−	D	D	D	D	D	nd	nd	nd	nd	nd	nd	nd	nd	nd
+   Isobutanol	nd	nd	nd	nd	−	d	−	−	nd	nd	nd	+	−	−	+	+	D	D	D	D	D	nd	nd	nd	nd	nd	nd	nd	nd	nd
+   Quinate	nd	nd	nd	nd	−	−	+	+	nd	nd	nd	−	+	−	d	−	D	D	D	D	D	nd	nd	nd	nd	nd	nd	nd	nd	nd
+   d-Aminovalerate	nd	nd	nd	nd	−	−	−	−	nd	nd	nd	+	−	+	d	−	D	D	D	D	D	nd	nd	nd	nd	nd	nd	nd	nd	nd
+   l-Tyrosine	nd	D	D	D	+	−	−	−	nd	nd	nd	−	−	−	+	+	D	D	D	D	D	D	D	D	D	D	D	D	D	D
+   Sarcosine	nd	nd	nd	nd	d	−	+	+	nd	nd	nd	+	−	+	−	−	D	D	D	D	D	nd	nd	nd	nd	nd	nd	nd	nd	nd
+footnote a: For symbols, see standard definitions; nd, not determined.
+footnote b: The species considered is A. macleodii.
+footnote c: The species considered are P. haloplanktis, P. espejiana, P. undina, P. rubra, P. luteoviolacea, P. citrea, P. aurantia, P. nigrifaciens, and P. denitrificans, all of which were previously included in the genus Alteromonas.
+footnote d: The species considered are S. hanedai and S. colwelliana, which were previously included in the genus Alteromonas.
+footnote e: The species considered are H. aquamarina, H. cupida, H. halophila, H. pacifica, and H. venusta, all of which were previously included in the genus Deleya.
+footnote f: The species considered are M. communis and M. vaga, which were formerly assigned to the genus Alteromonas.
+footnote g: Methylomicrobium pelagicum was previously included in the genera Methylomonas and Methylobacter.
+footnote h: The two species considered here are straight rods. All other species of Oceanospirillum are helical.
+footnote i: Marine pseudomonads differ from terrestrial species by requiring over 75 mM NaCl for optimum growth rate and cell yield.
+footnote j: Refers to strains previously classified as P. perfectomarina but shown to belong to P. stutzeri by DNA hybridization experiments.
+footnote k: Coccoid cells occur in old cultures.
+footnote l: Only one species, P. undina, is a curved rod. Long, filamentous helices, often exceeding 20 lm, occur when S. colwelliana grows on surfaces, in nutrient-poor media, or during late growth phases.
+footnote m: M. communis is curved; M. vaga is straight.
+footnote n: Some cells of P. stutzeri (P. perfectomarina) may be slightly curved.
+footnote o: S. colwelliana utilizes α-ketoglutarate.
+footnote p: S. hanedai, S. colwelliana, and some strains of P. haloplanktis are positive. P. denitrificans carries out denitrification with gas formation.
+footnote q: S. colwelliana and some strains of S. hanedai are unable to use d-glucose.
+
+
+#####
+TABLE BXII.c.144. Characteristics differentiating the species of the genus Pseudoalteromonas!a
+  Pseudoalteromonas haloplanktis   Pseudoalteromonas antarctica   Pseudoalteromonas atlantica   Pseudoalteromonas aurantia   Pseudoalteromonas carrageenovora   Pseudoalteromonas citrea   Pseudoalteromonas denitrificans   Pseudoalteromonas espejiana   Pseudoalteromonas luteoviolacea   Pseudoalteromonas nigrifaciens   Pseudoalteromonas piscicida   Pseudoalteromonas prydzensis   Pseudoalteromonas rubra   Pseudoalteromonas tetraodonis   Pseudoalteromonas undina
+flagella                          −          −          −          −          −          −          sheathed polar          −          sheathed polar!d          −          sheathed polar          −          −          −          −
+Yellow-orange pigment              −         −        −          +       −      d        −       −      d       −       +       −       −      −     −
+Red pigment                        −         −        −          −       −      −        +       −      −       −       −       −       +      −     −
+Violet pigment                     −         −        −          −       −      −        −       −      +       −       −       −       −      −     −
+Melanin-like pigments               +         −        +          +       d      d        nd      −      d       +       +       −       nd     −     −
+reduction of:
+  nitrate                             d         −        d          −       −      −        +       −      −       −       −       −       −      +     −
+Denitrification               −         −        −          −       −      −        +       −      −       −       −       −       −      −     −
+enzyme activity:
+  Catalase                     +         +        +          +       +      d        +       +      −       +       d       +       −      +     +
+  Agarase                      −         −        +          −       −      d        −       −      −       −       −       −       −      −     −
+  Chitinase                    d         −        −          −       −      −        +       −      −       −       +       +       −      +     +
+  Alginase                     −         nd         +          +       +      +        +       +      +       −       +       +       +      +     −
+  Amylase                      d         d        +          −       +      +        +       +      nd      −       −       −       nd     +     d
+Growth:
+  4°C                        −         +        +          +       +      d        +       −      d       d       +       +       −      +     d
+  35°C                       +         −        +          −       +      d        −       d      +       d       +       −       +      +     −
+  requires Amino acid                   d         −        −          +       −      d        +       +      +       −       +       −       +      +     +
+  Tolerates 9% NaCl            +         +        +          −       +      −        −       +      −       +       +       +       −      nd    +
+production of:
+  Antibiotic                    d       nd        nd         +       nd     d        +       −      +       nd      +       nd      +      +     −
+Utilization of:
+  d-Ribose                   −         −        −        −         −       +      nd       −       −       +       −      nd      −      −      −
+  d-Fructose                 d         −        +        +         +       +       −       d       −       +       d       −      −      −      −
+  d-Galactose                d         +        +        −         +       −       −       +       −       +       d       d      −      −      −
+  d-Mannose                  +         d        +        +         −       d      nd       d       −       d       +       +      +      −      −
+  Cellobiose                 −         d        +        −         +       d       −       d       −       d       −       d      −      −      −
+  Lactose                    −         −        +        −         +       d       −       +       −       d       −       −      −      −      −
+  Maltose                    +         +        +        d         +       −       +       +      +        +       +       +      −      +      +
+  Melibiose                  −         −        +        −         +      nd      nd       +       −      +c       −       −      nd     −      −
+  Sucrose                    +         −        +        −         +       d       −       +       −       +       +       +      −      +      +
+  Trehalose                  d         −        +        +         −       d      nd       +       +       +       +       +      +      +      d
+  Mannitol                   d         +        +        −         +       d       −       +       −       +       −       +      −      −      −
+  d-Gluconate                −         d        −        −         −       d       −       −       −       d       −       +      nd       −      −
+  Glycerol                   −         +        d        −         +       d       −       −       −       d       −       +       −     −      −
+  Acetate                    +         −        +        −         +       d       +       +       −       d       +       +       −     +      +
+  Succinate                  +         +        d        −         +       +       −       −       −       d       +       +       −     +      +
+  Pyruvate                   +        nd       nd        −        nd       +       +       +       d       +       +       +       −     +      +
+  Fumarate                   +        nd        d        −         +       d       −       −       −       d       +       +       −     +      +
+  dl-Malate                  −         −        −        −         +       −      nd       −       −       −       +       +       −     +      −
+  dl-Lactate                 −         −        −        −         −       d       −       −       d       +       −       −       −     −      −
+  Citrate                    +         d        +        −         +       d       −       +       −       −       +       +       −     −      −
+  2-Oxoglutarate             −        nd        −        −         +       −      nd       −       −       −       −       −       −     −      −
+  Aconitate                  +        nd        +        −         −       +      nd       +      nd       +       −       +      nd     −      −
+  p-Hydroxybenzoate          −         −        −        −         +       +       −       −       −       +       −      nd      nd     −      −
+  dl-α-Alanine               +         +        −        −         −       d       +       +       +       +       −       −      nd     +      +
+  l-Glutamate                d         +        −        −         −       +       +      −       −        +       −       +      nd     +      −
+  l-Ornithine                −        nd        −        −         −       +       −       d       −       +       −       −      nd     −      d
+  l-Proline                  d         +        −        −         −       +       +       +       d       +       d       +      nd     +      d
+Mol% G+C                  42–44     41–42    41–42    38–43     39–40   39–45   36–37   43–44   40–43   39–41   44–45   38–39   46–48   41   43–44
+footnote a: For symbols see standard definitions; nd, not determined.
+
+
+#####
+TABLE BXII.c.145. Other characteristics of selected species of the genus Pseudoalteromonas!a
+  Pseudoalteromonas haloplanktis   Pseudoalteromonas atlantica   Pseudoalteromonas antarctica   Pseudoalteromonas carrageenovora   Pseudoalteromonas espejiana   Pseudoalteromonas nigrifaciens   Pseudoalteromonas tetraodonis   Pseudoalteromonas undina
+enzyme activity:
+  Oxidase, gelatinase, caseinase                                  +           +           +     +    +    +    +       +
+  Lipase                                                          +           +           d     +    +    +    +       +
+  Urease                                                          +           +           d     −    +    +    −       d
+  b-Galactosidase                                                 −           +           −     −    +    +    −       +
+  b-Glucosidase                                                   nd          +           d     nd   nd   nd   nd      +
+  Deoxyribonuclease                                               nd          +           d     nd   nd   nd   nd      +
+  Phosphatase                                                     nd          +           +     nd   nd   nd   nd      +
+production of:
+  hydrogen sulfide                                              nd          +           d     nd   nd   nd   nd      +
+Voges–Proskauer Test                                            nd          −           d     nd   nd   nd   nd      d
+Decomposition of l-tyrosine                                     +           +           −     +    +    +    −       +
+Utilization of:
+  dl-Arabinose                                                  d           −           −     d    −    d    −       −
+  d-Xylose                                                      −           −           −     −    −    d    −       −
+  d-Gentiobiose                                                 +           +           −     +    +    −    +       +
+  d-Glucose                                                     +           +           +     +    +    +    +       +
+  l-Rhamnose                                                    −           −           −     −    −    d    −       −
+  d-Raffinose                                                    −           +           −     −    −    −    −       −
+  Adonitol                                                      −           −           −     −    −    d    nd      −
+  meso-Inositol                                                 −           −           −     −    −    +    nd      −
+  d-Sorbitol                                                    −           −           −     −    −    +    nd        −
+  Amygdalin                                                     −           +            d    −    −    −    −       +
+  Salicin                                                       −           −           −     −    −    −    −       −
+  α-Methyl-d-mannoside                                          nd          −           nd    nd   nd   nd   nd      −
+  d-Glucosamine                                                 −           −           nd    +    −    −    +       −
+  N-Acetylglucosamine                                           +           −            d    +    −    −    +       −
+  Glycogen                                                      −           −            d    −    +    +    −       +
+  Ethanol                                                        d          nd          nd    +    −    +    nd      nd
+  n-Propanol                                                     d          nd          nd    +    −    +    nd      nd
+  n-Butanol                                                     −           nd          nd    +    d    −    nd      nd
+  Propionate                                                    +           +           −     +    +    +    nd      +
+  Butyrate                                                       d          −           −     d    +    +    +        d
+  Isobutyrate                                                    d          −           nd    +    +    +    +        d
+  Valerate                                                       d          +           −     +    d    +    +        d
+  Isovalerate                                                   −           −           nd    −    +    −    +       d
+  Caproate                                                      −           −           nd    −    −    +    +       d
+  Heptanoate                                                     d          −           nd    −    −    −    −       d
+  Caprylate                                                      d          +           nd    −    −    d    −       d
+  Pelargonate                                                    d          +           nd     d   +    −    nd      +
+  Caprate                                                       +           +           −     +    +    −    nd      +
+  Oxalate                                                       −           +           nd    −    −    −    nd      +
+  Malonate                                                      −           −            d    −    −    −    nd      −
+  Azelate                                                       −           −           nd    −    −    −    nd      −
+  dl-3-Hydroxybutyrate                                           d          −            d    d    d    +    +       d
+  dl-Tartrate                                                   −           −           nd    −    −    −    nd      −
+  Mesaconate                                                    −           −           nd    −    −    −    −       d
+  o-Hydroxybenzoate                                             −           +           nd    −    −    −    −        d
+  Phenylacetate                                                 −           −           −     −    −    +    nd      −
+  l-Arginine                                                     d          −           nd     d    d   +    +       −
+  l-Aspartate                                                    d          −           nd    −    +    −    nd      −
+  l-Citrulline                                                  −           −           nd     d   +    −    nd      −
+  l-Cysteine                                                     nd           −           nd    nd   nd   nd   nd      −
+  Glycine                                                        d          −           nd     d   +    −    nd      −
+  l-Histidine                                                    d          −           −     −    −    d    nd      −
+  l-Isoleucine                                                  −           −           nd     d    d   −    nd      −
+  l-Leucine                                                      d          −            d    +    d    −    nd      −
+  l-Lysine                                                      −           −           −     −    −    +    +       −
+  l-Methionine                                                  nd          −           nd    nd   nd   nd   nd      −
+  l-Phenylalanine                                               −           −           −      d   d    d    −       −
+  l-Serine                                                      +           −            d    +    +    +    nd      −
+  l-Threonine                                                   d           −           nd     d   +    +    nd      −
+  l-Valine                                                      d           −           nd    −    −    −    nd      −
+  dl-c-Aminobutyrate                                            −           −           nd    −    −    −    nd      −
+  l-Amylamine                                                   −           −           nd    −    −    −    nd      −
+  Adipate, pimelate                                             −           −           −     −    −    −    nd      −
+  Glutarate                                                     −           −           nd    −    −    −    nd      −
+  Putrescine                                                             −            −             nd            −            −             −            nd         −
+  m-Hydroxybenzoate                                                      −            −             −             −            −             −            nd         −
+  dl-Fucose                                                              −            −             −             −            −             −            nd         −
+  Suberate, sebacate, meso-tartrate, itaconate                           −            −             −             −            −             −            nd         −
+  α-Methyl-d-glucoside, d-turanose, 5-keto-d-gluconate                   −            −             nd            −            −             −            −          −
+  d-Melezitose                                                           −            −             nd            −            −             −            −          −
+  dl-Tryptophan                                                          −            −             nd            −            −             −            nd         −
+  Inulin, creatine                                                       −            −             nd            −            −             −            nd         −
+  i-Erythritol, dl-glycerate, l-norleucine, dl-kynurenine, dl-α-aminobutyrate, dl-α-aminovalerate, dl-d-aminovalerate, ethanolamine, histamine, tryptamine, spermine, trigollenine, betaine, sarcosine, acetamide, butylamine, benzylamine, anthranilate, m-aminobenzoate, p-aminobenzoate               −            −             nd            −            −             −            nd         −
+  Glycolate                                                              −            −             nd            −            −             −            nd         −
+  Citraconate, levulinate, maleate, benzoate, dl-maleate, b-alanine               −            −             nd            −            −             −            nd         −
+  Arbutin                                                                nd           −             nd            −            −             −            nd        −
+  d-Glucuronate                                                          −            nd            nd            −            −             −            nd        nd
+  Saccharate                                                             −            nd            nd            −            −             −            nd        nd
+  Mucate, methanol, isopropanol, isobutanol, ethylene glycol, propylene glycol, butylene glycol, formate, quinate, benzoylformate, phenylethanediol, phenol, naphthaene, kynurenate, methylamine, pentylamine, 2-amylamine, hippurate, pantothenate, nicotinate, nicotinamide, allantoin, adenine, cytosine, guanine, thymine, uracil, dodecane                    −            nd            nd            −            −             −            nd        nd
+  dl-Arabitol                                                            nd           −             nd           nd            nd            nd           nd         −
+  Dulcitol, urea                                                         nd           −             nd           nd            nd            nd           nd         −
+  d-Lyxose, d-tagatose, sorbose, xylitol, b-methyl-d-glucoside, 2-keto-d-gluconate, L-norvaline, ethylamine                     nd           −             nd           nd            nd            nd           nd         −
+  Phthalate, isophthalate, tert-phthalate                                nd           −             nd           nd            nd            nd           nd        −
+  d-Galacturonate                                                        −            nd            nd           −             −             nd           nd        nd
+footnote a: For symbols see standard definitions; nd, not determined.
+footnote b: No information is available concerning ascorbate, oxaloacetate, hydroxy-l-proline, l-asparagine, l-glutamine, protamine, 2-deoxyribose, deoxycholate, galactitol, d-galactosamine, α-glycerophosphate, urate, and glycylglycine.
+
+
+#####
+TABLE BXII.c.146. Other characteristics of selected species of the genus Pseudoalteromonas!a
+                                                 Pseudoalteromonas aurantia   Pseudoalteromonas citrea   Pseudoalteromonas denitrificans   Pseudoalteromonas luteoviolacea   Pseudoalteromonas piscicida   Pseudoalteromonas prydzensis
+enzyme activity:
+  Oxidase, gelatinase, caseinase                                      +           +              +                  +                +               +
+  Lipase                                                              +           +              +                  +                +               +
+  Urease                                                              −           nd             nd                 −                −               d
+  b-Galactosidase                                                     −           −              −                  −                −               −
+  b-Glucosidase                                                     −           nd             nd                 d                d               d
+  Deoxyribonuclease                                                   +           +              +                  +                +               +
+  Phosphatase                                                         +           +              +                  +                +               +
+production of:
+  hydrogen sulfide                                                      −           −              nd                 −                d               −
+Voges–Proskauer Test                                                −           −              nd                 nd               −               −
+Decomposition of l-Tyrosine                                         +           +              +                  d                +               −
+Utilization of:
+  dl-Arabinose                                                      −            −             −                  −                −              +
+  d-Xylose                                                          −            −             nd                 −                −              nd
+  d-Glucose                                                         +            d             +                  d                +              +
+  l-Rhamnose                                                        −            +             nd                 −                −              −
+  d-Raffinose                                                        −           nd               nd                 −                −              −
+  Adonitol                                                          −           +              nd                 −                −              −
+  meso-Inositol                                                     −           −              nd                 −                −              nd
+  d-Sorbitol                                                        −           d              −                  −                −              −
+  Amygdalin                                                         −           nd             nd                 nd               −              nd
+  Salicin                                                           −            d             nd                 −                −              nd
+  α-Methyl-d-mannoside                                              −           nd             nd                 nd               +              nd
+  d-Glucosamine                                                     +           nd             nd                 +                +              nd
+  N-Acetylglucosamine                                               +           nd             −                  +                +              +
+  Glycogen                                                          −           +              nd                 nd               +              +
+  Ascorbate                                                          d          nd             nd                  d               −              nd
+  Ethanol                                                           nd          +              −                  nd               nd             nd
+  Propionate                                                        nd          +              +                  nd               nd             +
+  n-Butyrate                                                        nd          +              +                  nd               nd             +
+  Isobutyrate                                                       nd          nd             nd                 nd               nd             +
+  n-Valerate                                                        nd          −              nd                 nd               nd              d
+  Isovalerate                                                       nd          nd             nd                 nd               nd              d
+  Caproate                                                          nd          +              nd                 nd               nd             −
+  Heptanoate                                                        nd          nd             nd                 nd               nd             −
+  Caprylate                                                         nd          −              nd                 nd               nd              d
+  Pelargonate                                                       nd          −              −                  nd               nd             −
+  Oxalate                                                           −           nd             nd                  d               −              nd
+  Malonate                                                          −           nd             nd                 −                −               d
+  Azelate                                                           nd          nd             nd                 nd               nd              d
+  Oxaloacetate, hydroxy-l-proline                                   nd          nd             nd                 nd               nd             +
+  dl-3-Hydroxybutyrate                                              nd          nd             −                  −                nd             +
+  dl-Tartrate                                                       −           nd             nd                  d               −              nd
+  o-Hydroxybenzoate                                                 −           nd             nd                 −                −              nd
+  Phenylacetate                                                     nd          +              nd                 nd               nd             nd
+  l-Arginine                                                        +           +              +                   d               +              nd
+  l-Asparagine                                                      nd          nd             +                  +                nd             −
+  l-Aspartate                                                       −           +              nd                 nd               −              −
+  l-Citrulline                                                       d          nd             −                  nd               +              nd
+  l-Cysteine                                                        −           nd             −                   d               −              nd
+  Glycine                                                           +           nd             nd                 nd               −              nd
+  l-Glutamine, protamine                                            nd          nd             +                  nd               nd             nd
+  l-Histidine                                                        d          −              nd                  d                d             −
+  l-Isoleucine                                                      −           nd             nd                 nd               +              nd
+  l-Leucine                                                          d          nd             nd                 −                +              −
+  l-Lysine                                                          −           −              nd                  d               nd             nd
+  l-Methionine                                                      −           nd             nd                 nd                d             nd
+  l-Phenylalanine                                                   −           −              nd                  d                d             −
+  l-Serine                                                          −           nd             nd                 nd               −              −
+  l-Threonine                                                        d           d             nd                 +                −              −
+  l-Valine                                                          −           nd             nd                 nd               −              nd
+  c-Aminobutyrate                                                   −           nd             nd                 nd               −              +
+  l-Amylamine                                                       −           nd             nd                 nd                d             nd
+  Adipate, pimelate                                                 nd          nd             nd                 nd               nd             −
+  Glutarate                                                         nd          −              nd                 nd               nd             −
+  Putrescine                                                        −           nd             −                  nd               −              −
+  m-Hydroxybenzoate                                                 nd          nd             nd                 −                nd             nd
+  dl-Fucose                                                         −           nd             nd                 nd               −              nd
+  α-Methyl-d-glucoside                                             −           nd             nd                 nd               −              nd
+  d-Turanose, 5-keto-d-gluconate                                    nd          nd             nd                 nd               nd             nd
+  dl-Tryptophan                                                     −           nd             −                  −                −              nd
+  Inulin, creatine                                                            −             nd              nd                  −                 −               nd
+  i-Erythritol, dl-glycerate                                                  nd            nd              nd                  −                 nd              nd
+  l-Norleucine, dl-kynurenine, dl-α-aminobutyrate, dl-α-aminovalerate, dl-d-aminovalerate, ethanolamine, histamine, tryptamine, spermine, trigollenine, betaine, sarcosine, acetamide, butylamine, benzylamine, anthranilate, m-aminobenzoate, p-aminobenzoate                      −             nd              nd                  nd                −               nd
+  Glycolate                                                                   nd            nd              −                   nd                nd              nd
+  Arbutin                                                                     −             nd              nd                  nd                −               nd
+  d-Glucuronate                                                               nd            nd              nd                  −                 nd              −
+  Saccharate                                                                  nd            nd              nd                  nd                nd              −
+  dl-Arabitol                                                                 −             nd              nd                  nd                −               −
+  Dulcitol, urea                                                              nd            nd              nd                  −                 nd              nd
+  d-Lyxose, d-tagatose, sorbose, xylitol, b-methyl-d-glucoside, 2-keto-d-gluconate, l-norvaline, ethylamine              −             nd              nd                  nd                −               nd
+  d-Galacturonate                                                             nd            nd              nd                  nd                nd              −
+  2-Keto-d-gluconate                                                          −             nd              nd                  nd                −               nd
+  α-Glycerophosphate, urate                                                   nd            nd              nd                  nd                nd              −
+  Deoxycholate                                                                nd            nd              nd                  −                 nd              nd
+  Galactitol, d-galactosamine, glycylglycine                                   −             nd              nd                  nd                −               nd
+footnote a: For symbols see standard definitions; nd, not determined.
+footnote b: No information is available concerning the following substrates: caprate, d-gentiobiose, n-propanol, n-butanol, mesaconate, suberate, sebacate, meso-tartrate, itaconate, d-melizitose, citraconate, levulinate, maleate, benzoate, dl-maleate, b-alanine, mucate, methanol, isopropanol, isobutanol, ethylene glycol, propylene glycol, butylene glycol, formate, quinate, benzoylformate, phenylethanediol, phenol, napthalene, kynurenate, methylamine, pentylamine, 2-amylamine, hippurate, pantothenate, nicotinate, nicotinamide, allantoin, adenine, cytosine, guanine, thymine, uracil, dodecane, phthalate, isophthalate, and tert-phthalate. 
+
+
+#####
+TABLE BXII.c.147. Differential characteristics of Psychromonas species!a!b
+                                           Psychromonas antarctica                 Psychromonas arctica                  Psychromonas kaikoae                  Psychromonas marina           Psychromonas profunda
+growth:
+  optimum temperature                         12                20                10               14–16       3–4
+  minimum temperature                         2                0                4               0       2
+  maximum temperature                         17                25                15               25       13
+  atmospheric pressure                              +                        +                        −                         +                 +
+production of:
+  Indole                                                    −                        nd                       −                         −                 +
+  hydrogen sulfide                                              −                        nd                       −                         +                 +
+production of acid from:
+  Inositol                                                   −                        nd                        −                      −                  +
+  Lactose                                                    −                        nd                        −                      +                  +
+  Rhamnose                                                   −                        nd                        −                      −                  +
+  Trehalose                                                  +                        nd                        +                      −                  +
+utilization of:
+  Alanine                                                    −                        +                        nd                      nd                 +c
+  Cellobiose                                                 −                        nd                       +                       +                  +c
+  Fumarate                                                   −                        +                        nd                      nd                 +
+  Glycerol                                                   −                        +                        −                       +                  +
+  Mannose                                                    −                        +                        +                       −                  −
+  Xylose                                                     −                        −                        −                       +                  +c
+Hydrolysis of:
+  Gelatin                                                    +                        −                         +                      −                  −
+  Starch                                                     +                        +                         −                      +                  w
+footnote a: Abbreviations: +, positive; −, negative; nd, not determined; w, weak.
+footnote b: Data from Mountfort et al.(1998a), Kawasaki et al. (2002), Nogi et al. (2002), Groudieva et al. (2003), and Xu et al.(2003).
+footnote c: Extended incubation (up to 4 w) may be required.
+
+
+#####
+TABLE BXII.c.148. Phenotypic characteristics which differentiate the species of the genus Shewanella!a
+   Shewanella putrefaciens   Shewanella algae   Shewanella amazonensis   Shewanella baltica   Shewanella benthica   Shewanella colwelliana   Shewanella frigidimarina   Shewanella gelidimarina   Shewanella hanedai   Shewanella oneidensis   Shewanella violacea   Shewanella woodyi
+Bioluminescence                    −              −            −          −            −         −        −         −        +         −       −       +
+Violet pigment                     −              −            −          −            −         −        −         −        −         −       +       −
+growth:
+  4°C                      d              −            +          +            +         −        +         +        +         d       +       +
+  25°C                     +              +            +          +            −         +        −         −        d         +       −       +
+  37°C                     +              +            +          −            −         −        −         −        −         +       −       −
+  Barophilic                         −              −            −          −            +         −        −         −        −         −       +       −
+  requires Na+            −              S!a            +          −            +         +        S!a         +        +         −       +       +
+  Tolerates 6% NaCl                  −              +            −          −            −         −        +         −        −         −       nd      nd
+Fermentation of:
+  d-Glucose                        −              −            −          −            +        −         +         −        −         −       +       −
+  d-Glucose (with gas)             −              −            −          −            −        −         −         −        −         −       +       −
+  N-Acetylglucosamine              −              −            nd         −            +        −         −         +        −         nd      nd      nd
+enzyme activity:
+  Chitinase                          −              −            −          −            +        −         −         +        +         nd      nd      −
+  Amylase                            −              −            −          −            −        +         −         −        −         −       −        d
+  Lipase                             +              +            nd         +            +        −         +         +        +         nd      nd      +
+  Hemolysis                          −              +            +          −            −        −         −         −        −         −       nd      −
+  Ornithine decarboxylase            +              +            −          +            −        −         d         −        −         −       −       nd
+Denitrification                     d              −            +          −            −        −         d         −        d         −       −       +
+fatty acid composition:
+  eicosapentaenoic acid                     −              −            −          −            +        nd        +         +        +         −       +       nd
+  polyunsaturated fatty acid                nd              nd            nd          nd            +        nd        +         +        +         nd       +       nd
+production of:
+  hydrogen sulfide                     +              +            +          +            +        −         d         +        +         +       −       nd
+reduction of:
+   iron                            +              +            +          +            d        nd        +         +        −         +       nd      nd
+production of Acid from:
+  d-glucose                d           d (weak)        nd         +            +        −         +         −        +         nd      +       nd
+Utilization of:
+  d-Glucose                         d             −            nd         +            +        −         +         −        d         nd      nd      +
+  Cellobiose                        −             −            nd         +            −        −         +         −        −         nd      nd      +
+  Maltose, sucrose                  d             −            −          +            −        −         +         −        −         −       nd      −
+  N-Acetylglucosamine               d             +            nd         +            +        −         −         +        +         nd      nd      −
+  d-Gluconate                       −             −            nd         +            −        +         d         −        d         nd      nd      nd
+Mol% G+C                        43–49           54           52       46–47        46–47      46      40–43       48     44–47       45      47      46
+footnote a: For symbols see standard definitions; S, growth is stimulated by the presence of Na+ ions.
+footnote b: EPA, eicosapentaenoic acid.
+
+
+#####
+TABLE BXII.c.150. Characteristics differentiating members of the Shewanella putrefaciens species complex, S. baltica, S. algae, and DNA hybridization Group III!a
+                                          Shewanella putrefaciens          Shewanella algae          Shewanella baltica           Shewanella DNA hybridization Group III
+Owen DNA Hybridization Group                                   I                   IV                  II                            III
+Growth:
+  4°C                                                         +                    −                   +                             d
+  37°C                                                        +                    +                   −                             +
+  42°C                                                        −                    −                   −                             d
+  Tolerates 6% NaCl                                             −                    +                   −                             −
+  Shigella–Salmonella agar                            +                    +                   −                             −
+reduction of:
+  sulfite                                  +                    d                   −                             −
+production of Acid from:
+  d-Glucose                                                   −                    d!b                  +                             +
+  Maltose, sucrose                                            −                    −                   +                             +
+  Arabinose                                                   +                    −                   +                             +
+Christensen's citrate (alkali)                               −                    −                   +                             −
+enzyme activity:
+  Chymotrypsin                                                  +                    +                   d!b                            +
+  N-Acetyl-b-glucosaminidase                                    −                    +b                  d                             −
+  Urease                                                        −                    d                   d                             −
+Utilization of:
+  α-Cyclodextrin, glucose, maltose                            −                    −                   +                              +
+  Dextrin                                                     −                    −                   d                              +
+  l-Arabinose                                                 d                    −                   −                              +
+  Gentiobiose, cellobiose, d-gluconate, citrate                −                    −                   +                              −
+  Glycogen, adipate                                           −                    −                   d                              −
+  Tween 80                                                    +                    +                   d                              −
+  Sucrose                                                     −                    −                   +                              d
+  N-Acetylgalactosamine                                       −                    +                   −                              d
+  N-Acetylglucosamine                                         d                    +                   +                              +
+  α-Hydroxybutyrate                                           −                    +                   −                              −
+  dl-Malate                                                   d                    +                   d                              d
+  Caprate                                                     −                    +                   d                              d
+Mol% G+C                                                    43–45                52–54               44–48                          46–49
+footnote a: For symbols see standard definitions.
+footnote b: Weak reaction.
+
+
+
+#####
+TABLE BXII.c.151. Additional phenotypic characteristics of marine Shewanella species!a
+                                      Shewanella amazonensis           Shewanella colwelliana        Shewanella frigidimarina          Shewanella gelidimarina         Shewanella hanedai          Shewanella woodyi
+Utilization of:
+  d-Ribose                                                  nd                      nd                      nd                        nd                      d                  nd
+  d-Mannose                                                 +                       nd                      −                         −                      −                   −
+  d-Fructose                                                +                       −                        d                        −                      −                   nd
+  d-Xylose                                                  nd                      −                        d                        −                      −                   nd
+  d-Galactose                                               nd                      −                        d                        −                       d                  +
+  Trehalose, isobutyrate                                    nd                      −                       +                         −                      −                   nd
+  d-Mannitol, dl-malate                                     −                       nd                      +                         −                      −                   −
+  Lactose, glycerol, sorbitol                               −                       nd                      −                         −                      −                   −
+  d-Glucuronate                                             nd                      nd                      −                         −                      −                   +
+  Glycogen, l-phenylalanine                                 nd                      nd                       d                        −                      nd                  nd
+  Acetate                                                   nd                      −                       +                         +                      +                   +
+  Propionate                                                nd                      −                       +                         −                      +                   +
+  Butyrate                                                  nd                      −                       +                         +                      +                   nd
+  Valerate                                                  nd                      −                       +                         +                      −                   nd
+  Caproate, pelargonate                                     nd                      nd                       d                        −                       d                  nd
+  Hepatanoate                                               nd                      nd                      −                         −                       d                  nd
+  Caprate, l-isoleucine, spermine                           nd                      nd                      nd                        nd                     +                   nd
+  Succinate                                                 +                       −                       +                         −                      −                   +
+  dl-Glycerate, glycine                                     nd                      −                       nd                        nd                     +                   nd
+  dl-Lactate                                                +                       −                       +                         +                      −                   nd
+  Pyruvate                                                  nd                      nd                      +                         +                      +                   nd
+  Citrate                                                   +                       −                        d                        −                      −                   −
+  2-Ketoglutarate                                           nd                      +                       −                         −                      −                   +
+  Fumarate                                                  +                       +                       +                         −                      −                   nd
+  Oxaloacetate                                              nd                      nd                      +                         −                      nd                  nd
+  dl-Alanine                                                nd                      −                       −                         −                      +                   +
+  l-Aspartate                                               nd                      nd                      −                         −                      +                   nd
+  l-Glutamate                                               nd                      nd                      d                         +                      +                   nd
+  l-Histidine                                               −                       +                       −                         −                      −                   nd
+  l-Leucine                                                 nd                      nd                      +                         −                       d                  +
+  Hydroxy-l-proline, c-aminobutyrate                        nd                      nd                      d                         −                      nd                  nd
+  l-Proline                                                 nd                      nd                      d                         −                      −                   nd
+  l-Serine                                                  +                       nd                      −                         −                      +                   +
+  l-Threonine                                               nd                      −                       −                         −                      −                   +
+  l-Tyrosine                                                nd                      −                       −                         −                      d                   nd
+  Putrescine                                                −                       nd                      −                         −                      +                   +
+  dl-arabinose, l-rhamnose, lactose, melibiose, adonitol, meso-inositol, d-sorbitol, saccharate, isovalerate, caprylate, adipate, pimelate, azelate, dl-3-hydroxybutyrate, aconitate     nd                       nd                       −                         −                      −                   nd
+  d-galacturonate, i-erythritol, salicin, ethanol, n-propanol, n-butanol, propylene glycol, malonate, glutarate, l-tartrate, benzoate, m-hydroxybenzoate, p-hydroxybenzoate, phenylacetate, quinate, b-alanine, l-arginine, l-citrulline, l-lysine, l-ornithine, l-valine, dl-d-aminovalerate, ethanolamine, betaine, hippurate, sarcosine, trigollenine     nd                       nd                       nd                         nd                      −                   nd
+
+footnote a: Symbols: +, 90% of strains are positive; d, 10–90% of strains are positive; –, 0–10% of strains are positive; nd, not determined.
+footnote b: S. frigidimarina, S. gelidimarina, and S. hanedai do not utilize dl-arabinose, l-rhamnose, lactose, melibiose, adonitol, meso-inositol, d-sorbitol, saccharate, isovalerate, caprylate, adipate, pimelate, azelate, dl-3-hydroxybutyrate, or aconitate. In addition, S. hanedai does not utilize d-galacturonate, i-erythritol, salicin, ethanol, n-propanol, n-butanol, propylene glycol, malonate, glutarate, l-tartrate, benzoate, m-hydroxybenzoate, p-hydroxybenzoate, phenylacetate, quinate, b-alanine, l-arginine, l-citrulline, l-lysine, l-ornithine, l-valine, dl-d-aminovalerate, ethanolamine, betaine, hippurate, sarcosine, or trigollenine. 
+
+
+#####
+TABLE BXII.c.134. Differentiation of the genera Enhydrobacter and Aeromonas
+                                                            Enhydrobacter                       Aeromonas
+Growth:
+  Nutrient agar                                                                 −                                 +
+  EMB agar                                                                      −                                 +
+  Clark–Lubs medium                                                             −                                 +
+  rate                                                                 very slow                           rapid
+Average time for biochemical reactions (d)                                    30–60                              1–2
+Gas vesicles                                                                   +!b                                 −
+Mol% G+C                                                              66                               57–63
+footnote a: For symbols, see standard definitions.
+footnote b: Only one strain has been described, and it is gas vacuolate.
+
+
+#####
+TABLE BXII.c.133. Properties of Psychrobacter species!a
+                                  Psychrobacter immobilis     Psychrobacter faecalis   Psychrobacter frigidicola   Psychrobacter glacincola    Psychrobacter marincola   Psychrobacter pacificensis   Psychrobacter proteolyticus   Psychrobacter submarinus   Psychrobacter urativorans
+growth:
+  Maximum temperature                    35–39         36           19–22          19–22           35          33–38            <35             35           25–27
+  Optimum temperature                    27–31        15–30         14–16          13–15          25–28        25–28            ND             25–28         17–19
+  Tolerates 2.0 M NaCl                               v+            +             −              +              +            −               +               +             −
+  Tolerates 5% bile salts                             +            +             −              +              +           ND               −               +             −
+  Stimulated by bile salts                            −           ND             −              −             ND           ND              ND              ND             −
+production of acid from:
+  carbohydrates                                       +            −             −              −              −            +               +               +             −
+enzyme activity:
+  Arginine arylamidase                                +           ND            v+              −             ND           ND              ND              ND             +
+  Phenylalanine arylamidase                          v+           ND             +              +             ND           ND              ND              ND             −
+  Phenylalanine deaminase                             +           ND             −              −              −            −              ND               −             +
+  Urease                                             v+            −             −              v-             −            +               +               −            v+
+  Lecithinase                                        v+           ND             −              +             ND           ND              ND              ND             −
+reduction of:
+  Nitrate                                           v−           ND             −             v+              −            −               −               −            v−
+hydrolysis of:
+  Tween 40                                          +           ND             −              +              −           ND              ND               +             −
+  Tween 80                                          +           ND             −              +              +           ND               +              ND             −
+utilization of:
+   3-Hydroxybutyrate                                +            +             −             v+             ND            v               +              ND             +
+   Pyruvate                                         +            +             −              +             ND           ND               +              ND             +
+   l-Malate                                         +            +             +              −              −            +               −               −            v+
+   Oxaloacetate                                     +           ND             −              +             ND           ND              ND              ND             −
+   dl-Lactate                                       +            +             −             v+              −            v               −               −            v+
+   Propionate                                      v+           (+)            −              +              −            −               +               −             −
+   Isovalerate                                     v−           ND             −             v+             ND           ND              ND              ND             −
+   Heptanoate                                      v+           ND             −              +             ND           ND              ND              ND            v−
+   Pimelate                                         −           ND             −             v+             ND           ND              ND              ND             −
+   Azelate                                         v−            −             +              +             ND           ND               +              ND             −
+   l-Alanine                                        +            +             −             v+              −            v               +               −             −
+   Hydroxy-l-proline                               v−           ND             −              +             ND           ND              ND              ND             −
+   l-Phenylalanine                                  +            −             +              −             ND           ND               −              ND            v+
+   Urate                                           v+           ND             +              +             ND           ND              ND              ND             +
+Mol% G+C                                          44–47         ND           41–42          43–44           50.7        44–45            43.6            46.7         44–46
+footnote a: Symbols: +, positive for 90–100% of strains; v, positive for 11–89% of strains; v+, positive for 11–89% of strains but type strain is positive; v−, positive for 11–89% of strains but type strain is negative; –, positive for 0–10% of strains; ND, not determined.
+footnote b: Data for P. immobilis, Psychrobacter frigidicola, P. glacincola, and P. urativorans from Bowman et al., 1997d.
+footnote c: Data for P. faecalis from Kampfer et al., 2002a.
+footnote d: Data for P. marincola and P. submarinus from Romanenko et al., 2002a.
+footnote e: Data for P. pacificensis from Maruyama et al., 2000.
+footnote f: Data for P. proteolyticus from Denner et al., 2001a.
+
+
+
+#####
+TABLE BXII.c.129. Characteristics differentiating three Gram-negative, motile, prodigiosin-producing species
+                                            Rugamonas rubra                Alteromonas rubra          Serratia rubidaea
+enzyme activity:
+  Oxidase                                              +                               +                          −
+growth:
+  Anaerobic                                          −                               −                          +
+  35°C                                               −                               +                          +
+  Fermentative                                       −                               −                          +
+Utilization of:
+  d-sorbitol                                         +                               −                          −
+Flagella                                    1–2 Polar or subpolar                 1 Polar                  Peritrichous
+mol% G+C                                           66.7                           46–48                      53–59

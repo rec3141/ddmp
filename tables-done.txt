@@ -1,0 +1,19 @@
+rec3141	BXII.c.134.	Differentiation of the genera Enhydrobacter and Aeromonas
+rec3141	BXII.c.145.	Other characteristics of selected species of the genus Pseudoalteromonas!a
+rec3141	BXII.c.150.	Characteristics differentiating members of the Shewanella putrefaciens species complex, S. baltica, S. algae, and DNA hybridization Group III!a
+rec3141	BXII.c.147.	Differential characteristics of Psychromonas species!a!b
+rec3141	BXII.c.148.	Phenotypic characteristics which differentiate the species of the genus Shewanella!a
+rec3141	BXII.c.136.	Characteristics of Alteromonas macleodii!a
+rec3141	BXII.c.142.	Phenotypic characteristics of Marinobacter hydrocarbonoclasticus and Pseudomonas nautica!a!b!c
+rec3141	BXII.c.143.	Differential characteristics of Marinobacterium and some aerobic, rod-shaped, marine bacteria that require NaCl to grow!a
+rec3141	BXII.c.137.	Characteristics differentiating the species of the genus Colwellia!a
+rec3141	BXII.c.129.	Characteristics differentiating three Gram-negative, motile, prodigiosin-producing species
+rec3141	BXII.c.151.	Additional phenotypic characteristics of marine Shewanella species!a
+rec3141	BXII.c.144.	Characteristics differentiating the species of the genus Pseudoalteromonas!a
+rec3141	BXII.c.146.	Other characteristics of selected species of the genus Pseudoalteromonas!a
+rec3141	BXII.c.138.	Other characteristics of the species of the genus Colwellia!a
+rec3141	BXII.c.135.	Characteristics differentiating some genera belonging to the family Alteromonadaceae!a
+rec3141	BXII.c.133.	Properties of Psychrobacter species!a
+rec3141	BXII.c.140.	Characteristics differentiating the species of the genus Glaciecola!a
+rec3141	BXII.c.141.	Phenotypic characterisitics differentiating the genus Marinobacter from other marine bacteria
+rec3141	BXII.c.92.	Differentiation of Neptunomonas from some other marine naphthalene-degrading bacteria!a!b

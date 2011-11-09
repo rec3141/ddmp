@@ -1,0 +1,21 @@
+Standard Table Designation
+?=optional line
+\s=space
+\#=#
+[a-z]=footnotes
+
+ \#\#\#\#\#
+ TABLE\sFOO
+ \s{3,}TAXA_1a\s{3,}TAXA2a\s{3,}...
+?\s{3,}TAXA_1b\s{3,}TAXA2b\s{3,}...
+ TRAIT_1\s[a-z]\s{3,}TAXA_1_VALUE\s{3,}TAXA_2_VALUE...
+?TRAIT_2\s{3,}TAXA_1_VALUE\s{3,}TAXA_2_VALUE...
+?TRAIT_3:\n
+ \s{1,}SUBTRAIT_1\s{3}TAXA_1_VALUE\s{3,}TAXA_2_VALUE
+?footnote a:
+?footnote b:
+ \n
+ \n
+
+
+TABLE BXII.c.92. Differentiation of Neptunomonas from some other marine naphthalene-degrading bacteria a,b

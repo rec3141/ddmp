@@ -1549,7 +1549,7 @@ footnote c: PAH was only partially removed.
 
 
 #####
-TABLE BXII.c.49. Phenotypic characteristics of the species of the genus Methylophagaa
+TABLE BXII.c.49. Phenotypic characteristics of the species of the genus Methylophaga!a
 Characteristic                                      1. M. marina         2. M. sulfidovorans                3. M. thalassica               4. "M. limanica"
 Nitrate reduction                                        −                       −                            d (weak)                            −
 Mixotrophy (H2S oxidation)                               −                       +                               −                               nd
@@ -3305,16 +3305,20 @@ footnote c: Carbohydrate oxidation/fermentation tests were done in PSS media (Hy
 
 
 #####
-TABLE BXII.c.92. Differentiation of Neptunomonas from some other marine naphthalene-degrading bacteriaa,b
-Characteristic                                       Neptunomonas                Cycloclasticus           Marinobacter              Pseudoalteromonas              Vibrio
-Indigo from indolec                                        +                        −                         +                            d                        −
-Utilization of phenanthrenec                              − or w                    +                         −d                           d                        +
+TABLE BXII.c.92. Differentiation of Neptunomonas from some other marine naphthalene-degrading bacteria a,b
+                                       Neptunomonas                Cycloclasticus           Marinobacter              Pseudoalteromonas              Vibrio
+Characteristic
+Indigo from indole c                                        +                        −                         +                            d                        −
+Utilization of:
+ phenanthrene c                                           − or w                    +                         −d                           d                        +
 Na+ requirement                                            +                        +                         D                            +                       +e
 Growth on marine broth 2216                                +                       − or w                     +                            +                        +
-Utilization of carbohydrates                               +                        −                         −                            +                        +
-d-glucose                                                  +                        −                         −                            +                        +
-d-fructose                                                 +                        −                         −                            d                        D
-Utilization of amino acids                                 +                        +f                        +g                           +                        +
+Utilization of: 
+  carbohydrates                                             +                        −                         −                            +                        +
+  d-glucose                                                  +                        −                         −                            +                        +
+  d-fructose                                                 +                        −                         −                            d                        D
+Utilization of:
+  amino acids                                                +                        +f                        +g                           +                        +
 Acid from d-glucose                                      +or w                    NG                        −                            −                        +
 mol% G+C                                                 46                       39                    57.3–57.7d                     37–50                    38–51
 footnote a: For symbols see standard definitions; NG, no growth in test medium; w, weakly positive.
@@ -4692,9 +4696,8 @@ footnote e: DNA–DNA hybridization group 13 (Tjernberg and Ursing, 1989).
 
 
 #####
-TABLE BXII.c.133. Properties of Psychrobacter speciesa
-                                  P.             P.            P.             P.            P.            P.              P.             P.             P.
-Characteristic                                  immobilisb     faecalisc   frigidicolab   glacincolab    marincolad   pacificensise   proteolyticusf   submarinusd   urativoransb
+TABLE BXII.c.133. Properties of Psychrobacter species!a
+Characteristic                                  Psychrobacter immobilis     Psychrobacter faecalis   Psychrobacter frigidicola   Psychrobacter glacincola    Psychrobacter marincola   Psychrobacter pacificensis   Psychrobacter proteolyticus   Psychrobacter submarinus   Psychrobacter urativorans
 Maximum growth temperature, °C                    35–39         36           19–22          19–22           35          33–38            <35             35           25–27
 Optimum growth temperature, °C                    27–31        15–30         14–16          13–15          25–28        25–28            ND             25–28         17–19
 Tolerates 2.0 M NaCl                               v+            +             −              +              +            −               +               +             −
@@ -4785,9 +4788,9 @@ footnote a: For symbols, see standard definitions; nd, not determined; PUFA, pol
 
 
 #####
-TABLE BXII.c.136. Characteristics of Alteromonas macleodiia
+TABLE BXII.c.136. Characteristics of Alteromonas macleodii!a
                                           Reaction or result for
-Characteristics                                      A. macleodii ATCC 27126T
+Characteristics                                      Alteromonas macleodii     Alteromonas macleodii ATCC 27126
  Accumulation of poly-b-hydroxybutyrate                    −                   −
 Catalase, oxidase                                         +                   +
 Hydrogen autotrophy                                       −                   −
@@ -4832,7 +4835,7 @@ footnote b: The following substrates are not utilized: d-ribose, d-arabinose, l-
 
 #####
 TABLE BXII.c.137. Characteristics differentiating the species of the genus Colwelliaa
-Characteristic                     1. C. psychrerythraea   2. C. demingiae   3. C. hadaliensis   4. C. hornerae   5. C. maris   6. C. psychrotropica   7. C. rossensis
+                     1. C. psychrerythraea   2. C. demingiae   3. C. hadaliensis   4. C. hornerae   5. C. maris   6. C. psychrotropica   7. C. rossensis
 Growth at 25°C                              −                    −                  −                 −               −                 +                    −
 Barophilic growth                           −                                       +
 Prodigiosin-like pigments                   db                   −                  −                 −               −                 −                    −
@@ -5092,39 +5095,38 @@ footnote c: In addition most strains of P. nautica (<20% positive) do not utiliz
 
 
 #####
-TABLE BXII.c.143. Differential characteristics of Marinobacterium and some aerobic, rod-shaped, marine bacteria that require NaCl to growa
-Characteristic
-Cell shape:
-   Straight rod                           +              +               +              +              +             D              +k              +            +            +              +              +              +        +
-   Curved rod                             −              −l              −              −              −             Dm             −               −            +            −              −              −              −        −n
-Motility                                  +              +               +              +              +             +              −               +            +            +              +              +              +        +
-Flagellar arrangement:
-   Polar                                  +              +               +              −              +              +             nd              +            +            +              +              +              +          −
-   Lateral                                −              −               −              +              −              −             nd              −            −            −              −              −              −          −
-Cell diameter, lm                      0.5–0.7        0.5–1.5         0.8–1.1        0.8–1.1        0.3–0.5        0.7–1.5        0.5–0.6        0.8–1.2         0.2       1.0–1.4        0.8–1.2        0.7–1.2        0.6–0.8    0.5–0.7
-Poly-b-hydroxybutyrate                    −              −               +              +              −              −              −              −            nd           +              +              +              +          −
-    accumulation
+TABLE BXII.c.143. Differential characteristics of Marinobacterium and some aerobic, rod-shaped, marine bacteria that require NaCl to grow!a
+   Marinobacterium    Alteromonas macleodii    Pseudoalteromonas haloplanktis, P. espejiana, P. undina, P. rubra, P. luteoviolacea, P. citrea, P. aurantia, P. nigrifaciens, P. denitrificans    Shewanella hanedai and S. colwelliana    Halomonas marina    Halomonas aquamarina, H. cupida, H. halophila, H. pacifica, H. venusta    Marinobacter hydrocarbonoclasticus    Marinomonas communis, M. vaga    Mesophilobacter    Methylomicrobium pelagicum!g    Methylophaga marina    Oceanospirillum jannaschii    Oceanospirillum kriegii    Pseudomonas doudoroffii    Pseudomonas stanieri    Pseudomonas stutzeri
+Straight rod                           +              +               +                +              +              +              +             D              +k              +            +            +              +              +              +        +
+Curved rod                             −              −              −l                −              −              −              −             Dm             −               −            +            −              −              −              −        −n
+Motility                                  +              +               +                +              +              +              +             +              −               +            +            +              +              +              +        +
+Polar flagella                            +              +               +                +              +              −              +              +             nd              +            +            +              +              +              +          −
+Lateral flagella                          −              −               −                −              −              +              −              −             nd              −            −            −              −              −              −          −
+Cell diameter                          0.5–0.7        0.5–1.5         0.5–1.5          0.5–1.5        0.8–1.1        0.8–1.1        0.3–0.5        0.7–1.5        0.5–0.6        0.8–1.2         0.2       1.0–1.4        0.8–1.2        0.7–1.2        0.6–0.8    0.5–0.7
+accumulation of Poly-b-hydroxybutyrate                    −              −               −                −              +              +              −              −              −              −            nd           +              +              +              +          −
+reduction of:
+  nitrate                                 −              −p              −p               −p            −              D               d              −             +              nd            nd           +              −              d              −         −
+enzyme activity:
+  Oxidase                                +              +               +                +             −              D               +              D             +              nd            +            +              +              +              +         +
+  Lipase                                 +              +               +                +             nd             nd              +              −             nd             nd            nd           −              +              −              −         −
+  Gelatinase                             −              +               +                +             −              −               d              −             nd             nd            nd           −              −              −              −         −
 Utilization of:
-   dl-Malate                              +              −              +              D               d              −             +              −             −            d              +              +              d         +
-   α-Ketoglutarate                        nd             −o             +              D               −              +             nd             −             −            nd             +              +              +         +
-   b-Hydroxybutyrate                      +              −              nd             nd              d              +             nd             −             −            −              +              +              +         +
-   Methane                                nd             −              −              −               −              −             nd             +             +            −              −              −              −         −
-   Methanol                               +              −              −              −               −              −             nd             +             +            −              −              −              −         −
-   Methylamine                            −              −              −              −               −              −             nd             −             D            −              −              −              −         −
-   NO3− reduced to NO2−                   −              −p             −              D               d              −             +              nd            nd           +              −              d              −         −
-   Oxidase                                +              +              −              D               +              D             +              nd            +            +              +              +              +         +
-   Lipase                                 +              +              nd             nd              +              −             nd             nd            nd           −              +              −              −         −
-   Gelatinase                             −              +              −              −               d              −             nd             nd            nd           −              −              −              −         −
-   d-Glucose                              +              +q             +              +               −              +             +              −             −            −              +              −              −         +
-   d-Fructose                             +              D              +              D               −              +             +              −             +            −              +              +              −         −
-   Saccharate                             nd             nd             −              D               −              +             nd             nd            nd           −              −              −              −         +
-   Glycolate                              nd             nd             −              D               −              −             nd             nd            nd           −              −              +              −         +
-   Mannitol                               nd             nd             +              D               −              +             +              nd            nd           −              +              −              −         −
-   Isobutanol                             nd             nd             −              D               d              −             nd             nd            nd           +              −              −              +         +
-   Quinate                                nd             nd             −              D               −              +             nd             nd            nd           −              +              −              d         −
-   d-Aminovalerate                        nd             nd             −              D               −              −             nd             nd            nd           +              −              +              d         −
-   l-Tyrosine                             nd             D              +              D               −              −             nd             nd            nd           −              −              −              +         +
-   Sarcosine                              nd             nd             d              D               −              +             nd             nd            nd           +              −              +              −         −
+   dl-Malate                              +              −               −                −             +              D               d              −             +              −             −            d              +              +              d         +
+   α-Ketoglutarate                        nd             −o              −o               −o            +              D               −              +             nd             −             −            nd             +              +              +         +
+   b-Hydroxybutyrate                      +              −               −                −             nd             nd              d              +             nd             −             −            −              +              +              +         +
+   Methane                                nd             −               −                −             −              −               −              −             nd             +             +            −              −              −              −         −
+   Methanol                               +              −               −                −             −              −               −              −             nd             +             +            −              −              −              −         −
+   Methylamine                            −              −               −                −             −              −               −              −             nd             −             D            −              −              −              −         −
+   d-Glucose                              +              +q              +q               +q            +              +               −              +             +              −             −            −              +              −              −         +
+   d-Fructose                             +              D               D                D             +              D               −              +             +              −             +            −              +              +              −         −
+   Saccharate                             nd             nd              nd               nd            −              D               −              +             nd             nd            nd           −              −              −              −         +
+   Glycolate                              nd             nd              nd               nd            −              D               −              −             nd             nd            nd           −              −              +              −         +
+   Mannitol                               nd             nd              nd               nd            +              D               −              +             +              nd            nd           −              +              −              −         −
+   Isobutanol                             nd             nd              nd               nd            −              D               d              −             nd             nd            nd           +              −              −              +         +
+   Quinate                                nd             nd              nd               nd            −              D               −              +             nd             nd            nd           −              +              −              d         −
+   d-Aminovalerate                        nd             nd              nd               nd            −              D               −              −             nd             nd            nd           +              −              +              d         −
+   l-Tyrosine                             nd             D               D                D             +              D               −              −             nd             nd            nd           −              −              −              +         +
+   Sarcosine                              nd             nd              nd               nd            d              D               −              +             nd             nd            nd           +              −              +              −         −
 footnote a: For symbols, see standard definitions; nd, not determined.
 footnote b: The species considered is A. macleodii.
 footnote c: The species considered are P. haloplanktis, P. espejiana, P. undina, P. rubra, P. luteoviolacea, P. citrea, P. aurantia, P. nigrifaciens, and P. denitrificans, all of which were previously included in the genus Alteromonas.
@@ -5148,7 +5150,8 @@ footnote q: S. colwelliana and some strains of S. hanedai are unable to use d-gl
 
 
 #####
-TABLE BXII.c.144. Characteristics differentiating the species of the genus Pseudoalteromonasa
+TABLE BXII.c.144. Characteristics differentiating the species of the genus Pseudoalteromonas!a
+  Pseudoalteromonas haloplanktis   Pseudoalteromonas antarctica   Pseudoalteromonas atlantica   Pseudoalteromonas aurantia   Pseudoalteromonas carrageenovora   Pseudoalteromonas citrea   Pseudoalteromonas denitrificans   Pseudoalteromonas espejiana   Pseudoalteromonas luteoviolacea   Pseudoalteromonas nigrifaciens   Pseudoalteromonas piscicida   Pseudoalteromonas prydzensis   Pseudoalteromonas rubra   Pseudoalteromonas tetraodonis   Pseudoalteromonas undina
 Characteristics
 Sheathed polar               −         −        −          −       −      −        +       −       d      −       +       −       −      −     −
     flagellum
@@ -5208,7 +5211,8 @@ footnote a: For symbols see standard definitions; nd, not determined.
 
 
 #####
-TABLE BXII.c.145. Other characteristics of selected species of the genus Pseudoalteromonasa
+TABLE BXII.c.145. Other characteristics of selected species of the genus Pseudoalteromonas!a
+  Pseudoalteromonas haloplanktis   Pseudoalteromonas atlantica   Pseudoalteromonas antarctica   Pseudoalteromonas carrageenovora   Pseudoalteromonas espejiana   Pseudoalteromonas nigrifaciens   Pseudoalteromonas tetraodonis   Pseudoalteromonas undina
 Characteristics
 Oxidase, gelatinase, caseinase                                  +           +           +     +    +    +    +       +
 Lipase                                                          +           +           d     +    +    +    +       +
@@ -5465,7 +5469,8 @@ footnote c: Extended incubation (up to 4 w) may be required.
 
 
 #####
-TABLE BXII.c.148. Phenotypic characteristics which differentiate the species of the genus Shewanellaa
+TABLE BXII.c.148. Phenotypic characteristics which differentiate the species of the genus Shewanella!a
+   Shewanella putrefaciens   Shewanella algae   Shewanella amazonensis   Shewanella baltica   Shewanella benthica   Shewanella colwelliana   Shewanella frigidimarina   Shewanella gelidimarina   Shewanella hanedai   Shewanella oneidensis   Shewanella violacea   Shewanella woodyi
 Characteristics
 Bioluminescence                    −              −            −          −            −         −        −         −        +         −       −       +
 Violet pigment                     −              −            −          −            −         −        −         −        −         −       +       −
@@ -7404,28 +7409,28 @@ Yellow pigment                         0        0       0        0       98     
 d-Glucose, acid                      100      100     100      100      100      100      100      100      100      100       100      100      100      100      100      100
 d-Glucose, gas                        95        5     100       95       97       97       53      100      100      100        40      100      100      100       70      100
 Fermentation of:
-Adonitol                             5        3       0       98        0        0        0        0       67        0       100        0        0        0        0        0
-l-Arabinose                         99       85     100       98      100      100       80      100      100      100       100      100      100      100        0        0
-d-Arabitol                           5        5       0      100        8        0       27        0       67        0        80        0        0        0      100      100
-Cellobiose                           2        2       0       96       97      100        0      100      100      100       100      100      100      100      100      100
-Dulcitol                            60       40       0       60       19        0        0        0        0        0         0        0        0        0        0        0
-Erythritol                           0        0       0        0        0        0        0        0        0        0         0        0        0        0        0        0
-Glycerol                            75       65     100       20        3       25        0       60       67        0         0       33        0        0        0        0
-myo-Inositol                         1        1       0        0        0        0        0        0        0        0         0        0        0       67        0        0
-Lactose                             95       25       0        0       45       15       87      100        0        0        60      100        0        0       19       60
-Maltose                             95       80     100       96      100      100        0      100      100      100        60      100      100      100      100      100
-d-Mannitol                          98       93       0       98      100      100       60      100      100      100       100      100      100      100      100      100
-d-Mannose                           98       97     100      100      100      100        0      100      100      100       100      100      100      100      100      100
-Melibiose                           75       40       0        0        0      100        0      100      100        0         0       67        0        0        0        0
-α-Methyl-d-glucoside                 0        0       0        0        0       25        0        0        0       40         0        0       33        0        5        0
-Mucate                              95       30      50        0       97       78       20      100       67       60        80      100      100        0        0        0
-Raffinose                            50       15       0        0       40       99        0      100      100        0         0       33        0        0       10        0
-l-Rhamnose                          80       65     100       92       97       93      100      100       33      100       100      100      100      100        0        0
-Salicin                             40       10       0       65       40       30        0      100      100      100       100      100      100      100       99      100
-d-Sorbitol                          94       75       0        0        0        1        0        0        0      100         0        0        0        0        0        0
-Sucrose                             50       15       0        0       45        8        0        0        0        0         0        0        0        0      100        0
-Trehalose                           98       90      75       96      100      100        0      100      100      100       100      100      100      100      100      100
-d-Xylose                            95       70     100       96      100      100       93      100      100      100       100      100      100      100      100        0
+  Adonitol                             5        3       0       98        0        0        0        0       67        0       100        0        0        0        0        0
+  l-Arabinose                         99       85     100       98      100      100       80      100      100      100       100      100      100      100        0        0
+  d-Arabitol                           5        5       0      100        8        0       27        0       67        0        80        0        0        0      100      100
+  Cellobiose                           2        2       0       96       97      100        0      100      100      100       100      100      100      100      100      100
+  Dulcitol                            60       40       0       60       19        0        0        0        0        0         0        0        0        0        0        0
+  Erythritol                           0        0       0        0        0        0        0        0        0        0         0        0        0        0        0        0
+  Glycerol                            75       65     100       20        3       25        0       60       67        0         0       33        0        0        0        0
+  myo-Inositol                         1        1       0        0        0        0        0        0        0        0         0        0        0       67        0        0
+  Lactose                             95       25       0        0       45       15       87      100        0        0        60      100        0        0       19       60
+  Maltose                             95       80     100       96      100      100        0      100      100      100        60      100      100      100      100      100
+  d-Mannitol                          98       93       0       98      100      100       60      100      100      100       100      100      100      100      100      100
+  d-Mannose                           98       97     100      100      100      100        0      100      100      100       100      100      100      100      100      100
+  Melibiose                           75       40       0        0        0      100        0      100      100        0         0       67        0        0        0        0
+  α-Methyl-d-glucoside                 0        0       0        0        0       25        0        0        0       40         0        0       33        0        5        0
+  Mucate                              95       30      50        0       97       78       20      100       67       60        80      100      100        0        0        0
+  Raffinose                            50       15       0        0       40       99        0      100      100        0         0       33        0        0       10        0
+  l-Rhamnose                          80       65     100       92       97       93      100      100       33      100       100      100      100      100        0        0
+  Salicin                             40       10       0       65       40       30        0      100      100      100       100      100      100      100       99      100
+  d-Sorbitol                          94       75       0        0        0        1        0        0        0      100         0        0        0        0        0        0
+  Sucrose                             50       15       0        0       45        8        0        0        0        0         0        0        0        0      100        0
+  Trehalose                           98       90      75       96      100      100        0      100      100      100       100      100      100      100      100      100
+  d-Xylose                            95       70     100       96      100      100       93      100      100      100       100      100      100      100      100        0
 footnote a: Each number is the percentage of positive reactions after 2 d at 36°C unless otherwise indicated (gelatin liquefaction and deoxyribonuclease; Photorhabdus luminescens).
 footnote b: Table taken from Farmer, 1999.
 footnote c: In a Request for an Opinion published in 1987, Le Minor and Popoff proposed replacement of the type species of Salmonella (Salmonella choleraesuis subsp. choleraesuis) with Salmonella enterica as the former was considered to be a source of confusion. Although the Request was denied by the Judicial Commission, their proposal resulted in an alternative naming convention which has found widespread endorsement in the public health community. This matter was revisited in July 2002 by the Judicial Commission during the IUMS Congress in response to several new Requests for an Opinion and will likely result in a decision to replace the type strain Salmonella choleraesuis subsp. choleraesuis with Salmonella enterica subsp. enterica LT2, while preserving the former rather than placing it on the list of rejected names. We view the six subspecies of Salmonella choleraesuis as deprecated. Readers are also advised that the names Salmonella enteritidis, Salmonella paratyphi, Salmonella typhi, and Salmonella typhimurium are synonyms of Salmonella enterica subsp. enterica and refer to specific serovars. These names have not been deprecated at this time as they remain in use by some public health reporting agencies.
@@ -7463,28 +7468,28 @@ Yellow pigment                         0       0        0       0        0      
 d-Glucose, acid                      100     100      100     100      100      100      100      100      100       100      100      100      100      100      100      100
 d-Glucose, gas                       100     100      100      97       89       93       96      100       98       100      100      100      100       75      100       50
 Fermentation of:
-Adonitol                             0       0        0       0        0        0        0        0       99         0        0        0        0        0        0        0
-l-Arabinose                          0       0        0      99      100      100      100      100       99       100      100      100      100      100        9      100
-d-Arabitol                         100     100      100       0        0        0        0        0       98         0        0        0        0        5        0        0
-Cellobiose                         100     100      100     100       44       73      100       67       99       100      100      100        0       45        0        0
-Dulcitol                             0       0        0       1       11       33        2        0       40       100        0      100        0       85        0        0
-Erythritol                           0       0        0       0        0        0        0        0        0         0        0        0        0        0        0        0
-Glycerol                             0       0        0      60      100       87       65       67       99       100        0       83      100       90       30        0
-myo-Inositol                         0       0        0       0        0        0        0        0        0         0        0        0        0        5        0        0
-Lactose                             35       0        0      35       78       80       15       67       50        67      100      100       17       25        0        0
-Maltose                            100     100      100      99      100      100      100      100      100       100      100      100      100       95      100      100
-d-Mannitol                         100     100      100     100      100      100      100      100       99       100      100      100      100      100        0      100
-d-Mannose                          100     100      100     100      100      100      100      100      100       100      100      100      100      100      100      100
-Melibiose                            0     100      100       0      100       80      100       67        0        33        0      100        0       10        0        0
-α-Methyl-d-glucoside                 0      50        0       2       11       33       75        0       40         0        0        0        0        0        0        0
-Mucate                               0       0        0      96      100      100      100       67       95       100      100      100      100      100        0        0
-Raffinose                             0     100      100       5       44        7      100        0        0        33        0        0        0       10        0        0
-l-Rhamnose                           0       0        0     100      100      100      100      100       99       100      100      100      100      100        0        0
-Salicin                            100     100      100      30        0        0        9        0       15        33        0       17        0       10        0        0
-d-Sorbitol                         100       0      100      99      100      100       98      100       99       100      100      100      100      100        0        0
-Sucrose                            100      50      100       9       89        7      100       33       40        33        0        0        0       20        0      100
-Trehalose                          100     100      100     100      100      100      100      100      100       100      100      100      100      100        0        0
-d-Xylose                           100     100      100      99       89      100      100      100      100       100      100      100      100      100        0        0
+  Adonitol                             0       0        0       0        0        0        0        0       99         0        0        0        0        0        0        0
+  l-Arabinose                          0       0        0      99      100      100      100      100       99       100      100      100      100      100        9      100
+  d-Arabitol                         100     100      100       0        0        0        0        0       98         0        0        0        0        5        0        0
+  Cellobiose                         100     100      100     100       44       73      100       67       99       100      100      100        0       45        0        0
+  Dulcitol                             0       0        0       1       11       33        2        0       40       100        0      100        0       85        0        0
+  Erythritol                           0       0        0       0        0        0        0        0        0         0        0        0        0        0        0        0
+  Glycerol                             0       0        0      60      100       87       65       67       99       100        0       83      100       90       30        0
+  myo-Inositol                         0       0        0       0        0        0        0        0        0         0        0        0        0        5        0        0
+  Lactose                             35       0        0      35       78       80       15       67       50        67      100      100       17       25        0        0
+  Maltose                            100     100      100      99      100      100      100      100      100       100      100      100      100       95      100      100
+  d-Mannitol                         100     100      100     100      100      100      100      100       99       100      100      100      100      100        0      100
+  d-Mannose                          100     100      100     100      100      100      100      100      100       100      100      100      100      100      100      100
+  Melibiose                            0     100      100       0      100       80      100       67        0        33        0      100        0       10        0        0
+  α-Methyl-d-glucoside                 0      50        0       2       11       33       75        0       40         0        0        0        0        0        0        0
+  Mucate                               0       0        0      96      100      100      100       67       95       100      100      100      100      100        0        0
+  Raffinose                             0     100      100       5       44        7      100        0        0        33        0        0        0       10        0        0
+  l-Rhamnose                           0       0        0     100      100      100      100      100       99       100      100      100      100      100        0        0
+  Salicin                            100     100      100      30        0        0        9        0       15        33        0       17        0       10        0        0
+  d-Sorbitol                         100       0      100      99      100      100       98      100       99       100      100      100      100      100        0        0
+  Sucrose                            100      50      100       9       89        7      100       33       40        33        0        0        0       20        0      100
+  Trehalose                          100     100      100     100      100      100      100      100      100       100      100      100      100      100        0        0
+  d-Xylose                           100     100      100      99       89      100      100      100      100       100      100      100      100      100        0        0
 footnote a: Each number is the percentage of positive reactions after 2 d at 36°C unless otherwise indicated (gelatin liquefaction and deoxyribonuclease; Photorhabdus luminescens).
 footnote b: Table taken from Farmer, 1999.
 footnote c: In a Request for an Opinion published in 1987, Le Minor and Popoff proposed replacement of the type species of Salmonella (Salmonella choleraesuis subsp. choleraesuis) with Salmonella enterica as the former was considered to be a source of confusion. Although the Request was denied by the Judicial Commission, their proposal resulted in an alternative naming convention which has found widespread endorsement in the public health community. This matter was revisited in July 2002 by the Judicial Commission during the IUMS Congress in response to several new Requests for an Opinion and will likely result in a decision to replace the type strain Salmonella choleraesuis subsp. choleraesuis with Salmonella enterica subsp. enterica LT2, while preserving the former rather than placing it on the list of rejected names. We view the six subspecies of Salmonella choleraesuis as deprecated. Readers are also advised that the names Salmonella enteritidis, Salmonella paratyphi, Salmonella typhi, and Salmonella typhimurium are synonyms of Salmonella enterica subsp. enterica and refer to specific serovars. These names have not been deprecated at this time as they remain in use by some public health reporting agencies.
@@ -7523,28 +7528,28 @@ Yellow pigment                         0       0        0       0        0      
 d-Glucose, acid                      100     100      100     100      100        100      100       100      100      100      100      100      100     100      100      100
 d-Glucose, gas                        35      50      100     100      100        100       95       100      100       98       83      100      100     100       98        0
 Fermentation of:
-Adonitol                             0       0       25      98      100          0        0         0        0        0        0        0        0       0        0        0
-l-Arabinose                         13       0      100     100      100        100      100       100      100       99      100      100      100     100      100        0
-d-Arabitol                           0       0       15     100        0          0        0         0        0       97        0        0        0       0        0       99
-Cellobiose                           0       0       99     100      100        100      100       100      100       99      100      100      100     100      100       10
-Dulcitol                             0       0       15       5        0          0        0         0        0        0       87      100        0       0        5        0
-Erythritol                           0       0        0       0        0          0        0         0        0        0        0        0        0       0        0        0
-Glycerol                            65       0       40      98        0          0       11         1        0      100        4      100        0       0       15       24
-myo-Inositol                         0       0       15      95      100          0        0         0        0        0        0        0        0     100       75        0
-Lactose                              0       0       93      95       70         35       75        10        0       55        9      100        0      14       99       70
-Maltose                            100     100      100      99      100        100      100        99      100      100      100      100      100     100      100       16
-d-Mannitol                         100       0      100     100      100        100      100       100      100       99      100      100      100     100      100      100
-d-Mannose                          100     100      100      95      100        100      100       100      100      100      100      100      100     100      100       99
-Melibiose                            0       0       90      99      100        100        0         0      100       97        0      100      100       0      100        0
-α-Methyl-d-glucoside                 0       0       85      95       55        100       95         1      100        2       83      100      100       0       96        0
-Mucate                               0       0       75      90       35        100       21        75      100        2       96      100      100       0        1        0
-Raffinose                             0       0       97      96      100          0       70         0      100       97        0      100        0       0       99        0
-l-Rhamnose                           0       0       92      99      100        100        5       100      100       99      100      100      100     100      100       23
-Salicin                             50       0       75     100       91        100      100        92      100       99       44      100      100     100       99       80
-d-Sorbitol                           0       0       95     100        9        100      100         1      100        0        0      100      100       0        0        0
-Sucrose                            100       0       97     100      100          0      100         0      100       98      100       65        0     100      100        0
-Trehalose                          100       0      100     100      100        100      100       100      100      100      100      100      100     100      100       99
-d-Xylose                             0       0       99     100      100        100       97       100      100       99       96      100      100       0      100       13
+  Adonitol                             0       0       25      98      100          0        0         0        0        0        0        0        0       0        0        0
+  l-Arabinose                         13       0      100     100      100        100      100       100      100       99      100      100      100     100      100        0
+  d-Arabitol                           0       0       15     100        0          0        0         0        0       97        0        0        0       0        0       99
+  Cellobiose                           0       0       99     100      100        100      100       100      100       99      100      100      100     100      100       10
+  Dulcitol                             0       0       15       5        0          0        0         0        0        0       87      100        0       0        5        0
+  Erythritol                           0       0        0       0        0          0        0         0        0        0        0        0        0       0        0        0
+  Glycerol                            65       0       40      98        0          0       11         1        0      100        4      100        0       0       15       24
+  myo-Inositol                         0       0       15      95      100          0        0         0        0        0        0        0        0     100       75        0
+  Lactose                              0       0       93      95       70         35       75        10        0       55        9      100        0      14       99       70
+  Maltose                            100     100      100      99      100        100      100        99      100      100      100      100      100     100      100       16
+  d-Mannitol                         100       0      100     100      100        100      100       100      100       99      100      100      100     100      100      100
+  d-Mannose                          100     100      100      95      100        100      100       100      100      100      100      100      100     100      100       99
+  Melibiose                            0       0       90      99      100        100        0         0      100       97        0      100      100       0      100        0
+  α-Methyl-d-glucoside                 0       0       85      95       55        100       95         1      100        2       83      100      100       0       96        0
+  Mucate                               0       0       75      90       35        100       21        75      100        2       96      100      100       0        1        0
+  Raffinose                             0       0       97      96      100          0       70         0      100       97        0      100        0       0       99        0
+  l-Rhamnose                           0       0       92      99      100        100        5       100      100       99      100      100      100     100      100       23
+  Salicin                             50       0       75     100       91        100      100        92      100       99       44      100      100     100       99       80
+  d-Sorbitol                           0       0       95     100        9        100      100         1      100        0        0      100      100       0        0        0
+  Sucrose                            100       0       97     100      100          0      100         0      100       98      100       65        0     100      100        0
+  Trehalose                          100       0      100     100      100        100      100       100      100      100      100      100      100     100      100       99
+  d-Xylose                             0       0       99     100      100        100       97       100      100       99       96      100      100       0      100       13
 footnote a: Each number is the percentage of positive reactions after 2 d at 36°C unless otherwise indicated (gelatin liquefaction and deoxyribonuclease; Photorhabdus luminescens).
 footnote b: Table taken from Farmer, 1999.
 footnote c: In a Request for an Opinion published in 1987, Le Minor and Popoff proposed replacement of the type species of Salmonella (Salmonella choleraesuis subsp. choleraesuis) with Salmonella enterica as the former was considered to be a source of confusion. Although the Request was denied by the Judicial Commission, their proposal resulted in an alternative naming convention which has found widespread endorsement in the public health community. This matter was revisited in July 2002 by the Judicial Commission during the IUMS Congress in response to several new Requests for an Opinion and will likely result in a decision to replace the type strain Salmonella choleraesuis subsp. choleraesuis with Salmonella enterica subsp. enterica LT2, while preserving the former rather than placing it on the list of rejected names. We view the six subspecies of Salmonella choleraesuis as deprecated. Readers are also advised that the names Salmonella enteritidis, Salmonella paratyphi, Salmonella typhi, and Salmonella typhimurium are synonyms of Salmonella enterica subsp. enterica and refer to specific serovars. These names have not been deprecated at this time as they remain in use by some public health reporting agencies.
@@ -7583,28 +7588,28 @@ Yellow pigment                         0       0         0         0        0   
 d-Glucose, acid                      100     100       100       100      100       100      100       100     100      100      100     100      100      100     100      100
 d-Glucose, gas                        98       0        50        97        0        97      100       100      80       93       95      17       97       33       0        0
 Fermentation of:
-Adonitol                             0       0        97        90      100        99      100       100     100        0        0       0       93        0       0      100
-l-Arabinose                         95       0        98        99      100        98      100       100     100      100      100     100      100      100     100        0
-d-Arabitol                           0       0        95        98      100        98      100       100     100        0        0       0       96        0       0       75
-Cellobiose                          15       0        92        98      100       100      100       100     100      100      100     100      100        0       0        0
-Dulcitol                             0       0         2        30        0        55       10        15      20       25        0      33       86       83       0        0
-Erythritol                           0       0         0         0        0         2        0         0       0        0        0       0        0        0       0        0
-Glycerol                            95       0        65        97       50        99      100       100     100       40        5      33        3       17       0       10
-myo-Inositol                         0       0        55        95       95        98       95       100      80        0        0       0        0        0       0        0
-Lactose                              5       0        30        98        0       100      100       100     100       98       95      83       93        0       0      100
-Maltose                            100       0        95        98      100       100      100       100     100      100      100     100      100        0       0       30
-d-Mannitol                          99      55       100        99      100        99      100       100     100      100       95     100      100        0       0       60
-d-Mannose                          100     100       100        99      100       100      100       100     100      100      100     100      100        0       0      100
-Melibiose                            0       0        97        99      100        99      100       100     100       99      100     100      100        0       0      100
-α-Methyl-d-glucoside                 0       0        70        90        0        98      100       100     100       98       95     100        0        0       0        0
-Mucate                               0       0        25        90        0        93       96       100     100       90       81      83       93      100      50        0
-Raffinose                             2       0        90        99       90       100      100       100     100       98      100     100       66        0       0      100
-l-Rhamnose                          97       0        55        99       96       100      100       100     100      100      100      83      100        0       0        0
-Salicin                             13      55        97        99       98       100      100       100     100      100      100     100      100        0       0        0
-d-Sorbitol                           0       0        65        99      100        99      100        92     100       40       45       0        0        0       0        0
-Sucrose                             10       0        20        99       75       100      100       100     100       98       81     100       66        0       0      100
-Trehalose                           95      70        98        99      100       100      100       100     100      100      100     100      100        0       0        0
-d-Xylose                            98       0        95        99      100       100      100       100     100       99       91     100      100       83     100        0
+  Adonitol                             0       0        97        90      100        99      100       100     100        0        0       0       93        0       0      100
+  l-Arabinose                         95       0        98        99      100        98      100       100     100      100      100     100      100      100     100        0
+  d-Arabitol                           0       0        95        98      100        98      100       100     100        0        0       0       96        0       0       75
+  Cellobiose                          15       0        92        98      100       100      100       100     100      100      100     100      100        0       0        0
+  Dulcitol                             0       0         2        30        0        55       10        15      20       25        0      33       86       83       0        0
+  Erythritol                           0       0         0         0        0         2        0         0       0        0        0       0        0        0       0        0
+  Glycerol                            95       0        65        97       50        99      100       100     100       40        5      33        3       17       0       10
+  myo-Inositol                         0       0        55        95       95        98       95       100      80        0        0       0        0        0       0        0
+  Lactose                              5       0        30        98        0       100      100       100     100       98       95      83       93        0       0      100
+  Maltose                            100       0        95        98      100       100      100       100     100      100      100     100      100        0       0       30
+  d-Mannitol                          99      55       100        99      100        99      100       100     100      100       95     100      100        0       0       60
+  d-Mannose                          100     100       100        99      100       100      100       100     100      100      100     100      100        0       0      100
+  Melibiose                            0       0        97        99      100        99      100       100     100       99      100     100      100        0       0      100
+  α-Methyl-d-glucoside                 0       0        70        90        0        98      100       100     100       98       95     100        0        0       0        0
+  Mucate                               0       0        25        90        0        93       96       100     100       90       81      83       93      100      50        0
+  Raffinose                             2       0        90        99       90       100      100       100     100       98      100     100       66        0       0      100
+  l-Rhamnose                          97       0        55        99       96       100      100       100     100      100      100      83      100        0       0        0
+  Salicin                             13      55        97        99       98       100      100       100     100      100      100     100      100        0       0        0
+  d-Sorbitol                           0       0        65        99      100        99      100        92     100       40       45       0        0        0       0        0
+  Sucrose                             10       0        20        99       75       100      100       100     100       98       81     100       66        0       0      100
+  Trehalose                           95      70        98        99      100       100      100       100     100      100      100     100      100        0       0        0
+  d-Xylose                            98       0        95        99      100       100      100       100     100       99       91     100      100       83     100        0
 footnote a: Each number is the percentage of positive reactions after 2 d at 36°C unless otherwise indicated (gelatin liquefaction and deoxyribonuclease; Photorhabdus luminescens).
 footnote b: Table taken from Farmer, 1999.
 footnote c: In a Request for an Opinion published in 1987, Le Minor and Popoff proposed replacement of the type species of Salmonella (Salmonella choleraesuis subsp. choleraesuis) with Salmonella enterica as the former was considered to be a source of confusion. Although the Request was denied by the Judicial Commission, their proposal resulted in an alternative naming convention which has found widespread endorsement in the public health community. This matter was revisited in July 2002 by the Judicial Commission during the IUMS Congress in response to several new Requests for an Opinion and will likely result in a decision to replace the type strain Salmonella choleraesuis subsp. choleraesuis with Salmonella enterica subsp. enterica LT2, while preserving the former rather than placing it on the list of rejected names. We view the six subspecies of Salmonella choleraesuis as deprecated. Readers are also advised that the names Salmonella enteritidis, Salmonella paratyphi, Salmonella typhi, and Salmonella typhimurium are synonyms of Salmonella enterica subsp. enterica and refer to specific serovars. These names have not been deprecated at this time as they remain in use by some public health reporting agencies.
@@ -7643,28 +7648,28 @@ Yellow pigment                         0        0         0        0       75   
 d-Glucose, acid                       99      100       100      100      100      100       75       100      100      100      100     100      100      100     100      100
 d-Glucose, gas                        90       86        93        0       20        0        0         0        0       85       96     100       45       85       0       10
 Fermentation of:
-Adonitol                             0        0         0         0       7        0        0         0         0        0       0       0        0       98      92      100
-l-Arabinose                          0        0         0         0      95      100        0         0         0        0       0       0        0        1       0        0
-d-Arabitol                           0        0         0         0      50      100        0         0         0        0       0       0        0        0      92      100
-Cellobiose                           0        0         0         0      55       55        0         0         0        0       1       0        0        0       0        3
-Dulcitol                             0        0         0         0      15        0        0         0         0        0       0       0        0        0       0        0
-Erythritol                           0        0         0         0       0        0        0         0         0        1       0       0        0        0       0       75
-Glycerol                             5        7       100         0      30       27        0         0         0       60      70     100       55       15       0       60
-myo-Inositol                         0        0         0         0      15        0        0         0         0        0       0       0        0        1      46       90
-Lactose                              1        0         0         0      40        0        0         0         0        2       2       0        1        0       0        5
-Maltose                              0        0         0        50      89       82       25         0         0       97       0     100      100        1      54        2
-d-Mannitol                           0        0         0         0     100      100        0         0         0        0       0       0        0        2       0      100
-d-Mannose                           98      100       100        85      98      100      100       100         0        0       0       0        0      100     100      100
-Melibiose                            0        0         0         0      50        0        0         0         0        0       0       0        0        0       0        5
-α-Methyl-d-glucoside                 0        0         0         0       7        0        0         0         0       60       0     100       80        0       0        2
-Mucate                               0        7         0         0      40        0        0         0         0        0       0       0        0        0       0        0
-Raffinose                             0        0         0         0      30        0        0         0         0        1       1       0        1        1       0        5
-l-Rhamnose                           0        0         0        15      85       91        0         0         0        5       1       0        0        0     100       70
-Salicin                              0        0         0         0      65        0        0         0        78       50       0       0        0        1       0       50
-d-Sorbitol                           0        0         0         0      30        0        0         0         0        0       0       0        0        1       0        1
-Sucrose                              0        7         0         0      75        1        0         0         0       97      15     100      100       15       0       15
-Trehalose                            0      100         0        85      97      100        0         0         0       30      98     100       55        2       0        0
-d-Xylose                             0        0         0        15      93      100        0         0         0       95      98       0      100        1       8       10
+  Adonitol                             0        0         0         0       7        0        0         0         0        0       0       0        0       98      92      100
+  l-Arabinose                          0        0         0         0      95      100        0         0         0        0       0       0        0        1       0        0
+  d-Arabitol                           0        0         0         0      50      100        0         0         0        0       0       0        0        0      92      100
+  Cellobiose                           0        0         0         0      55       55        0         0         0        0       1       0        0        0       0        3
+  Dulcitol                             0        0         0         0      15        0        0         0         0        0       0       0        0        0       0        0
+  Erythritol                           0        0         0         0       0        0        0         0         0        1       0       0        0        0       0       75
+  Glycerol                             5        7       100         0      30       27        0         0         0       60      70     100       55       15       0       60
+  myo-Inositol                         0        0         0         0      15        0        0         0         0        0       0       0        0        1      46       90
+  Lactose                              1        0         0         0      40        0        0         0         0        2       2       0        1        0       0        5
+  Maltose                              0        0         0        50      89       82       25         0         0       97       0     100      100        1      54        2
+  d-Mannitol                           0        0         0         0     100      100        0         0         0        0       0       0        0        2       0      100
+  d-Mannose                           98      100       100        85      98      100      100       100         0        0       0       0        0      100     100      100
+  Melibiose                            0        0         0         0      50        0        0         0         0        0       0       0        0        0       0        5
+  α-Methyl-d-glucoside                 0        0         0         0       7        0        0         0         0       60       0     100       80        0       0        2
+  Mucate                               0        7         0         0      40        0        0         0         0        0       0       0        0        0       0        0
+  Raffinose                             0        0         0         0      30        0        0         0         0        1       1       0        1        1       0        5
+  l-Rhamnose                           0        0         0        15      85       91        0         0         0        5       1       0        0        0     100       70
+  Salicin                              0        0         0         0      65        0        0         0        78       50       0       0        0        1       0       50
+  d-Sorbitol                           0        0         0         0      30        0        0         0         0        0       0       0        0        1       0        1
+  Sucrose                              0        7         0         0      75        1        0         0         0       97      15     100      100       15       0       15
+  Trehalose                            0      100         0        85      97      100        0         0         0       30      98     100       55        2       0        0
+  d-Xylose                             0        0         0        15      93      100        0         0         0       95      98       0      100        1       8       10
 footnote a: Each number is the percentage of positive reactions after 2 d at 36°C unless otherwise indicated (gelatin liquefaction and deoxyribonuclease; Photorhabdus luminescens).
 footnote b: Table taken from Farmer, 1999.
 footnote c: In a Request for an Opinion published in 1987, Le Minor and Popoff proposed replacement of the type species of Salmonella (Salmonella choleraesuis subsp. choleraesuis) with Salmonella enterica as the former was considered to be a source of confusion. Although the Request was denied by the Judicial Commission, their proposal resulted in an alternative naming convention which has found widespread endorsement in the public health community. This matter was revisited in July 2002 by the Judicial Commission during the IUMS Congress in response to several new Requests for an Opinion and will likely result in a decision to replace the type strain Salmonella choleraesuis subsp. choleraesuis with Salmonella enterica subsp. enterica LT2, while preserving the former rather than placing it on the list of rejected names. We view the six subspecies of Salmonella choleraesuis as deprecated. Readers are also advised that the names Salmonella enteritidis, Salmonella paratyphi, Salmonella typhi, and Salmonella typhimurium are synonyms of Salmonella enterica subsp. enterica and refer to specific serovars. These names have not been deprecated at this time as they remain in use by some public health reporting agencies.
@@ -7703,28 +7708,28 @@ Yellow pigment                         0      0       0       0        0        
 d-Glucose, acid                      100    100     100     100      100      100       100       100      100       100      100      100      100       100      100      100
 d-Glucose, gas                        35      0      98      94       96       99        99       100      100       100       95        0       99        90        0       55
 Fermentation of:
-Adonitol                             0      5       0       0        0        0         0         5        0         0        0        0        0         0        0        40
-l-Arabinose                          0      1     100      94       99       99        99       100      100       100        0       80      100       100        2         0
-d-Arabitol                           0      0       0       0        0        1         1         5        0         0        1        0        0         0        0         0
-Cellobiose                           0      5     100       0        5        1         1        50        0         0        0       10        5         5        0         5
-Dulcitol                             0      0      88      94       96        0         1         0       67        90        5       90       90         0        0         0
-Erythritol                           0      0       0       0        0        0         0         0        0         0        1        1        0         0        0         1
-Glycerol                             5     50      13       0        5       10        10         0       33        25        0        0       10         0       20        95
-myo-Inositol                         0     95       0       0       35        0         0         0        0         5        0        0        0         0        0        75
-Lactose                              0      2     100       0        1       15        85         0       22         1        0        0        0         0        1         2
-Maltose                              0      1      94     100       97       98        98       100      100       100       95       90       95         5       97        96
-d-Mannitol                           0     10     100     100      100      100       100        98      100       100       98      100      100       100      100        99
-d-Mannose                          100    100     100     100      100      100       100       100      100        95       95      100      100       100      100        99
-Melibiose                            0      0     100      94       95       95        95       100       89         8       45        0       95         0      100         0
-α-Methyl-d-glucoside                 0      0       0       0        2        1         1         0        0         8        0        0        0         0        0         0
-Mucate                               0      0      30      88       90       90        30         0       89        96        0       50        0         0        0         0
-Raffinose                             0      7      94       0        2        1         1         0        0         0        1       10        0         1        0         2
-l-Rhamnose                           0      0      94      88       95       99        99        98      100       100      100       10      100       100        0         0
-Salicin                              0      2     100       0        0        0         0        60        0         5        0        0        0         0        0        95
-d-Sorbitol                           0      1      94     100       95       99        99       100        0       100       90        1       95        10       99        99
-Sucrose                             35     50     100       0        1        1         5         0        0         1        0        0        0         0        0        99
-Trehalose                            0     98     100     100       99       99        99       100      100       100        0       50      100        90      100        99
-d-Xylose                             0      7      94     100       97      100       100       100      100       100       98       70        0        90       82         7
+  Adonitol                             0      5       0       0        0        0         0         5        0         0        0        0        0         0        0        40
+  l-Arabinose                          0      1     100      94       99       99        99       100      100       100        0       80      100       100        2         0
+  d-Arabitol                           0      0       0       0        0        1         1         5        0         0        1        0        0         0        0         0
+  Cellobiose                           0      5     100       0        5        1         1        50        0         0        0       10        5         5        0         5
+  Dulcitol                             0      0      88      94       96        0         1         0       67        90        5       90       90         0        0         0
+  Erythritol                           0      0       0       0        0        0         0         0        0         0        1        1        0         0        0         1
+  Glycerol                             5     50      13       0        5       10        10         0       33        25        0        0       10         0       20        95
+  myo-Inositol                         0     95       0       0       35        0         0         0        0         5        0        0        0         0        0        75
+  Lactose                              0      2     100       0        1       15        85         0       22         1        0        0        0         0        1         2
+  Maltose                              0      1      94     100       97       98        98       100      100       100       95       90       95         5       97        96
+  d-Mannitol                           0     10     100     100      100      100       100        98      100       100       98      100      100       100      100        99
+  d-Mannose                          100    100     100     100      100      100       100       100      100        95       95      100      100       100      100        99
+  Melibiose                            0      0     100      94       95       95        95       100       89         8       45        0       95         0      100         0
+  α-Methyl-d-glucoside                 0      0       0       0        2        1         1         0        0         8        0        0        0         0        0         0
+  Mucate                               0      0      30      88       90       90        30         0       89        96        0       50        0         0        0         0
+  Raffinose                             0      7      94       0        2        1         1         0        0         0        1       10        0         1        0         2
+  l-Rhamnose                           0      0      94      88       95       99        99        98      100       100      100       10      100       100        0         0
+  Salicin                              0      2     100       0        0        0         0        60        0         5        0        0        0         0        0        95
+  d-Sorbitol                           0      1      94     100       95       99        99       100        0       100       90        1       95        10       99        99
+  Sucrose                             35     50     100       0        1        1         5         0        0         1        0        0        0         0        0        99
+  Trehalose                            0     98     100     100       99       99        99       100      100       100        0       50      100        90      100        99
+  d-Xylose                             0      7      94     100       97      100       100       100      100       100       98       70        0        90       82         7
 footnote a: Each number is the percentage of positive reactions after 2 d at 36°C unless otherwise indicated (gelatin liquefaction and deoxyribonuclease; Photorhabdus luminescens).
 footnote b: Table taken from Farmer, 1999.
 footnote c: In a Request for an Opinion published in 1987, Le Minor and Popoff proposed replacement of the type species of Salmonella (Salmonella choleraesuis subsp. choleraesuis) with Salmonella enterica as the former was considered to be a source of confusion. Although the Request was denied by the Judicial Commission, their proposal resulted in an alternative naming convention which has found widespread endorsement in the public health community. This matter was revisited in July 2002 by the Judicial Commission during the IUMS Congress in response to several new Requests for an Opinion and will likely result in a decision to replace the type strain Salmonella choleraesuis subsp. choleraesuis with Salmonella enterica subsp. enterica LT2, while preserving the former rather than placing it on the list of rejected names. We view the six subspecies of Salmonella choleraesuis as deprecated. Readers are also advised that the names Salmonella enteritidis, Salmonella paratyphi, Salmonella typhi, and Salmonella typhimurium are synonyms of Salmonella enterica subsp. enterica and refer to specific serovars. These names have not been deprecated at this time as they remain in use by some public health reporting agencies.
@@ -7763,28 +7768,28 @@ Yellow pigment                         0       0        0       0        0      
 d-Glucose, acid                      100     100      100     100      100       100        100      100      100        0      100      100      100     100      100       80
 d-Glucose, gas                         0       0       79      75        0         0         13       40       30        0        0        3        0       0      100        0
 Fermentation of:
-Adonitol                             0       0      100       5       30        50         55        0       99        0        0        0        0       0        0         0
-l-Arabinose                          0     100      100      98        0       100        100      100      100       45       94       60       95       0      100         0
-d-Arabitol                          60     100      100       0        0         0          0        0       85        0        0        1        0       0        0         0
-Cellobiose                           0     100        6       5        4       100        100       88       94        0        0        0        5       0      100         0
-Dulcitol                             0       0       91       0        0         0          0        0        0        0        5        1        0       0        0         0
-Erythritol                           0       0        0       0        0         0          7        0        0        0        0        0        0       0        0         0
-Glycerol                             0       0       88      95       92        40         50       50       20       10       50       10       15       7        0         0
-myo-Inositol                         0      55       30      60       30       100        100       50       20        0        0        0        0       0        0         0
-Lactose                              0      15       97      10        4        70         97       80      100        0        1        1        2       0        0         0
-Maltose                            100     100       97      98       70       100        100       94       99       15       20       30       90       0      100         0
-d-Mannitol                         100     100      100     100       96       100         97      100      100      100       97       95       99       0      100         0
-d-Mannose                          100     100      100     100      100       100        100      100      100      100      100      100      100     100      100        80
-Melibiose                            0      40       98      75        0       100         96       93       99        0       15       55       25      25        0         0
-α-Methyl-d-glucoside                 0       8       91       5        0         0          0       70        1        0        0        0        0       0        0         0
-Mucate                               0       0        0       0        0         5          0        0        0        0        0        0       10       0      100         0
-Raffinose                             0      70      100      85        0       100          7       94       99        0        0       40        3      11        0         0
-l-Rhamnose                           0      35       76      15        0        95         94        0        1       30        1        5       75       0      100         0
-Salicin                            100     100      100      97       92        98         45       94       99        0        0        0        0      55       13         0
-d-Sorbitol                           0     100      100      95       92       100        100       65        1       30       43       29        2       0      100         0
-Sucrose                            100     100       21      98      100       100          0      100       99        1        0        1        1      98        0         0
-Trehalose                          100     100      100     100      100       100        100      100      100       90       85       65      100      93      100         0
-d-Xylose                            40     100       85     100        0       100        100       94       99        4       11        2        2       9      100         0
+  Adonitol                             0       0      100       5       30        50         55        0       99        0        0        0        0       0        0         0
+  l-Arabinose                          0     100      100      98        0       100        100      100      100       45       94       60       95       0      100         0
+  d-Arabitol                          60     100      100       0        0         0          0        0       85        0        0        1        0       0        0         0
+  Cellobiose                           0     100        6       5        4       100        100       88       94        0        0        0        5       0      100         0
+  Dulcitol                             0       0       91       0        0         0          0        0        0        0        5        1        0       0        0         0
+  Erythritol                           0       0        0       0        0         0          7        0        0        0        0        0        0       0        0         0
+  Glycerol                             0       0       88      95       92        40         50       50       20       10       50       10       15       7        0         0
+  myo-Inositol                         0      55       30      60       30       100        100       50       20        0        0        0        0       0        0         0
+  Lactose                              0      15       97      10        4        70         97       80      100        0        1        1        2       0        0         0
+  Maltose                            100     100       97      98       70       100        100       94       99       15       20       30       90       0      100         0
+  d-Mannitol                         100     100      100     100       96       100         97      100      100      100       97       95       99       0      100         0
+  d-Mannose                          100     100      100     100      100       100        100      100      100      100      100      100      100     100      100        80
+  Melibiose                            0      40       98      75        0       100         96       93       99        0       15       55       25      25        0         0
+  α-Methyl-d-glucoside                 0       8       91       5        0         0          0       70        1        0        0        0        0       0        0         0
+  Mucate                               0       0        0       0        0         5          0        0        0        0        0        0       10       0      100         0
+  Raffinose                             0      70      100      85        0       100          7       94       99        0        0       40        3      11        0         0
+  l-Rhamnose                           0      35       76      15        0        95         94        0        1       30        1        5       75       0      100         0
+  Salicin                            100     100      100      97       92        98         45       94       99        0        0        0        0      55       13         0
+  d-Sorbitol                           0     100      100      95       92       100        100       65        1       30       43       29        2       0      100         0
+  Sucrose                            100     100       21      98      100       100          0      100       99        1        0        1        1      98        0         0
+  Trehalose                          100     100      100     100      100       100        100      100      100       90       85       65      100      93      100         0
+  d-Xylose                            40     100       85     100        0       100        100       94       99        4       11        2        2       9      100         0
 footnote a: Each number is the percentage of positive reactions after 2 d at 36°C unless otherwise indicated (gelatin liquefaction and deoxyribonuclease; Photorhabdus luminescens).
 footnote b: Table taken from Farmer, 1999.
 footnote c: In a Request for an Opinion published in 1987, Le Minor and Popoff proposed replacement of the type species of Salmonella (Salmonella choleraesuis subsp. choleraesuis) with Salmonella enterica as the former was considered to be a source of confusion. Although the Request was denied by the Judicial Commission, their proposal resulted in an alternative naming convention which has found widespread endorsement in the public health community. This matter was revisited in July 2002 by the Judicial Commission during the IUMS Congress in response to several new Requests for an Opinion and will likely result in a decision to replace the type strain Salmonella choleraesuis subsp. choleraesuis with Salmonella enterica subsp. enterica LT2, while preserving the former rather than placing it on the list of rejected names. We view the six subspecies of Salmonella choleraesuis as deprecated. Readers are also advised that the names Salmonella enteritidis, Salmonella paratyphi, Salmonella typhi, and Salmonella typhimurium are synonyms of Salmonella enterica subsp. enterica and refer to specific serovars. These names have not been deprecated at this time as they remain in use by some public health reporting agencies.
@@ -7823,28 +7828,28 @@ Yellow pigment                         0       0        0        0       0      
 d-Glucose, acid                      100     100      100      100     100      100      100      100      100      100      100       100      100      100      100      100
 d-Glucose, gas                         0       0        0        5      40       18       23        0        0        0        5       100       85      100        0      100
 Fermentation of:
-Adonitol                             0       0        0        0       0        0        0        0        0        0        0         0        0        0        0        0
-l-Arabinose                        100      60      100       98     100      100       77      100       50      100        5       100      100       25        0      100
-d-Arabitol                           0       0        0       40     100       45       45        0        0        0        0         0        0        0        0        0
-Cellobiose                           0       0      100       75     100       96      100      100        0       25        5       100      100        0        0      100
-Dulcitol                             0       0        0        0       0        0        0        0        0        0        0         0       85        0        0      100
-Erythritol                           0       0        0        0       0        0        0        0        0        0        0         0        0        0        0        0
-Glycerol                            50       0        0       90      85       60       70       20       50       38       30         0       30       75       50        0
-myo-Inositol                         0       0        0       30      20       15       15        0        0        0        0         0        0        0        0        0
-Lactose                              0       0       20        5      40       35        8       40        0        0        0         0       30        0        0      100
-Maltose                             80       0      100       75     100      100      100       60       95        0       95       100      100        0       50      100
-d-Mannitol                          97      80      100       98     100      100      100      100      100      100      100       100      100       50      100      100
-d-Mannose                          100     100      100      100     100      100      100      100      100      100      100       100      100      100      100      100
-Melibiose                           20       0        0        1       0       80        0        0       70       50        0        92        0        0        0      100
-α-Methyl-d-glucoside                 0       0        0        0       0       77        0        0        0        0        0         0       55        0        0      100
-Mucate                               0       0        0        0       5        6        0        0        0        0        0         0        0        0        0      100
-Raffinose                             0       0        0        5      30       45        0        0       15       62        5        25        0        0        0      100
-l-Rhamnose                           1       0        0        1      99      100        0        0       70        0        0       100      100       75        0      100
-Salicin                             70       0       20       20      92      100       15       20       25        0        0         8      100        0       50      100
-d-Sorbitol                          50      60      100       99     100      100      100      100        0      100       50         0      100        0        0      100
-Sucrose                              0      20      100       95     100      100        0      100        0      100        0         0        0        0      100       25
-Trehalose                          100      80      100       98     100      100      100      100      100      100       95       100      100      100      100      100
-d-Xylose                            90      40      100       70     100      100       85       60      100       38        0       100      100        0        0      100
+  Adonitol                             0       0        0        0       0        0        0        0        0        0        0         0        0        0        0        0
+  l-Arabinose                        100      60      100       98     100      100       77      100       50      100        5       100      100       25        0      100
+  d-Arabitol                           0       0        0       40     100       45       45        0        0        0        0         0        0        0        0        0
+  Cellobiose                           0       0      100       75     100       96      100      100        0       25        5       100      100        0        0      100
+  Dulcitol                             0       0        0        0       0        0        0        0        0        0        0         0       85        0        0      100
+  Erythritol                           0       0        0        0       0        0        0        0        0        0        0         0        0        0        0        0
+  Glycerol                            50       0        0       90      85       60       70       20       50       38       30         0       30       75       50        0
+  myo-Inositol                         0       0        0       30      20       15       15        0        0        0        0         0        0        0        0        0
+  Lactose                              0       0       20        5      40       35        8       40        0        0        0         0       30        0        0      100
+  Maltose                             80       0      100       75     100      100      100       60       95        0       95       100      100        0       50      100
+  d-Mannitol                          97      80      100       98     100      100      100      100      100      100      100       100      100       50      100      100
+  d-Mannose                          100     100      100      100     100      100      100      100      100      100      100       100      100      100      100      100
+  Melibiose                           20       0        0        1       0       80        0        0       70       50        0        92        0        0        0      100
+  α-Methyl-d-glucoside                 0       0        0        0       0       77        0        0        0        0        0         0       55        0        0      100
+  Mucate                               0       0        0        0       5        6        0        0        0        0        0         0        0        0        0      100
+  Raffinose                             0       0        0        5      30       45        0        0       15       62        5        25        0        0        0      100
+  l-Rhamnose                           1       0        0        1      99      100        0        0       70        0        0       100      100       75        0      100
+  Salicin                             70       0       20       20      92      100       15       20       25        0        0         8      100        0       50      100
+  d-Sorbitol                          50      60      100       99     100      100      100      100        0      100       50         0      100        0        0      100
+  Sucrose                              0      20      100       95     100      100        0      100        0      100        0         0        0        0      100       25
+  Trehalose                          100      80      100       98     100      100      100      100      100      100       95       100      100      100      100      100
+  d-Xylose                            90      40      100       70     100      100       85       60      100       38        0       100      100        0        0      100
 footnote a: Each number is the percentage of positive reactions after 2 d at 36°C unless otherwise indicated (gelatin liquefaction and deoxyribonuclease; Photorhabdus luminescens).
 footnote b: Table taken from Farmer, 1999.
 footnote c: In a Request for an Opinion published in 1987, Le Minor and Popoff proposed replacement of the type species of Salmonella (Salmonella choleraesuis subsp. choleraesuis) with Salmonella enterica as the former was considered to be a source of confusion. Although the Request was denied by the Judicial Commission, their proposal resulted in an alternative naming convention which has found widespread endorsement in the public health community. This matter was revisited in July 2002 by the Judicial Commission during the IUMS Congress in response to several new Requests for an Opinion and will likely result in a decision to replace the type strain Salmonella choleraesuis subsp. choleraesuis with Salmonella enterica subsp. enterica LT2, while preserving the former rather than placing it on the list of rejected names. We view the six subspecies of Salmonella choleraesuis as deprecated. Readers are also advised that the names Salmonella enteritidis, Salmonella paratyphi, Salmonella typhi, and Salmonella typhimurium are synonyms of Salmonella enterica subsp. enterica and refer to specific serovars. These names have not been deprecated at this time as they remain in use by some public health reporting agencies. 
@@ -8017,15 +8022,15 @@ KCN, growth                                 −                               �
 Malonate utilization                        −                               −                             +                   d             −                 [+]
 D-Glucose, gas                              +                               −                             +                   +             +                  +
 Acid production from:
-d-Adonitol                               −                                −                             −                  +              −                  −
-d-Arabitol                               −                                −                             −                  +              −                  −
-Cellobiose                               −                                −                             −                  +              +                  +
-Dulcitol                                 d                                d                             −                  d             [–]                 −
-Lactose                                  +                               [–]                            −                  −f             d                 [–]f
-d-Mannitol                               +                                +                             −                  +              +                  +
-Melibiose                               [+]                               d                             −                  −              −                  +
-d-Sorbitol                               +                                d                             −                  −              −                  −
-Mucate                                   +                                d                             d                  −              +                 [+]
+  d-Adonitol                               −                                −                             −                  +              −                  −
+  d-Arabitol                               −                                −                             −                  +              −                  −
+  Cellobiose                               −                                −                             −                  +              +                  +
+  Dulcitol                                 d                                d                             −                  d             [–]                 −
+  Lactose                                  +                               [–]                            −                  −f             d                 [–]f
+  d-Mannitol                               +                                +                             −                  +              +                  +
+  Melibiose                               [+]                               d                             −                  −              −                  +
+  d-Sorbitol                               +                                d                             −                  −              −                  −
+  Mucate                                   +                                d                             d                  −              +                 [+]
 Acetate utilization                        +                                d                             −                  +             [+]                 d
 Yellow pigmentation                        −                                −                             −                  −              +                  d
 footnote a: Data compiled from references Farmer (1999), Cowan et al. (1995), Holt et al. (1994), and Richard (1989). Reactions for indole for E. fergusonii and melibiose for E. coli differ slightly in these references. The reactions listed in this table are supported by our own unpublished data.
@@ -8431,34 +8436,34 @@ b-Galactosidase                        +                   −                  
 Pectinase                              nd                  −                  −                      +                   −                     nd
 Urease                                 −                   +                  v                      −                   −                     −
 Acid production from:
-Arabinose                            −                   +                  +                      +                   −                     +
-Esculin                              −                   nd                 +                      nd                  −                     −
-Maltose                              nd                  +                  −                      −                   −                     +
-Melibiose                            −                   −                  +                      +                   −                     nd
-Raffinose                             +                   −                  +                      +                   −                     −
-Sorbitol                             nd                  −                  +                      −                   v                     −
-Trehalose                            nd                  +                  +                      nd                  −                     nd
-Xylose                               −                   +                  +                      +                   −                     −
+  Arabinose                            −                   +                  +                      +                   −                     +
+  Esculin                              −                   nd                 +                      nd                  −                     −
+  Maltose                              nd                  +                  −                      −                   −                     +
+  Melibiose                            −                   −                  +                      +                   −                     nd
+  Raffinose                             +                   −                  +                      +                   −                     −
+  Sorbitol                             nd                  −                  +                      −                   v                     −
+  Trehalose                            nd                  +                  +                      nd                  −                     nd
+  Xylose                               −                   +                  +                      +                   −                     −
 Utilization of carbon sources:
-l-Arabinose                          nd                  nd                 +                      +                   −                     +
-Citrate                              +                   −                   v                     +                   +                     +
-Galacturonic acid                    −                   nd                 −                      +                   −                     −
-Maltose                              nd                  nd                 −                      nd                  +                     −
-Raffinose                             +                   nd                 +                      nd                  −                     −
-l-Rhamnose                           nd                  nd                 nd                     +                   nd                    −
-Sorbitol                             −                   nd                 +                      nd                  −                     −
-Trehalose                            nd                  nd                 +                      +                   −                     −
-Xylose                               −                   nd                 −                      +                   −                     −
+  l-Arabinose                          nd                  nd                 +                      +                   −                     +
+  Citrate                              +                   −                   v                     +                   +                     +
+  Galacturonic acid                    −                   nd                 −                      +                   −                     −
+  Maltose                              nd                  nd                 −                      nd                  +                     −
+  Raffinose                             +                   nd                 +                      nd                  −                     −
+  l-Rhamnose                           nd                  nd                 nd                     +                   nd                    −
+  Sorbitol                             −                   nd                 +                      nd                  −                     −
+  Trehalose                            nd                  nd                 +                      +                   −                     −
+  Xylose                               −                   nd                 −                      +                   −                     −
 Utilization of nitrogen sources:
-Acetamide                            nd                  nd                 −                      nd                  −                     +
-Anthranilic acid                     +                   nd                 −                      nd                  −                     nd
-Glycocyamine                         nd                  nd                 +                      nd                  −                     +
-l-Serine                             +                   nd                 +                      +                   −                     +
-Threonine                            +                   nd                 −                      +                   +                     +
-Tryptamine                           −                   nd                 −                      +                   −                     −
-Xanthin                              +                   nd                 +                      −                   nd                    +
+  Acetamide                            nd                  nd                 −                      nd                  −                     +
+  Anthranilic acid                     +                   nd                 −                      nd                  −                     nd
+  Glycocyamine                         nd                  nd                 +                      nd                  −                     +
+  l-Serine                             +                   nd                 +                      +                   −                     +
+  Threonine                            +                   nd                 −                      +                   +                     +
+  Tryptamine                           −                   nd                 −                      +                   −                     −
+  Xanthin                              +                   nd                 +                      −                   nd                    +
 Sensitivity toward:
-Streptomycin                         nd                  nd                 −                      +                   nd                    nd
+  Streptomycin                         nd                  nd                 −                      +                   nd                    nd
 footnote a: For symbols see standard definitions; nd, not determined.
 
 
@@ -8921,10 +8926,10 @@ H2S production (Kligler)                    +     (+)d         (+)d          −
 Motility                                    +      +            +            −         
 Malonate utilization                        −      −            +            −         
 Fermentation of:                                                                       
-l-Arabinose                               −      +               d         −         
-Sucrose                                   −      +               +         −         
-Trehalose                                 −      −               +         −         
-d-Mannitol                                −      +e              +         −         
+  l-Arabinose                               −      +               d         −         
+  Sucrose                                   −      +               +         −         
+  Trehalose                                 −      −               +         −         
+  d-Mannitol                                −      +e              +         −         
 footnote a: For symbols, see standard definitions. 
 footnote b: Results for most strains of E. tarda.
 footnote c: Results for E. tarda biogroup 1. 
@@ -8959,13 +8964,13 @@ Esculin hydrolysis                              −      −             −    
 Growth in KCN medium                            −      −             −          −
 Gas from glucose                                +      d             d          d
 Acid from carbohydrate:
-Maltose                                       +      +             +          +
-l-Arabinose                                   −      +             d          −
-Sucrose                                       −      +             +          −
-d-Mannitol                                    −      +e            +          −
-Trehalose                                     −      −             +          −
-Salicin                                       −      −             d          −
-d-Cellobiose, lactose,                        −      −             −          −
+  Maltose                                       +      +             +          +
+  l-Arabinose                                   −      +             d          −
+  Sucrose                                       −      +             +          −
+  d-Mannitol                                    −      +e            +          −
+  Trehalose                                     −      −             +          −
+  Salicin                                       −      −             d          −
+  d-Cellobiose, lactose,                        −      −             −          −
    melibiose, raffinose, l-
   rhamnose, d-xylose,
   adonitol, d-arabitol, dulcitol,
@@ -9005,57 +9010,57 @@ Growth at 41°C                     +             −              ND           
 Esculin hydrolysis                 d             +              −               +          +         d           +             +             +
 Acetate                            d             −              −               +          +         d           ND            ND            +
 Acid from:
-Adonitol                         d             −               −              −          −        −            −             −             −
-l-Arabinose                      +             +               +              +          +        +            +             +             +
-d-Arabitol                       d             −               −              −          +        −            ND            ND            −
-Cellobiose                       +             +               +              +          +        +            +             +             +
-Dulcitol                         D             −               −              +          −         d           −             −             −
-meso-Erythritol                  −             −               −              −          −        ND           −             ND            −
-Glycerol                         d             −               d              +          +         d           ND            +             −
-myo-Inositol                     d             −               −              −          −         d            d            +            (+)
-Lactose                          d             d               −              +          d        +            +             −             +
-Maltose                          +             +               +              +          +        +            +             +             +
-d-Mannitol                       +             +               +              +          +        +            +             +             +
-Melibiose                        d             +               −              +          +        +            +             +             +
-α-Methylglucoside                +             d               d              −          −        +            +             −             +
-Mucate                           d             +               d              d          −         d           +             ND            −
-Raffinose                         +             +               −              +          +        +             d            −             +
-l-Rhamnose                       d             +               +              +          +        +            +             +             +
-Salicin                          D             +               +              +          +        +            +             +             +
-d-Sorbitol                       +             −               −              +          −        +            +             −             −
-Sucrose                          +             +               −              +          +        +            −             +             +
-Trehalose                        +             +               +              +          +        +            +             +             +
-d-Xylose                         +             +               +              +          +        +            +             +             +
+  Adonitol                         d             −               −              −          −        −            −             −             −
+  l-Arabinose                      +             +               +              +          +        +            +             +             +
+  d-Arabitol                       d             −               −              −          +        −            ND            ND            −
+  Cellobiose                       +             +               +              +          +        +            +             +             +
+  Dulcitol                         D             −               −              +          −         d           −             −             −
+  meso-Erythritol                  −             −               −              −          −        ND           −             ND            −
+  Glycerol                         d             −               d              +          +         d           ND            +             −
+  myo-Inositol                     d             −               −              −          −         d            d            +            (+)
+  Lactose                          d             d               −              +          d        +            +             −             +
+  Maltose                          +             +               +              +          +        +            +             +             +
+  d-Mannitol                       +             +               +              +          +        +            +             +             +
+  Melibiose                        d             +               −              +          +        +            +             +             +
+  α-Methylglucoside                +             d               d              −          −        +            +             −             +
+  Mucate                           d             +               d              d          −         d           +             ND            −
+  Raffinose                         +             +               −              +          +        +             d            −             +
+  l-Rhamnose                       d             +               +              +          +        +            +             +             +
+  Salicin                          D             +               +              +          +        +            +             +             +
+  d-Sorbitol                       +             −               −              +          −        +            +             −             −
+  Sucrose                          +             +               −              +          +        +            −             +             +
+  Trehalose                        +             +               +              +          +        +            +             +             +
+  d-Xylose                         +             +               +              +          +        +            +             +             +
 Utilization of:
-cis-Aconitate                    d             −               +              +          d         −            −            (d)            +
-trans-Aconitate                  d             −               +              +          −         −            −            (d)            d
-Adonitol                         D             −               −              −          −         −            −             −             −
-4-Aminobutyrate                  −             −               −              −          +         −            −             −             +
-5-Aminovalerate                  −             −               −              −          +         −            −             −             −
-d-Arabitol                       D             −               −              −          +         −            −             +             −
-Benzoate                         −             −               −              −          d         −            −             −             −
-Citrate                          +             +               +              +          +         +            +             −             +
-m-Coumarate                      −             −               −              −          +         −            −             −             −
-Dulcitol                         D             −               −              +          −         +            −             −             d
-l-Fucose                         D             −               +              −          d         −            −             −             −
-Gentisate                        −             −               −             (+)         d         −            −             −             −
-Histamine                        −             −               −              −          +         −            −             −             −
-3-Hydroxybenzoate                −             −               −              −          d         −            −             −             −
-4-Hydroxybenzoate                −             −               −              −          +         −            −             −             −
-3-Hydroxybutyrate                d             −               −              −          d         −            −             −             −
-myo-Inositol                     D             −               −              −          d         −            −             −             d
-5-Ketogluconate                  −             −               −              −          +         −            −             +             −
-2-Ketoglutarate                  d             −               d              −          d         −            −             d             −
-Lactose                         (+)            +              (d)            (+)        (+)        +            +             −             +
-Lactulose                        d             d               −             (+)         d         +            −             −             +
-d-Lyxose                         D             +               −              +          −         −            +             −             −
-d-Malate                         d             −               d             (+)         d         +            d             −            (d)
-Malonate                         d             −              (d)             −          d         d            −             −            (d)
-Maltitol                         +             +               −              −          −         +            +             −             +
-d-Melibiose                      D             +               −              +          +         +            +             −             +
-1-O-Methyl-α-galactoside         D             +               −              +          +         +            +             −             +
-3-O-Methyl-d-glucose             D             −               +              −          −         v            −             −             −
-1-O-Methyl-α-d-glucoside         +             d               −              −          −         +            +             −             +
+  cis-Aconitate                    d             −               +              +          d         −            −            (d)            +
+  trans-Aconitate                  d             −               +              +          −         −            −            (d)            d
+  Adonitol                         D             −               −              −          −         −            −             −             −
+  4-Aminobutyrate                  −             −               −              −          +         −            −             −             +
+  5-Aminovalerate                  −             −               −              −          +         −            −             −             −
+  d-Arabitol                       D             −               −              −          +         −            −             +             −
+  Benzoate                         −             −               −              −          d         −            −             −             −
+  Citrate                          +             +               +              +          +         +            +             −             +
+  m-Coumarate                      −             −               −              −          +         −            −             −             −
+  Dulcitol                         D             −               −              +          −         +            −             −             d
+  l-Fucose                         D             −               +              −          d         −            −             −             −
+  Gentisate                        −             −               −             (+)         d         −            −             −             −
+  Histamine                        −             −               −              −          +         −            −             −             −
+  3-Hydroxybenzoate                −             −               −              −          d         −            −             −             −
+  4-Hydroxybenzoate                −             −               −              −          +         −            −             −             −
+  3-Hydroxybutyrate                d             −               −              −          d         −            −             −             −
+  myo-Inositol                     D             −               −              −          d         −            −             −             d
+  5-Ketogluconate                  −             −               −              −          +         −            −             +             −
+  2-Ketoglutarate                  d             −               d              −          d         −            −             d             −
+  Lactose                         (+)            +              (d)            (+)        (+)        +            +             −             +
+  Lactulose                        d             d               −             (+)         d         +            −             −             +
+  d-Lyxose                         D             +               −              +          −         −            +             −             −
+  d-Malate                         d             −               d             (+)         d         +            d             −            (d)
+  Malonate                         d             −              (d)             −          d         d            −             −            (d)
+  Maltitol                         +             +               −              −          −         +            +             −             +
+  d-Melibiose                      D             +               −              +          +         +            +             −             +
+  1-O-Methyl-α-galactoside         D             +               −              +          +         +            +             −             +
+  3-O-Methyl-d-glucose             D             −               +              −          −         v            −             −             −
+  1-O-Methyl-α-d-glucoside         +             d               −              −          −         +            +             −             +
                                                                                                                                       (continued)
 
 
@@ -9066,6 +9071,7 @@ d-Melibiose                      D             +               −              
 TABLE BXII.c.220. (cont.)
                               E. cloacae            E.                  E.                 E.               E.           E.                E.                E.            E.
 Characteristic                  complexb           amnigenus         cancerogenus          cowanii        gergoviae       kobei        nimipressuralis      pyrinus       sakazakii
+Utilization of:
    Mucate                         d                  +                   +                 +               −             +                 +                −               −
    Palatinose                     +                  +                   −                 −               −             +                 +                −               +
    Phenylacetate                  D                  −                   +                 −               +             −                 +                −               −
@@ -9100,21 +9106,21 @@ Motility                            +         +       +        −       d      
 Malonate test                       +         +       +        −       −       d      +          
 Esculin hydrolyzed                  d        (d)     (d)       +       +       +      +          
 Utilization of:                                                                                  
-Adonitol                          −        −        d        −       −       −      −          
-d-Arabitol                        −        −        d        −       −       −      −          
-Dulcitol                          −        d        d        −       −       d      +          
-Fucose                            −        −        d        −       −       −      −          
-d-Galacturonate                   +        d        +        +       +       +      +          
-myo-Inositol                      +        +        d        +       +       +      +          
-Lyxose                            d        −        +        +       +       d      +          
-d-Melibiose                       +        +        d        −       +       +      +
-3-Methylglucose                   −        −        d        −       −       −      −
-Phenylacetate                     d        +        +        −       +       +      +          
-Putrescine                        d        +        −        +       −       +      −
-d-Raffinose                        +        +        d        d       d       +      +
-l-Rhamnose                        +        +        +        −       d       −      +          
-d-Sorbitol                        +        +        d        +       +       +      +          
-Xylitol                           −        −       (d)       −       −       −      −          
+  Adonitol                          −        −        d        −       −       −      −          
+  d-Arabitol                        −        −        d        −       −       −      −          
+  Dulcitol                          −        d        d        −       −       d      +          
+  Fucose                            −        −        d        −       −       −      −          
+  d-Galacturonate                   +        d        +        +       +       +      +          
+  myo-Inositol                      +        +        d        +       +       +      +          
+  Lyxose                            d        −        +        +       +       d      +          
+  d-Melibiose                       +        +        d        −       +       +      +
+  3-Methylglucose                   −        −        d        −       −       −      −
+  Phenylacetate                     d        +        +        −       +       +      +          
+  Putrescine                        d        +        −        +       −       +      −
+  d-Raffinose                        +        +        d        d       d       +      +
+  l-Rhamnose                        +        +        +        −       d       −      +          
+  d-Sorbitol                        +        +        d        +       +       +      +          
+  Xylitol                           −        −       (d)       −       −       −      −          
 footnote a: +, 90–100% strains positive in 1–2 days (utilization tests) or in 1 day (other tests); (+), 90–100% strains positive in 1–4 days; –, 90–100% strains negative in 4 days; d, positve or negative in 1–4 days; (d), positive or negative in 3–4 days. 
 footnote b: The type strain of E. dissolvens and the present type strain of E. cloacae are in genomic group 1; the type strain of E. hormaechei is in genomic group 3, and the type strain of E. asburiae is in genomic group 4, subgroup 4a.
 
@@ -9125,7 +9131,8 @@ footnote b: The type strain of E. dissolvens and the present type strain of E. c
 #####
 TABLE BXII.c.222. Utilization of substrates by biogroups of genomic group 3 of the E. cloacae complexa
                                                   Biogroupb
-Utilization of:                  3a       3b      3c    3d    3e        3f       3g
+                              3a       3b      3c    3d    3e        3f       3g
+Utilization of:
   Adonitol                     −        −       −      −       −      +        +
   d-Arabitol                   −        −       −      −       −      +        +
   Fucose                       d        +       +      −       +      +        +
@@ -9142,68 +9149,67 @@ footnote b: Five strains representing E. hormaechei (including the type strain) 
 
 
 #####
-TABLE BXII.c.223. Diagnostic characteristics of the genera Erwinia, Brenneria, Enterobacter, Pantoea, and
-              Pectobacteriuma
+TABLE BXII.c.223. Diagnostic characteristics of the genera Erwinia, Brenneria, Enterobacter, Pantoea, and Pectobacteriuma
 Characteristic                       Erwinia          Brenneria       Enterobacter     Pantoea      Pectobacterium
 Biochemical characteristics:
-  Citrate (Simmons)                    nd               nd                 +             nd               D
-  Production of acetoin                 d                d                 D              +               +
-  Arginine dihydrolase                  −                −                nd             nd               D
-  Arginine decarboxylase               nd                −                nd             nd               −
-  Lysine decarboxylase                 nd                −                 D             nd               −
-  Ornithine decarboxylase              nd                −                 +             nd               −
-  Esculine hydrolase                    D                D                nd             nd               +
-  Caseinase                             −                −                nd             nd               D
-  Pectinase                             −                D                nd             nd               D
-  Phenylalanine deaminase               −                −                 −             nd               D
-  Urease                                −                D                nd             nd               −
-  mol% G+C of DNA                   49–54            50–56             52–60          55–57           50–56
-  Acid production from:
-     Adonitol                           −                  −              D              nd                 −
-     N-acetylglucosamine                D                   d             nd             nd                 +
-     Inulin                             −                  nd             nd             nd                 D
-     d-Lyxose                           D                  nd             nd             nd                 −
-     Maltose                            −                  D              nd             +                  D
-     d-Mannitol                         D                  +              nd             +
-     d-Mannose                          D                  +              nd             +                  +
-     l-Rhamnose                         D                  +              nd             nd                 +
-     d-Ribose                           D                  +              nd             +                  +
-     Salicin                            D                  +              nd             nd                 +
-     Trehalose                          D                  D              nd             +                  D
-     d-Xylose                           D                  D              nd             +
-  Utilization of carbon sources:
-     Acetate                            D                  nd             nd             nd                 +
-     4-Aminobutyrate                    nd                 nd             nd             +                  −
-     Arbutin                            D                  +              nd             nd                 +
-     Citrate                            +                  D              +              nd                 +
-     Maltose                            nd                 D              nd             nd                 D
-     Mannose                            D                  +              nd             nd                 +
-     l-Proline                          D                  nd             nd             nd                 nd
-     Sucrose                            nd                 d              nd             nd                 +
-     Trehalose                          nd                 D              nd             nd                 d
+Citrate (Simmons)                    nd               nd                 +             nd               D
+Production of acetoin                 d                d                 D              +               +
+Arginine dihydrolase                  −                −                nd             nd               D
+Arginine decarboxylase               nd                −                nd             nd               −
+Lysine decarboxylase                 nd                −                 D             nd               −
+Ornithine decarboxylase              nd                −                 +             nd               −
+Esculine hydrolase                    D                D                nd             nd               +
+Caseinase                             −                −                nd             nd               D
+Pectinase                             −                D                nd             nd               D
+Phenylalanine deaminase               −                −                 −             nd               D
+Urease                                −                D                nd             nd               −
+mol% G+C of DNA                   49–54            50–56             52–60          55–57           50–56
+Acid production from:
+   Adonitol                           −                  −              D              nd                 −
+   N-acetylglucosamine                D                   d             nd             nd                 +
+   Inulin                             −                  nd             nd             nd                 D
+   d-Lyxose                           D                  nd             nd             nd                 −
+   Maltose                            −                  D              nd             +                  D
+   d-Mannitol                         D                  +              nd             +
+   d-Mannose                          D                  +              nd             +                  +
+   l-Rhamnose                         D                  +              nd             nd                 +
+   d-Ribose                           D                  +              nd             +                  +
+   Salicin                            D                  +              nd             nd                 +
+   Trehalose                          D                  D              nd             +                  D
+   d-Xylose                           D                  D              nd             +
+Utilization of carbon sources:
+   Acetate                            D                  nd             nd             nd                 +
+   4-Aminobutyrate                    nd                 nd             nd             +                  −
+   Arbutin                            D                  +              nd             nd                 +
+   Citrate                            +                  D              +              nd                 +
+   Maltose                            nd                 D              nd             nd                 D
+   Mannose                            D                  +              nd             nd                 +
+   l-Proline                          D                  nd             nd             nd                 nd
+   Sucrose                            nd                 d              nd             nd                 +
+   Trehalose                          nd                 D              nd             nd                 d
 16S rDNA signature nucleotides:
   E. coli numbering position:
-     379                                C                  G              C               C                 C
-     384                                G                  C              S               G                 G
-     408                                A                  R              A               A                 G
-     434                                Y                  Y              T               T                 C
-     593                                Y                  T              C               T                 Y
-     598                                C                  Y              C               C                 T
-     599                                R                  R              G               A                 G
-     638                                Y                  Y              C               T                 C
-     639                                G                  R              G               G                 A
-     646                                G                  R              G               G                 A
-     839                                C                  G              C               C                 C
-     847                                G                  C              G               G                 G
-     848                                H                  Y              M               A                 C
-     987                                G                  A              R               A                 R
-     988                                G                  C              S               C                 C
-     989                                C                  T              T               T                 T
-     1216                               G                  A              A               A                 A
-     1217                               C                  R              S               G                 G
-     1218                               C                  T              Y               T                 T
-     1308                               C                  T              T               C                 T
-     1329                               G                  A              A               G                 A
+   379                                C                  G              C               C                 C
+   384                                G                  C              S               G                 G
+   408                                A                  R              A               A                 G
+   434                                Y                  Y              T               T                 C
+   593                                Y                  T              C               T                 Y
+   598                                C                  Y              C               C                 T
+   599                                R                  R              G               A                 G
+   638                                Y                  Y              C               T                 C
+   639                                G                  R              G               G                 A
+   646                                G                  R              G               G                 A
+   839                                C                  G              C               C                 C
+   847                                G                  C              G               G                 G
+   848                                H                  Y              M               A                 C
+   987                                G                  A              R               A                 R
+   988                                G                  C              S               C                 C
+   989                                C                  T              T               T                 T
+   1216                               G                  A              A               A                 A
+   1217                               C                  R              S               G                 G
+   1218                               C                  T              Y               T                 T
+   1308                               C                  T              T               C                 T
+   1329                               G                  A              A               G                 A
 footnote a: For symbols see standard definitions; nd, not determined.
 
 
@@ -16450,7 +16456,7 @@ Production of:
   b-Galactosidase (ONPG)                              +
 Fermentation of:
   Glucose                                             +
-Adonitol, dulcitol, galactose,                      −
+  Adonitol, dulcitol, galactose,                      −
    inositol, inulin, lactose,
    maltose, mannitol, mannose,
    melibiose, raffinose,
@@ -19308,10 +19314,10 @@ Oxidase                                −     −     +     +     +       +    
 Catalase                               +     +     +     +     +       +    +    +     +     +      +      +     +     +      +     +     +      +     +      +      +
 Fermentation of glucose                −     −     −     −     −       −    −    −     −     −      −      −     −     −      −     −     −      −     −      −      −
 Hydrolysis of:
-Esculin                              +     +     +     −         +   +    +    +     −      +     +      +     +     +      +     +     +      +     +      +       +
-Gelatin                              +     +     +     −         +   −    −    +     −      −     +      −     −     +      −     −     −      −     −      −       −
-Starch                               +     +     +               +   +    +    −     +      −     +      +     +     +      −     −     +      +     +      +       −
-Tween 80                             +     +     +               −   +    +    −     −      −     −      +     +     +      +     −     +      +     +      +       −
+  Esculin                              +     +     +     −         +   +    +    +     −      +     +      +     +     +      +     +     +      +     +      +       +
+  Gelatin                              +     +     +     −         +   −    −    +     −      −     +      −     −     +      −     −     −      −     −      −       −
+  Starch                               +     +     +               +   +    +    −     +      −     +      +     +     +      −     −     +      +     +      +       −
+  Tween 80                             +     +     +               −   +    +    −     −      −     −      +     +     +      +     −     +      +     +      +       −
 Citrate, Simmons                       +     −     −               −   −    −    +     −      −     +      −     −     +      −     −     −      +     −      −       −
 Malonate                               −     −     −               −   −    −    +     −      −     −      −     −     +      −     −     NG     −     −      −       +
 Arginine, Moller                       −     −     −               −   −    −    −     −      −     −      −     −     −      −     −     −      −     −      −       −
@@ -19346,10 +19352,10 @@ Oxidase                                −    −      +     +     −   +    + 
 Catalase                               +    +      +     +     +   +    +     +     +     +       +      +     +       +     +      +     +      nd    −      +      +
 Fermentation of glucose                −    −      −     −     −   −    −     −     −     −       −      −     −       −     −      −     −      −     −      +      +
 Hydrolysis of:
-Esculin                              +     +     +     +     +   +    +     +      +     +       +     +      +     +      −      −     −      −            nd      nd
-Gelatin                              +     +     +     +     −   +    −     +      −     −       +     −      −     +      −      −     −      +            −       −
-Starch                               +     +     −     −     −   −    −     −      −     −       +     −      −     −      −      +     +      +            −       −
-Tween 80                             +     +     −     −     −   −    +     −      −     −       +     −      −     w      +      +     +      +            −       −
+  Esculin                              +     +     +     +     +   +    +     +      +     +       +     +      +     +      −      −     −      −            nd      nd
+  Gelatin                              +     +     +     +     −   +    −     +      −     −       +     −      −     +      −      −     −      +            −       −
+  Starch                               +     +     −     −     −   −    −     −      −     −       +     −      −     −      −      +     +      +            −       −
+  Tween 80                             +     +     −     −     −   −    +     −      −     −       +     −      −     w      +      +     +      +            −       −
 Citrate, Simmons                       −     −     −     +     −   −    −     −      −     −       +     −      +     nd     nd     +     −      +            −       −
 Malonate                               −     −     −     −     −   +    −     −      −     −       −     −      −     nd     nd     −     −      −            nd      nd
 Arginine, Moller                       −     −     −     −     −   −    −     −      −     −       −     −      −     nd     nd     −     −      −            −       −
@@ -19643,18 +19649,18 @@ Substrate or testb
 p-Nitro-b-d-galactopyranoside              +   +     +               +       +       +       +       −       −        −        +       +       +       +        −       −
 Esculin                                    +   +     +               +       +       +       +       −       +d       +        +       +       +       +        +       +
 Assimilation of:
-Glucose                                  +   +     +               +       +       +       +       +        +       +        +       +       +       +        −       +
-l-Arabinose                              +   −     −               −       +       +       −       +        +       +        −       −       −       +        −       +
-d-Mannose                                +   +     −       −       +       +       +       +       +        +       +        −       −       −       +        +       −
-d-Mannitol                               −   −     −               −       −       −       −       −        −       −        −       −       −       −        −       −
-N-acetyl-d-glucosamine                   +   +     −       +       +       +       +       −       −        +       +        −       +       −       +        −       −
-Maltose                                  +   +     +       +       +       +       +       −       +        +       +        −       +       −       +        −       +
-Potassium gluconate                      +   −     −               −       −       +       −       +        +       +        −       −       −       +        −       −
-n-Caprate                                −   −     −       +       −       −       −       +       −        +       −        −       −       −       −        −       −
-Adipate                                  +   −     −       −       −       −       −       −       −        +       −        −       −       −       −        −       +
-dl-Malate                                +   +     +       −       −       −       −       −       −        +       +        +       +       −       −        −       −
-Sodium citrate                           +   −     −       −       −       −       −       −       −        −       −        −       −       −       −        −       −
-Phenylacetate                            −   −     −               −       −       −       −       −        −       −        −       −       −       −        −       −
+  Glucose                                  +   +     +               +       +       +       +       +        +       +        +       +       +       +        −       +
+  l-Arabinose                              +   −     −               −       +       +       −       +        +       +        −       −       −       +        −       +
+  d-Mannose                                +   +     −       −       +       +       +       +       +        +       +        −       −       −       +        +       −
+  d-Mannitol                               −   −     −               −       −       −       −       −        −       −        −       −       −       −        −       −
+  N-acetyl-d-glucosamine                   +   +     −       +       +       +       +       −       −        +       +        −       +       −       +        −       −
+  Maltose                                  +   +     +       +       +       +       +       −       +        +       +        −       +       −       +        −       +
+  Potassium gluconate                      +   −     −               −       −       +       −       +        +       +        −       −       −       +        −       −
+  n-Caprate                                −   −     −       +       −       −       −       +       −        +       −        −       −       −       −        −       −
+  Adipate                                  +   −     −       −       −       −       −       −       −        +       −        −       −       −       −        −       +
+  dl-Malate                                +   +     +       −       −       −       −       −       −        +       +        +       +       −       −        −       −
+  Sodium citrate                           +   −     −       −       −       −       −       −       −        −       −        −       −       −       −        −       −
+  Phenylacetate                            −   −     −               −       −       −       −       −        −       −        −       −       −       −        −       −
 footnote a: For symbols see standard definitions.
 footnote b: All 26 strains positive for hydrolysis of esculin and Zinc dust test in negative NO2 test. All 26 strains negative for NO2 from NO3, indole from tryptophan, acid from glucose, arginine dihydrolase activity, hydrolysis of urea and gelatin.
 footnote c: Data from Lee et al. (2001).
@@ -19670,18 +19676,18 @@ Substrate or testb
 p-Nitro-b-d-galactopyranoside              +     +        +       +        +       +      +      +       +        +       −        −       +        −        −        +        +
 Esculin                                    +     +        +       +        +       +      +      +       +        +       +        +       +        +d       +        +        +
 Assimilation of:
-Glucose                                  +     +        +       +        +       +      +      +       −        +       +        −       +        −        −        +        +
-l-Arabinose                              +     +        +       +        +       +      +      +       −        +       −        −       +        −        −        +        +
-d-Mannose                                +     +        −       −        −       +      −      +       −        +       −        −       +        −        −        −        −
-d-Mannitol                               −     −        −       −        −       −      −      −       −        −       −        −       −        −        −        −        −
-N-acetyl-d-glucosamine                   +     +        +       +        −       +      −      +       −        −       +        −       +        −        −        −        +
-Maltose                                  +     +        +       +        +       +      +      +       −        +       +        +       +        +        −        +        +
-Potassium gluconate                      +     +        −       −        +       +      −      −       −        −       −        −       −        −        −        −        +
-n-Caprate                                −     +        −       −        −       −      −      −       −        −       −        −       −        −        −        −        −
-Adipate                                  −     −        −       −        −       −      −      +       −        −       −        −       −        −        −        −        −
-dl-Malate                                +     +        −       −        +       +      −      +       −        −       +        +       +        −        −        +        +
-Sodium citrate                           +     −        −       −        −       −      −      −       −        −       −        −       −        −        −        −        +
-Phenylacetate                            −     −        −       −        −       −      −      −       −        −       −        −       −        −        −        −        −
+  Glucose                                  +     +        +       +        +       +      +      +       −        +       +        −       +        −        −        +        +
+  l-Arabinose                              +     +        +       +        +       +      +      +       −        +       −        −       +        −        −        +        +
+  d-Mannose                                +     +        −       −        −       +      −      +       −        +       −        −       +        −        −        −        −
+  d-Mannitol                               −     −        −       −        −       −      −      −       −        −       −        −       −        −        −        −        −
+  N-acetyl-d-glucosamine                   +     +        +       +        −       +      −      +       −        −       +        −       +        −        −        −        +
+  Maltose                                  +     +        +       +        +       +      +      +       −        +       +        +       +        +        −        +        +
+  Potassium gluconate                      +     +        −       −        +       +      −      −       −        −       −        −       −        −        −        −        +
+  n-Caprate                                −     +        −       −        −       −      −      −       −        −       −        −       −        −        −        −        −
+  Adipate                                  −     −        −       −        −       −      −      +       −        −       −        −       −        −        −        −        −
+  dl-Malate                                +     +        −       −        +       +      −      +       −        −       +        +       +        −        −        +        +
+  Sodium citrate                           +     −        −       −        −       −      −      −       −        −       −        −       −        −        −        −        +
+  Phenylacetate                            −     −        −       −        −       −      −      −       −        −       −        −       −        −        −        −        −
 footnote a: For symbols see standard definitions.
 footnote b: All 26 strains positive for hydrolysis of esculin and Zinc dust test in negative NO2 test. All 26 strains negative for NO2 from NO3, indole from tryptophan, acid from glucose, arginine dihydrolase activity, hydrolysis of urea and gelatin.
 footnote c: Data from Lee et al. (2001).
@@ -19734,16 +19740,16 @@ Characteristic                 Blastomonas natatoria       Blastomonas ursincola
 Growth with 3% NaCl      b
                                        +                           −
 Hydrolysis of:
-Casein                                 −                           +
-DNA                                   (+)                          +
-Esculin                                +                           −
-Gelatin                               (+)                          −
+  Casein                                 −                           +
+  DNA                                   (+)                          +
+  Esculin                                +                           −
+  Gelatin                               (+)                          −
 Carbon source utilization:c
-l-Arabinose                           +                            −
-d-Glucose                             +                           (+)
-Malate                                −                           (+)
-d-Sorbitol                            −                           (+)
-d-Xylose                              ++                           +
+  l-Arabinose                           +                            −
+  d-Glucose                             +                           (+)
+  Malate                                −                           (+)
+  d-Sorbitol                            −                           (+)
+  d-Xylose                              ++                           +
 footnote a: Data from Hiraishi et al. (2000a). Symbols for physiological and biochemical tests: +, positive; (+), weakly positive;
 footnote b: −, negative.
 footnote c: Symbols for carbon source utilization tests: ++, good growth; +, moderate growth; −, little or no growth.
@@ -19757,56 +19763,56 @@ TABLE BXII.α.92. Growth and physiological properties of "Citromicrobium bathyom
                                           "Citromicrobium                Blastomonas        Erythrobacter      Erythromicrobium        Porphyrobacter
 Characteristic                           bathyomarinum" JF-1                ursincola            longus              ramosum              neustonensis
 Growth at pH:
-5                                                −                           −                   −                   −                      −
-5.5                                              +                           −                   −                   −                      −
-6                                                +                           +                   −                   +                      −
-7                                                +                           +                   +                   +                      +
-8                                                +                           +                   +                   +                      +
-9                                                +                           +                   +                   +                      +
-9.5                                              +                           +                   +                   +                      −
-10                                               w                           −                   −                   −                      −
+  5                                                −                           −                   −                   −                      −
+  5.5                                              +                           −                   −                   −                      −
+  6                                                +                           +                   −                   +                      −
+  7                                                +                           +                   +                   +                      +
+  8                                                +                           +                   +                   +                      +
+  9                                                +                           +                   +                   +                      +
+  9.5                                              +                           +                   +                   +                      −
+  10                                               w                           −                   −                   −                      −
 Growth at (°C):
-4                                                +                           −                   w                   −                      −
-15                                               +                           +                   +                   +                      w
-20                                               +                           +                   +                   +                      +
-30                                               +                           +                   +                   +                      +
-37                                               +                           w                   w                   −                      w
-40                                               +                           −                   −                   −                      −
-42                                               +                           −                   −                   −                      −
-45                                               +                           −                   −                   −                      −
-50                                               −                                               −                   −                      −
+  4                                                +                           −                   w                   −                      −
+  15                                               +                           +                   +                   +                      w
+  20                                               +                           +                   +                   +                      +
+  30                                               +                           +                   +                   +                      +
+  37                                               +                           w                   w                   −                      w
+  40                                               +                           −                   −                   −                      −
+  42                                               +                           −                   −                   −                      −
+  45                                               +                           −                   −                   −                      −
+  50                                               −                                               −                   −                      −
 Utilization of:
-Acetate                                          w                           +                  −                    +                      −
-Pyruvate                                         −                           +                  +                    +                      +
-l-Glutamate                                      +                           +                  +                    +                      −
-Butyrate                                         +                           +                  +                    +                      −
-Citrate                                          −                           +                  +                    +                      −
-Malate                                           −                           +                  −                    +                      −
-Succinate                                        −                           +                  −                    +                      +
-Lactate                                          −                           +                  nd                   +                      −
-Formate                                          −                           −                  nd                   −                      −
-d-Glucose                                        w                           +                  +                    +                      +
-d-Fructose                                       −                           +                  +                    +                      +
-Methanol                                         −                           −                  −                    −                      −
-Ethanol                                          −                           −                  nd                   +                      −
-Yeast extract                                    +                           +                  +                    +                      +
+  Acetate                                          w                           +                  −                    +                      −
+  Pyruvate                                         −                           +                  +                    +                      +
+  l-Glutamate                                      +                           +                  +                    +                      −
+  Butyrate                                         +                           +                  +                    +                      −
+  Citrate                                          −                           +                  +                    +                      −
+  Malate                                           −                           +                  −                    +                      −
+  Succinate                                        −                           +                  −                    +                      +
+  Lactate                                          −                           +                  nd                   +                      −
+  Formate                                          −                           −                  nd                   −                      −
+  d-Glucose                                        w                           +                  +                    +                      +
+  d-Fructose                                       −                           +                  +                    +                      +
+  Methanol                                         −                           −                  −                    −                      −
+  Ethanol                                          −                           −                  nd                   +                      −
+  Yeast extract                                    +                           +                  +                    +                      +
 Hydrolysis of:
-Gelatin                                          −                           −                  +                    −                      −
-Tween 20                                         +                           +                  nd                   −                      +
-Tween 80                                         +                           +                  +                    −                      +
-Starch                                           +                           −                  −                    −                      −
+  Gelatin                                          −                           −                  +                    −                      −
+  Tween 20                                         +                           +                  nd                   −                      +
+  Tween 80                                         +                           +                  +                    −                      +
+  Starch                                           +                           −                  −                    −                      −
 Reduction of:
-NO3− to NO2−                                     −                           −                   +                   −                      nd
-NO2− to N2                                       −                           −                   −                   −                      −
-TeO3–2 to Te                                     +                           +                   +                   +                      nd
-Oxidase                                            +                           +                   +                   +                      +
-Catalase                                           +                           +                   +                   +                      +
+  NO3− to NO2−                                     −                           −                   +                   −                      nd
+  NO2− to N2                                       −                           −                   −                   −                      −
+  TeO3–2 to Te                                     +                           +                   +                   +                      nd
+  Oxidase                                            +                           +                   +                   +                      +
+  Catalase                                           +                           +                   +                   +                      +
 Susceptibility to:
-Chloramphenicol (100 lg)                         +                           +                  +                    +                      +
-Penicillin (20 lg)                               −                           −                  −                    −                      +
-Streptomycin (50 lg)                             −                           −                  −                    −                      −
-Fusidic acid (0.5 lg)                            +                           +                  nd                   +                      nd
-Polymixin B (100 lg)                             +                           +                  −                    +                      nd
+  Chloramphenicol (100 lg)                         +                           +                  +                    +                      +
+  Penicillin (20 lg)                               −                           −                  −                    −                      +
+  Streptomycin (50 lg)                             −                           −                  −                    −                      −
+  Fusidic acid (0.5 lg)                            +                           +                  nd                   +                      nd
+  Polymixin B (100 lg)                             +                           +                  −                    +                      nd
 footnote a: For symbols see standard definitions; nd, not determined; w, weak growth.
 
 
@@ -19818,7 +19824,7 @@ TABLE BXII.α.93. Reduction of K2TeO3 by Erythromicrobium species depending on o
 Carbon                                    E. ramosumb                                        "E. ezovicum" b                             "E. hydrolyticum" b
 source                       A                B                   C                A              B                   C          A              B               C
 R.O.    c
-                           +                50                750                +            500                1200         +              n.r.             5
+                             +                50                750                +            500                1200         +              n.r.             5
 Yeast extract                +               250                1500               +            500                2000         +              n.r.             5
 l-Glutamine                  +               250                1200               +            750                1200         +             2000             2000
 Succinate                    +               500                1200               +            750                1200         +             2000             2000
@@ -21397,18 +21403,18 @@ d-Mannitol                                   w                             −
 Dulcitol                                     w                             −
 Melibiose                                    w                             −
 Utilization of:d
-d-Maltose                                   +                              −
-d-Trehalose                                 +                              −
-Adonitol                                    +                              −
-d-Mannitol                                  +                              −
-d-Sorbitol                                  +                              −
-cis-Aconitate                               +                              −
-Glutarate                                   +                              −
-l-Malate                                    +                              −
-l-Aspartate                                 +                              −
-l-Ornithine                                 −                              +
-l-Serine                                    −                              +
-4-Hydroxybenzoate                           +                              −
+  d-Maltose                                   +                              −
+  d-Trehalose                                 +                              −
+  Adonitol                                    +                              −
+  d-Mannitol                                  +                              −
+  d-Sorbitol                                  +                              −
+  cis-Aconitate                               +                              −
+  Glutarate                                   +                              −
+  l-Malate                                    +                              −
+  l-Aspartate                                 +                              −
+  l-Ornithine                                 −                              +
+  l-Serine                                    −                              +
+  4-Hydroxybenzoate                           +                              −
 footnote a: Symbols: +, positive; −, negative; w, weakly positive. Test results given in the table were read after 72 h of incubation at 30°C.
 footnote b: Tests for hydrolysis of various substrates (not listed in this table) failed to differ- entiate the two strains. Both type strains hydrolyzed bis-p-nitrophenyl-phosphate, p- nitrophenyl-phosphorycholine, and l-alanine-p-nitroanilide. Neither strain hydro- lyzed esculin, p-nitrophenyl-b-l-galactopyranoside, p-nitrophenyl-b-d-glucuronide, p- nitrophenyl-α-d-glucopyranoside, p-nitrophenyl-b-d-glucopyranoside,p-nitrophenyl- phosphoryl-choline, 2-deoxythymidine-5′-p-nitrophenyl-phosphate, and l-gluta- mate-c-3-carboxy-p-nitroanilide.
 footnote c: Acid formation from carbohydrates in most cases was very weak (even after pro- longed incubation). Both strains showed weak acid formation from d-glucose. Nei- ther strain formed acid from lactose, sucrose, salicin, adonitol, inositol, sorbitol, l- arabinose, raffinose, rhamnose, maltose, d-xylose, trehalose, cellobiose, methyl-d- glucoside, and erythritol.
@@ -23519,54 +23525,89 @@ footnote h: Nutrient agar, e.g., Oxoid cm55.
 
 
 #####
-TABLE BXII.α.193. Differential characteristics of the species of the                              genus Rhodobiuma
+TABLE BXII.α.193. Differential characteristics of the species of the genus Rhodobiuma                             
                               Rhodobium                Rhodobium
 Characteristic                                 orientis                 marinum
+
+
+Source/donor               Rhodobium orientis             Rhodobium marinum
+Carbon source
+   Acetate                        +                               +
+   Aspartate                      nd                              nd
+   Benzoate                       −                               −
+   Butyrate                       +                               +
+   Caproate                       +                               +
+   Caprylate                      −                              +/−
+   Citrate                        −                               −
+   Ethanol                        −                              +/−
+   Formate                        −                               +
+   d-Fructose                     +                               +
+   Fumarate                       +                               +
+   d-Glucose                      +                               +
+   Glutamate                     +/−                              nd
+   Glycerol                       −                              +/−
+   Glycolate                      nd                              nd
+   Lactate                        +                              +/−
+   Malate                         +                               +
+   Malonate                       nd                              nd
+   Mannitol                      +/−                              +
+   Methanol                       −                               −
+   Propanol                       −                              +/−
+   Propionate                     −                              +/−
+   p-aminobenzoic acid            +                               +
+   Sorbitol                       +                               +
+   Succinate                      +                               +
+   Tartrate                       −                               −
+   Valerate                       +                               +
+Electron donor
+   Sulfide                          −                             +/−
+   Thiosulfate                     +                              −
+footnote a: +, positive in most strains; −, negative in most strains; +/–, variable in different strains; nd, not determined; (+), weak growth or microaerobic growth only; (APS), via adenosine-5′-phosphosulfate; (PAPS), via 3′-phosphoadenosine-5′-phosphosul- fate; (biotin) biotin is required by some strains; Q-10, ubiquinone 10; MK-10, men- aquinone 10; RQ-10, rhodoquinone 10. Bd, buoyant density.
+
 
 
 
 
 
 #####
-TABLE BXII.α.194. Growth substrates of the anoxygenic phototrophic
-Cell diameter (lm)                            0.7–0.9                   0.7–0.9         purple bacteria belonging to the genus Rhodobiuma
+TABLE BXII.α.194. Growth substrates of the anoxygenic phototrophic purple bacteria belonging to the genus Rhodobiuma
+Cell diameter (lm)                            0.7–0.9                   0.7–0.9         
 Type of budding                               Sessile                   Sessile
-Rosette formation                              –/+                         −            Source/donor               Rhodobium orientis             Rhodobium marinum
-Internal membrane system                     Lamellae                  Lamellae         Carbon source
-Motility                                         +                         +               Acetate                        +                               +
-Color of cultures                           Pink to red               Pink to red          Aspartate                      nd                              nd
-Bacteriochlorophyll                              a                          a              Benzoate                       −                               −
-Salt requirement                               4–5%                      1–5%              Butyrate                       +                               +
-Optimal pH                                    7.0–7.5                   6.9–7.1            Caproate                       +                               +
-Optimal temperature                            30–35                     25–30             Caprylate                      −                              +/−
-Sulfate assimilation                            nd                         nd              Citrate                        −                               −
-Aerobic dark growth                              +                        (+)              Ethanol                        −                              +/−
-Denitrification                                   +                         −               Formate                        −                               +
-Fermentation of fructose                         −                         +               d-Fructose                     +                               +
-Photoautotrophic growth with                Thiosulfate                 Sulfide             Fumarate                       +                               +
-Growth factors                                Biotin,                      nd              d-Glucose                      +                               +
-                        p-aminobenzoic acid                                Glutamate                     +/−                              nd
-Utilization of:                                                                            Glycerol                       −                              +/−
-  Benzoate                                        −                        −               Glycolate                      nd                              nd
-  Citrate                                         −                      +/−               Lactate                        +                              +/−
-  Formate                                         −                      (+)               Malate                         +                               +
-  Glucose                                         +                        +               Malonate                       nd                              nd
-  Tartrate                                        −                        −               Mannitol                      +/−                              +
-  Sulfide                                          −                      (+)               Methanol                       −                               −
-  Thiosulfate                                     +                        −               Propanol                       −                              +/−
-Mol % G+C of the DNA                        65.2–65.7                62.4–64.1           Propionate                     −                              +/−
-                               (HPLC)                   (HPLC)             Pyruvate                       +                               +
-Cytochrome c2 size                               nd                       nd               Sorbitol                       +                               +
-Major quinones                               Q-10, MK-10              Q-10, MK-10          Succinate                      +                               +
-Major fatty acids                                                                          Tartrate                       −                               −
-  C14:0                                                                   0.4              Valerate                       +                               +
-  C16:0                                                                   1.9           Electron donor
-  C16:1                                                                   0.5              Sulfide                          −                             +/−
-  C18:0                                                                   14.1             Thiosulfate                     +                              −
-  C18:1                                                                   69.0          a
-footnote a: Symbols: +, positive in most strains; −, negative in most strains; +/– variable, +, positive in most strains; −, negative in most strains; +/–, variable in different in different strains; nd, not determined. strains; nd, not determined; (+), weak growth or microaerobic growth only; (APS), via adenosine-5′-phosphosulfate; (PAPS), via 3′-phosphoadenosine-5′-phosphosul- fate; (biotin) biotin is required by some strains; Q-10, ubiquinone 10; MK-10, men- aquinone 10; RQ-10, rhodoquinone 10. Bd, buoyant density.
+Rosette formation                              –/+                         −            
+Internal membrane system                     Lamellae                  Lamellae         
+Motility                                         +                         +            
+Color of cultures                           Pink to red               Pink to red       
+Bacteriochlorophyll                              a                          a           
+Salt requirement                               4–5%                      1–5%           
+Optimal pH                                    7.0–7.5                   6.9–7.1         
+Optimal temperature                            30–35                     25–30          
+Sulfate assimilation                            nd                         nd           
+Aerobic dark growth                              +                        (+)           
+Denitrification                                   +                         −           
+Fermentation of fructose                         −                         +            
+Photoautotrophic growth with                Thiosulfate                 Sulfide         
+Growth factors                                Biotin,                      nd                                                            
+Utilization of:
+  Benzoate                                        −                        −            
+  Citrate                                         −                      +/−            
+  Formate                                         −                      (+)            
+  Glucose                                         +                        +            
+  Tartrate                                        −                        −            
+  Sulfide                                          −                      (+)           
+  Thiosulfate                                     +                        −            
+Mol % G+C of the DNA                        65.2–65.7                62.4–64.1          
+                               (HPLC)                   (HPLC)             Pyruvate     
+Cytochrome c2 size                               nd                       nd            
+Major quinones                               Q-10, MK-10              Q-10, MK-10       
+Major fatty acids                                                                       
+  C14:0                                                                   0.4           
+  C16:0                                                                   1.9           
+  C16:1                                                                   0.5           
+  C18:0                                                                   14.1          
+  C18:1                                                                   69.0          
+footnote a: Symbols: +, positive in most strains; −, negative in most strains; +/–, variable in different strains; nd, not determined. 
 
-
+                                                                                                                                                                                 
 
 
 

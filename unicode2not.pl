@@ -37,10 +37,10 @@ while (<>) {
 $string =~ s/[\x{2018}\x{2019}]/\'/g; #single quote
 $string =~ s/[\x{201C}\x{201D}]/\"/g; #double quote
 $string =~ s/[\x{05DD}\x{0600}]/\+/g; #plus sign
-$string =~ s/[\x{2012}\x{05DE}\x{0601}]/\x{2013}/g; #minus sign/en dash
+$string =~ s/[\x{2212}\x{05DE}\x{0601}]/\x{2013}/g; #minus sign/en dash
 $string =~ s/ ?\x{05DF}/\x{00D7}/g; #multiplication sign
 $string =~ s/[\x{05E1}\x{0604}]/=/g; #equals sign
-$string =~ s/[\x{05E2}\x{0613}]/\x{00B1}/g; #plus/minus sign
+$string =~ s/[\x{05E2}\x{0613}]/\x{00B1}/g; #plus-or-minus sign
 $string =~ s/\x{FB02}/fl/g; #fl ligature
 $string =~ s/\x{03EF}/\x{2213}/g; #minus-or-plus sign
 $string =~ s/[\x{03F3}\x{03F7}]/\x{223C}/g; #math tilde (approx equal)
