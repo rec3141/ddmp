@@ -135,14 +135,14 @@ Fatty acid composition:
   C14:0                                                           5.1–7.8           7.6–8.0            nd              3               nd                0.8            4.6
   C14:1 x7c                                                       5.1–7.3           9.1–9.3            nd             2.8              nd                 2             2.8
   C15:1 x8c                                                        0–2.3            1.9–2.6            nd             20.3             nd                4.2            4.1
-  C15:1 x6c                                                         0-0.4               −              nd              1.1             nd                 0.1             −
+  C15:1 x6c                                                         0–0.4               −              nd              1.1             nd                 0.1             −
   C15:0                                                           1.7–11.0           0.9–1.4           nd              14.3            nd                 2.7            2.9
   C16:0 iso                                                         0–0.2               −              nd              10.3            nd                  −              −
   C16:1 x9c                                                       6.2–8.8          9.5–11.8            nd              2              20                −             1.8
   C16:1 x7c                                                       31.4–36.3         37.5–37.8          nd              15.4            6                56.8           43.4
   C16:1 x9t                                                          nd                  nd            nd               nd               20                 nd            nd
   C16:0                                                          26.8–33.2         21.9–23.6           nd             13.5            18               21.9           27.1
-  C17:1 x8c                                                         0–1.3              tre             nd              5.6             nd                 4.5            0.5
+  C17:1 x8c                                                         0–1.3              tr!e             nd              5.6             nd                 4.5            0.5
   C17:1 x6c                                                         0–0.9               −              nd              1.9             nd                 0.9             −
   C17:0                                                             0–1.3               tr             nd              2.5              5               1.5            0.1
   C18:1 x11c                                                          nd                nd             nd              nd                 6               nd             nd
@@ -336,7 +336,8 @@ morphology	Straight rod	Straight rod	Straight rod	Straight rod	Straight rod	Stra
 Motility	+	+	+	+	+	+	+	+	−	+	+	+	+	+	+	+	+	+	+	+	+	+	+	+	+	+	+	+	+	+
 flagella	polar	polar	polar	polar	polar	polar	polar	polar	nd	polar	polar	polar	polar	polar	polar	−	lateral	lateral	lateral	lateral	lateral	polar	polar	polar	polar	polar	polar	polar	polar	polar
 Cell diameter	0.5–0.7	0.5–1.5	0.5–1.5	0.5–1.5	0.8–1.1	0.3–0.5	0.7–1.5	0.7–1.5	0.5–0.6	0.8–1.2	0.2	1.0–1.4	0.8–1.2	0.7–1.2	0.6–0.8	0.5–0.7	0.8–1.1	0.8–1.1	0.8–1.1	0.8–1.1	0.8–1.1	0.5–1.5	0.5–1.5	0.5–1.5	0.5–1.5	0.5–1.5	0.5–1.5	0.5–1.5	0.5–1.5	0.5–1.5
-accumulation of Poly-b-hydroxybutyrate	−	−	−	−	+	−	−	−	−	−	nd	+	+	+	+	−	+	+	+	+	+	−	−	−	−	−	−	−	−	−
+accumulation of:
+  Poly-b-hydroxybutyrate	−	−	−	−	+	−	−	−	−	−	nd	+	+	+	+	−	+	+	+	+	+	−	−	−	−	−	−	−	−	−
 reduction of:																														
   nitrate	−	−	+	+	−	d	−	−	+	nd	nd	+	−	d	−	−	D	D	D	D	D	D	−	−	−	−	−	−	−	+
 enzyme activity:																														
@@ -411,7 +412,7 @@ Utilization of:
   Cellobiose                 −         d        +        −         +       d       −       d       −       d       −       d      −      −      −
   Lactose                    −         −        +        −         +       d       −       +       −       d       −       −      −      −      −
   Maltose                    +         +        +        d         +       −       +       +      +        +       +       +      −      +      +
-  Melibiose                  −         −        +        −         +      nd      nd       +       −      +c       −       −      nd     −      −
+  Melibiose                  −         −        +        −         +      nd      nd       +       −      +!c       −       −      nd     −      −
   Sucrose                    +         −        +        −         +       d       −       +       −       +       +       +      −      +      +
   Trehalose                  d         −        +        +         −       d      nd       +       +       +       +       +      +      +      d
   Mannitol                   d         +        +        −         +       d       −       +       −       +       −       +      −      −      −
@@ -448,8 +449,10 @@ enzyme activity:
   Phosphatase                                                     nd          +           +     nd   nd   nd   nd      +
 production of:
   hydrogen sulfide                                              nd          +           d     nd   nd   nd   nd      +
-Voges–Proskauer Test                                            nd          −           d     nd   nd   nd   nd      d
-Decomposition of l-tyrosine                                     +           +           −     +    +    +    −       +
+test:
+  Voges–Proskauer                                               nd          −           d     nd   nd   nd   nd      d
+Decomposition of:
+  l-tyrosine                                     +           +           −     +    +    +    −       +
 Utilization of:
   dl-Arabinose                                                  d           −           −     d    −    d    −       −
   d-Xylose                                                      −           −           −     −    −    d    −       −
@@ -542,8 +545,10 @@ enzyme activity:
   Phosphatase                                                         +           +              +                  +                +               +
 production of:
   hydrogen sulfide                                                      −           −              nd                 −                d               −
-Voges–Proskauer Test                                                −           −              nd                 nd               −               −
-Decomposition of l-Tyrosine                                         +           +              +                  d                +               −
+test:
+  Voges–Proskauer                                                    −           −              nd                 nd               −               −
+Decomposition of:
+  l-Tyrosine                                                         +           +              +                  d                +               −
 Utilization of:
   dl-Arabinose                                                      −            −             −                  −                −              +
   d-Xylose                                                          −            −             nd                 −                −              nd
@@ -814,7 +819,7 @@ enzyme activity:
   Arginine arylamidase                                +           ND            v+              −             ND           ND              ND              ND             +
   Phenylalanine arylamidase                          v+           ND             +              +             ND           ND              ND              ND             −
   Phenylalanine deaminase                             +           ND             −              −              −            −              ND               −             +
-  Urease                                             v+            −             −              v-             −            +               +               −            v+
+  Urease                                             v+            −             −              v−             −            +               +               −            v+
   Lecithinase                                        v+           ND             −              +             ND           ND              ND              ND             −
 reduction of:
   Nitrate                                           v−           ND             −             v+              −            −               −               −            v−

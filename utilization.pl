@@ -103,6 +103,9 @@ foreach my $table (keys %traithash) {
     }
 #     print(join("~",@traitvals),"\n");
     my $chem = shift(@traitvals);
+    print nice_string($chem),"\n";
+    $chem =~ s/[\x{0251}\x{03B1}]/alpha/g; #replace alpha
+    $chem =~ s/[\x{00DF}\x{03B2}]/beta/g; #replace beta
 
     #deal with commas
     my @simtrait = ();
@@ -120,6 +123,7 @@ foreach my $table (keys %traithash) {
 	  if ($val =~ m/([+\x{2013}\x{2212}])([a-z][a-z]?)/) {
 	    $val =~ s/([+\x{2013}\x{2212}])([a-z][a-z]?)/$1!$2/ if defined($footnotes{$table}{$2});
 	  }
+	# print nice_string($val),"\n";
 # 	  $val =~ s/^[\x{2013}\x{2212}]([ ]*)/0$1/; #replace leading -
 # 	  $val =~ s/([ ]*)[\x{2013}\x2212]$/0$1/; #replace trailing -
 # 	  $val =~ s/^\+([ ]*)/1$1/; #replace leading +
@@ -138,6 +142,8 @@ foreach my $table (keys %traithash) {
 	  if ($val =~ m/([+\x{2013}\x{2212}])([a-z][a-z]?)/) {
 	    $val =~ s/([+\x{2013}\x{2212}])([a-z][a-z]?)/$1!$2/ if defined($footnotes{$table}{$2});
 	  }
+	  # print nice_string($val),"\n";
+
 # 	  $val =~ s/^[\x{2013}\x{2212}](\s*)/neg$1/; #replace leading -
 # 	  $val =~ s/(\s*)[\x{2013}\x2212]$/neg$1/; #replace trailing -
 # 	  $val =~ s/^\+(\s*)/pos$1/; #replace leading +
