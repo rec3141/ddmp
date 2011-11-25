@@ -54,6 +54,8 @@ $string =~ s/\x{0BE2}//g; #strip (TM)
 $string =~ s/\x{1B67}/\x{00A9}/g; #copyright (C)
 $string =~ s/\x{2044}4/1\x{2044}4/g; #/4 to 1/4
 $string =~ s/\x{2423}/\x{03B1}/g; #greek alpha
+$string =~ s/\x{040A}/\x{00B0}/g; #degree sign
+$string =~ s/\x{FB01}/fi/g; #fi ligature
 
 $string =~ s/\#\#\#/\n\n\n\n\n\#\#\#\#\#/;
 print $string unless ($string =~ m/^\s*$/); #don't print blank lines
