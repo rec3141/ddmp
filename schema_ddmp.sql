@@ -108,6 +108,10 @@ ALTER TABLE `ddmp_data` ADD FOREIGN KEY `FK_DATA_TO_TAXA`(`taxa_id`) REFERENCES 
 ALTER TABLE `ddmp_data` ADD INDEX (`char_id`);
 ALTER TABLE `ddmp_data` ADD FOREIGN KEY `FK_DATA_TO_CHARS`(`char_id`) REFERENCES `ddmp_char`(`id`);
 
+ALTER TABLE `ddmp_src` ADD INDEX (`id`);
+ALTER TABLE `ddmp_src` ADD INDEX (`source`);
+
+ALTER TABLE `ddmp_fntext` ADD INDEX (`fn`);
 ALTER TABLE `ddmp_fntext` ADD INDEX (`src_id`);
 ALTER TABLE `ddmp_fntext` ADD FOREIGN KEY `FK_FNTEXT_TO_SRC`(`src_id`) REFERENCES `ddmp_src`(`id`);
 
@@ -117,7 +121,9 @@ ALTER TABLE `ddmp_fntext` ADD FOREIGN KEY `FK_FNTEXT_TO_SRC`(`src_id`) REFERENCE
 -- ALTER TABLE `ddmp_fnrel` ADD INDEX (`data_id`);
 -- ALTER TABLE `ddmp_fnrel` ADD FOREIGN KEY `FK_FNREL_TO_DATA`(`data_id`) REFERENCES `ddmp_data`(`id`);
 
--- ALTER TABLE `ddmp_taxa` ADD INDEX (`taxonid`);
+ALTER TABLE `ddmp_taxa` ADD INDEX (`id`);
+ALTER TABLE `ddmp_taxa` ADD INDEX (`taxon`);
+ALTER TABLE `ddmp_taxa` ADD INDEX (`ncbi_id`);
 -- ALTER TABLE `ddmp_taxa` ADD FOREIGN KEY `FK_TAXA_TO_NCBI`(`taxonid`) REFERENCES `ncbi_names`(`taxonid`);
 
 -- ALTER TABLE `ddmp_data` ADD INDEX (`txid`);
@@ -148,7 +154,11 @@ ALTER TABLE `ddmp_char` ADD FOREIGN KEY `FK_CHAR_TO_PROP`(`prop_id`) REFERENCES 
 ALTER TABLE `ddmp_char` ADD INDEX (`class_id`);
 ALTER TABLE `ddmp_char` ADD FOREIGN KEY `FK_CHAR_TO_CLASS`(`class_id`) REFERENCES `ddmp_class`(`id`);
 
--- ALTER TABLE `ddmp_prop` ADD INDEX (`chebi_id`);
+ALTER TABLE `ddmp_class` ADD INDEX (`id`);
+ALTER TABLE `ddmp_class` ADD INDEX (`class`);
+
+ALTER TABLE `ddmp_prop` ADD INDEX (`chebi_id`);
+ALTER TABLE `ddmp_prop` ADD INDEX (`property`);
 -- ALTER TABLE `ddmp_prop` ADD FOREIGN KEY `FK_PROP_TO_CHEBI`(`chebi_id`) REFERENCES `chebi_compounds`(`id`);
 
 SET FOREIGN_KEY_CHECKS=1;

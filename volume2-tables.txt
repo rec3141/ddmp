@@ -29503,37 +29503,6 @@ footnote b: Mainly acetic acid plus smaller amounts of succinic acid.
 
 
 
-
-#####
-TABLE BXII.d.5. Characteristics of the genus Bilophilaa
-Characteristic                                         Result or reaction
-Acid products formed in cultures                                +b
-   grown in peptone–yeast
-   extract glucose broth
-   supplemented with 1%                                                             
-   pyruvate
-H2S produced                                                    +
-Starch and esculin hydrolyzed                                   −                   
-Nitrate reduced to nitrite and                                  +                   
-   occasionally to N2
-Indole produced                                               −                     
-Motility                                                      −
-Urease                                                     d (75%)
-Growth in 20% bile                                            +                     
-Catalase (tested with 15% H2O2)                           (+strong)                 
-Gelatin digested                                              −                     
-Lecithinase, lipase                                           −                     
-Milk reaction                                                 −
-Acid from carbohydrates                                       −                     
-Acid phosphatase (API ZYM)                                    +                     
-Sulfate reduced                                               −                     
-footnote a: For symbols see standard definitions. 
-footnote b: Mainly acetic acid plus smaller amounts of succinic acid. 
-
-
-
-
-
 #####
 TABLE BXII.d.6. DNA–DNA and 16S rRNA gene sequence similarity values for Desulfomicrobium and Desulfovibrio strains
                                                                          % Similarity valuesa
@@ -30368,36 +30337,6 @@ footnote d: Chemolithoautotrophic growth.
 
 
 
-#####
-TABLE BXII.d.25. (cont.)
-Species                                                Desulfocapsa thiozymogenes                      Desulfocapsa sulfexigens
-  Pyruvate                                                       −                                                 −
-  Fumarate                                                       −                                                 −
-  Succinate                                                      −                                                 −
-  Malate                                                         −                                                 −
-  Benzoate                                                       −                                                 −
-  Others                                                1-Propanolc, 1-butanolc                                    nr
-Fermentative growth on:                                          −                                                 −
-Compounds used as electron acceptors:
-  Sulfate                                                           +                                            (+)b
-  Sulfite                                                            +                                             +
-  Sulfur                                                            +                                             +
-  Thiosulfate                                                       +                                             +
-  Fumarate reduction                                                −                                             nr
-  Nitrate                                                           −                                             −
-  Ferric hydroxide                                                  −                                             −
-Growth by disproportionation of                                     +                                             +
-    reduced sulfur compoundsd
-Growth factor requirement                                         −                                               −
-NaCl requirement (g/l)                                            −                                              15
-Literature                                                Janssen et al., 1996                           Finster et al., 1998
-footnote a: Symbols: nr, not reported; +, present, observed in all species; −, not present, not observed; V, variable; (+), poorly motile, poor growth; (sp), flagellation type: single, polar; I, incomplete.
-footnote b: Some utilization occurs without growth.
-footnote c: Used as electron donor only in the presence of acetate as carbon source.
-footnote d: Chemolithoautotrophic growth.
-
-
-
 
 
 #####
@@ -31051,38 +30990,39 @@ footnote c: The type species S. buswellii and S. gentianae can use crotonate as 
 
 
 #####
-TABLE BXII.d.44. Morphological and physiological characteristics of described species of the genus Syntrophusa
-Species                                           Syntrophus buswellii                  Syntrophus aciditrophicus             Syntrophus gentianae
+TABLE BXII.d.44. Morphological and physiological characteristics of described species of the genus Syntrophus!a
+                                                  Syntrophus buswellii                  Syntrophus aciditrophicus             Syntrophus gentianae
 Cell morphology                                         Rod-shaped                            Rod-shaped                         Rod-shaped
-Cell size (lm)                                           0.8× 1–2                         0.5–0.7× 1.0–1.6                   0.8–1× 1.3–1.6
-Motility                                                   ±(sp)                                   −                                  −
-Mol% G+C content                                            nr                                  43.1                               53.2
+Cell size                                                 0.8 × 1–2                         0.5–0.7 × 1.0–1.6                   0.8–1 × 1.3–1.6
+Motility                                                   v                                   −                                  −
+flagella                                                single polar                               -                                  -
+Mol% G+C                                                      nr                                  43.1                               53.2
 Major menaquinone                                             nr                                   nr                                 nr
-Optimal temperature (°C)                                      37                                   35                                 28
-Oxidation of substrate                                         I                                    I                                  I
-Fermentative growth by pure culture:
-   Cinnamate                                                 +b                                     nr                                −
+growth:
+  optimum temperature                                         37                                   35                                 28
+complete substrate Oxidation to CO2                            -                                    -                                  -
+Fermentation of:
+   Cinnamate                                                 +!b                                     nr                                −
    Crotonate                                                  +                                     +                                 +
    Gentisate                                                  −                                     nr                                +
    Hydroquinone                                               −                                     nr                                +
-Electron donors used by pure culture with crotonate as electron acceptor:
-   Benzoate                                                  +b                                     −                                 +
-   3–Phenylpropionate                                        +b                                     nr                                +
-Electron donors used in co-culture with H2/formate-using partners:
-   Benzoate                                                   +                                     +                                 +
-   Fatty acids (C4, 6, 7, 16, 18)                             −                                     +                                 −
-   trans-2-Pentenoate                                         nr                                    +                                 nr
-   trans-2-Hexanoate                                          nr                                    +                                 nr
-   trans-3-Hexanoate                                          nr                                    +                                 nr
-   2-Octenoate                                                nr                                    +                                 nr
-   Methyl esters of butyrate and                              nr                                    +                                 nr
-     hexanoate
-Electron acceptors used                                  Crotonate                                −                               Crotonate
-Growth factor requirement                                     nr                      0.5% clarified rumen fluid                        nr
-NaCl requirement (g/l)                                        −                                   −                                   −
-Literature                                 Mountfort et al., 1984; Fardeau et            Jackson et al., 1999             Wallrabenstein et al., 1995a
-                            al., 1993; Auburger and Winter,
-                           1995; Wallrabenstein et al., 1995a
+terminal Electron donors:
+   Benzoate                                                  +, with crotonate!b                     −, with crotonate                +, with crotonate
+   3–Phenylpropionate                                        +, with crotonate!b                    nr                                +, with crotonate
+terminal Electron donors:
+used in co-culture with H2/formate-using partners:
+   Benzoate                                                   +, with H2/formate-using partner      +, with H2/formate-using partner   +, with H2/formate-using partner
+   Fatty acids (C4, 6, 7, 16, 18)                             −, with H2/formate-using partner      +, with H2/formate-using partner   −, with H2/formate-using partner
+   trans-2-Pentenoate                                         nr                                    +, with H2/formate-using partner   nr
+   trans-2-Hexanoate                                          nr                                    +, with H2/formate-using partner   nr
+   trans-3-Hexanoate                                          nr                                    +, with H2/formate-using partner   nr
+   2-Octenoate                                                nr                                    +, with H2/formate-using partner   nr
+   Methyl esters of butyrate and hexanoate                    nr                                    +, with H2/formate-using partner   nr
+terminal Electron acceptors:
+  crotonate                                                    +                                     -                                  +
+growth:
+  requires Growth factor                                      nr                      0.5% clarified rumen fluid                        nr
+  requires NaCl, g/l                                          −                                   −                                   −
 footnote a: Symbols: sp, single polar flagellum; nr, not reported; I, incomplete; +, good growth; (+), poor growth; −, no growth.
 footnote b: Might vary between strains.
 

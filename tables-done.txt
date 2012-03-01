@@ -1,19 +1,94 @@
-rec3141	BXII.c.134.	Differentiation of the genera Enhydrobacter and Aeromonas
-rec3141	BXII.c.145.	Other characteristics of selected species of the genus Pseudoalteromonas!a
-rec3141	BXII.c.150.	Characteristics differentiating members of the Shewanella putrefaciens species complex, S. baltica, S. algae, and DNA hybridization Group III!a
-rec3141	BXII.c.147.	Differential characteristics of Psychromonas species!a!b
-rec3141	BXII.c.148.	Phenotypic characteristics which differentiate the species of the genus Shewanella!a
-rec3141	BXII.c.136.	Characteristics of Alteromonas macleodii!a
-rec3141	BXII.c.142.	Phenotypic characteristics of Marinobacter hydrocarbonoclasticus and Pseudomonas nautica!a!b!c
-rec3141	BXII.c.143.	Differential characteristics of Marinobacterium and some aerobic, rod-shaped, marine bacteria that require NaCl to grow!a
-rec3141	BXII.c.137.	Characteristics differentiating the species of the genus Colwellia!a
-rec3141	BXII.c.129.	Characteristics differentiating three Gram-negative, motile, prodigiosin-producing species
-rec3141	BXII.c.151.	Additional phenotypic characteristics of marine Shewanella species!a
-rec3141	BXII.c.144.	Characteristics differentiating the species of the genus Pseudoalteromonas!a
-rec3141	BXII.c.146.	Other characteristics of selected species of the genus Pseudoalteromonas!a
-rec3141	BXII.c.138.	Other characteristics of the species of the genus Colwellia!a
-rec3141	BXII.c.135.	Characteristics differentiating some genera belonging to the family Alteromonadaceae!a
-rec3141	BXII.c.133.	Properties of Psychrobacter species!a
-rec3141	BXII.c.140.	Characteristics differentiating the species of the genus Glaciecola!a
-rec3141	BXII.c.141.	Phenotypic characterisitics differentiating the genus Marinobacter from other marine bacteria
-rec3141	BXII.c.92.	Differentiation of Neptunomonas from some other marine naphthalene-degrading bacteria!a!b
+BXII.d.26.	Morphological and physiological characteristics of described species of the genus Desulforhopalus!a
+BXII.c.185.	Identification of genomospecies within the phenospecies for Aeromonas hydrophila!a!b
+BXII.c.150.	Characteristics differentiating members of the Shewanella putrefaciens species complex, S. baltica, S. algae, and DNA hybridization Group III!a
+BXII.c.147.	Differential characteristics of Psychromonas species!a!b
+BXII.d.10.	Differential characteristics of the genera of the family Desulfohalobiaceae!a
+23.c	(Continued)
+BXII.d.17.	Morphological and physiological characteristics of described species of the genus Desulfobacula!a
+24.c	(Continued)
+BXII.d.43.	Differential characteristics of the genera Syntrophus, Desulfomonile, Desulfobacca, and Smithella which constitute the family Syntrophaceae!a
+BXII.d.19.	Morphological and physiological characteristics of described species of the genus Desulfofrigus!a
+BXII.d.49.	Other characteristics of the species of the genus Bacteriovorax!a
+BXII.c.142.	Phenotypic characteristics of Marinobacter hydrocarbonoclasticus and Pseudomonas nautica!a!b!c
+80.	Tests differentiating Exiguobacterium species using the API 50CHE system!a!b
+BXII.d.18.	Morphological and physiological characteristics of described species of the genus Desulfococcus!a
+BXII.c.184.	Differential characteristics for the genera Aeromonas, Plesiomonas, and Vibrio!a
+BXII.d.2.	Characteristics of the genera of the family Desulfovibrionaceae!a
+BXII.c.144.	Characteristics differentiating the species of the genus Pseudoalteromonas!a
+BXII.c.188.	Differentiation of the genus Tolumonas from the closest phylogenetic relatives!a
+BXII.d.3.b	
+BXII.d.41.	Differential characteristics of Desulfacinum and related speciesa
+BXII.d.12.	Differentiation of Desulfohalobium retbaense from other moderately halophilic sulfate-reducing bacteria!a
+BXII.d.11.	Differentiation of Desulfohalobium retbaense from its closest phylogenetic relatives Desulfomicrobium spp. and Desulfonatronovibrio hydrogenovorans!a
+BXII.c.146.	Other characteristics of selected species of the genus Pseudoalteromonas!a
+BXII.c.173.	Differentiation of the arginine-positive species V. fluvialis, V. furnissii, and V. damsela and comparison with Aeromonasa
+BXII.d.25.	Morphological and physiological characteristics of described species of the genus Desulfocapsa!a
+BXII.c.190.	Differential characteristics of A. succiniciproducens and A. thomasii!a!b
+BXII.c.164.b	
+BXII.c.133.	Properties of Psychrobacter species!a
+BXII.d.35.	Differential characteristics of the genera Pelobacter and Malonomonas!a
+23.a	Differential characteristics of genera in the family Flavobacteriaceae!a!b
+BXII.c.134.	Differentiation of the genera Enhydrobacter and Aeromonas
+BXII.d.1.	Differential characteristics of the species of the genus Desulfurella!a
+BXII.d.46.	Characteristics of Bdellovibrio bacteriovorus and of halophilic bdellovibrios!a
+BXII.c.165.	Biochemical test results and other properties of the 12 Vibrio species that occur in human clinical specimensa*
+BXII.c.183.	Differential characteristics for psychrophilic nonmotile Aeromonas species and subspecies (HG 3)
+BXII.d.29.	Differentiation of the four genera of nitrite-oxidizing bacteria
+BXII.d.9.	Other characteristics of the species of the genus Desulfomicrobium!a
+BXII.d.24.	Morphological and physiological characteristics of described species of the genus Desulfobulbus!a
+25.	Fatty acid composition (%) of Flavobacterium species!a!b
+BXII.d.39.	Differential characteristics of the species of the genus Syntrophobacter!a
+BXII.c.177.	Differential characteristics of species of Photobacterium!a
+BXII.c.129.	Characteristics differentiating three Gram-negative, motile, prodigiosin-producing species
+BXII.d.23.	Differential characteristics of the genera of the family Desulfobulbaceae!a
+23.b	(Continued)
+BXII.d.38.	Differential characteristics of the genera of the family Syntrophobacteraceae!a
+24.d	(Continued)
+BXII.d.27.	Morphological and physiological characteristics of described species of the genus Desulfotalea!a!b
+BXII.d.47.	Characteristics differentiating strains of Bdellovibrio bacteriovorus from those of halophilic bdellovibrios!a
+BXII.d.16.	Morphological and physiological characteristics of all described species of the genus Desulfobacterium!a
+BXII.d.42.	Characteristics useful in differentiating Thermodesulforhabdus norvegica from Desulfacinum infernum and Syntrophobacter wolinii!a
+BXII.c.163.a	Biochemical reactions of the named species and unnamed groups of the genera Vibrio, Moritella, and Salinivibrio.
+BXII.d.36.	Differential characteristics of the species of the genus Pelobacter!a
+BXII.c.186.	Differential characteristics among motile Aeromonas species!a
+BXII.c.140.	Characteristics differentiating the species of the genus Glaciecola!a
+BXII.d.20.	Morphological and physiological characteristics of described species of the genus Desulfonema!a
+BXII.c.148.	Phenotypic characteristics which differentiate the species of the genus Shewanella!a
+BXII.c.163.c	
+BXII.d.50.	Differential characteristics of the species of the genus Bacteriovorax!a
+BXII.d.22.	Some characteristics of the species of the genera Desulfospira and Desulfobacula!a
+BXII.d.31.	Primary fatty acids of the described species of nitrite-oxidizing bacteria!a!b
+BXII.d.37.	Differentiation of the species of the genus Geobacter
+BXII.d.34.	Differential characteristics of the species of the genus Desulfuromusa!a!b
+BXII.d.40.	Other characteristics of Syntrophobacter species!a
+BXII.c.138.	Other characteristics of the species of the genus Colwellia!a
+BXII.d.13.	Differentiation of Desulfonatronum lacustre and Desulfonatronovibrio hydrogenovorans from other sulfate-reducing bacteria with similar mol% G+C values!a
+BXII.d.45.	Phenotypic characteristics of the genus Smithella and some of its phylogenetic relatives in the order Syntrophobacterales!a
+BXII.c.141.	Phenotypic characterisitics differentiating the genus Marinobacter from other marine bacteria
+BXII.c.92.	Differentiation of Neptunomonas from some other marine naphthalene-degrading bacteria!a!b
+BXII.c.178.	Other biochemical characteristics of Photobacterium species!a
+BXII.c.179.	Differential characteristics of the subspecies of Salinivibrio costicola!a
+81.	Tests differentiating Exiguobacterium species using the Biolog GP Microplate system!a!b
+BXII.d.44.	Morphological and physiological characteristics of described species of the genus Syntrophus!a
+BXII.d.7.	Differential characteristics of the species of the genus Desulfomicrobium!a
+BXII.c.145.	Other characteristics of selected species of the genus Pseudoalteromonas!a
+24.	Characteristics that differentiate species in the genus Flavobacterium with validly published names!a!b
+BXII.c.187.	Identification of the genomospecies within the phenospecies Aeromonas caviae!a!b
+BXII.c.182.	Descriptive characteristics among all motile Aeromonas species!a
+BXII.c.136.	Characteristics of Alteromonas macleodii!a
+BXII.c.164.a	Properties of the species and biogroups of Vibrio!a
+24.b	(cont.)
+BXII.c.154.	Growth temperatures, electrolyte optima, and nutritional versatility of 10 recently described Vibrio species and Photobacterium iliopiscarium!a
+BXII.d.48.	Differentiation of the genus Bacteriovorax from other closely related taxa!a
+BXII.c.143.	Differential characteristics of Marinobacterium and some aerobic, rod-shaped, marine bacteria that require NaCl to grow!a
+BXII.d.15.	Morphological and physiological characteristics of described species of the genus Desulfobacter!a
+BXII.c.137.	Characteristics differentiating the species of the genus Colwellia!a
+BXII.c.151.	Additional phenotypic characteristics of marine Shewanella species!a
+BXII.d.3.a	Morphological and physiological characteristics of described species of the genus Desulfovibrio!a
+BXII.d.30.	Properties of the nitrite-oxidizing bacteria
+BXII.d.5.	Characteristics of the genus Bilophila!a
+BXII.d.33.	Morphological and physiological characteristics of described species of the genus Desulfuromonas!a
+BXII.c.170.	Differentiation of the arginine-negative, lysine-positive species V. alginolyticus, V. parahaemolyticus, V. vulnificus, and V. harveyi
+BXII.d.21.	Morphological and physiological characteristics of described species of the genus Desulfosarcina!a
+BXII.c.135.	Characteristics differentiating some genera belonging to the family Alteromonadaceae!a
+BXII.c.153.	Properties of the four genera originally classified in the family Vibrionaceae by Veron (1965); comparison with Enterobacteriaceae

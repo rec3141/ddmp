@@ -12,7 +12,7 @@ while (<>) {
 	  my $string =$_;
 # 	  print $string;
 # 	  print "2 ", nice_string($string),"\n";
-
+	  $string =~ s/\s+$//;
 	  while ($string =~ m/(\x{202A}(.*?)\x{202C})/) {
 # 	      my $match = $1;
 # 	      my $good = $2;
@@ -34,10 +34,12 @@ while (<>) {
 # 	    print "5 ",$string;
 # 	    print "6 ",nice_string($string),"\n";
 	    }
+
+$string =~ s/[\x{0020}\x{00A0}\x{1680}\x{180E}\x{2000}\x{2001}\x{2002}\x{2003}\x{2004}\x{2005}\x{2006}\x{2007}\x{2008}\x{2009}\x{200A}\x{200B}\x{202F}\x{205F}\x{3000}\x{FEFF}]/ /g; #spaces
 $string =~ s/[\x{2018}\x{2019}]/\'/g; #single quote
 $string =~ s/[\x{201C}\x{201D}]/\"/g; #double quote
 $string =~ s/[\x{05DD}\x{0600}]/\+/g; #plus sign
-$string =~ s/[\x{2212}\x{05DE}\x{0601}]/\x{2013}/g; #minus sign/en dash
+$string =~ s/[\x{2212}\x{05DE}\x{0601}\x{2013}]/-/g; #minus sign/en dash
 $string =~ s/ ?\x{05DF}/\x{00D7}/g; #multiplication sign
 $string =~ s/[\x{05E1}\x{0604}]/=/g; #equals sign
 $string =~ s/[\x{05E2}\x{0613}]/\x{00B1}/g; #plus-or-minus sign
@@ -58,7 +60,7 @@ $string =~ s/\x{040A}/\x{00B0}/g; #degree sign
 $string =~ s/\x{FB01}/fi/g; #fi ligature
 
 $string =~ s/\#\#\#/\n\n\n\n\n\#\#\#\#\#/;
-print $string unless ($string =~ m/^\s*$/); #don't print blank lines
+print "$string\n" unless ($string =~ m/^\s*$/); #don't print blank lines
 # print $string if ($string =~ m/^\s*\d+$/);
 # print nice_string($string),"\n";
 
