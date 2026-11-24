@@ -29,3 +29,10 @@ PIPELINE:
  -- multi-line captions were replaced using regex:
  --- Find: (TABLE.*)\n([a-z]{2,}.*)\s*
  --- Replace: \1 \2
+
+CURATED DATABASE (exported 2026):
+ - curated/ddmp-curated.csv: every curated value in long format (taxon, class, property, raw value, nominal code,
+   source table, caption, footnotes): 21,704 values for 446 taxa and 976 characters from 94 Bergey's tables.
+   Exported from the MySQL database behind the original PHP app, which was retired in November 2026.
+ - curated/ddmp.json: the same data in the compact form used by the browser.
+ - Browse it at https://cryomics.org/work/ddmp/ (static page; runs in the browser).
