@@ -35,4 +35,4 @@ CURATED DATABASE (exported 2026):
    source table, caption, footnotes): 21,704 values for 446 taxa and 976 characters from 94 Bergey's tables.
    Exported from the MySQL database behind the original PHP app, which was retired in November 2026.
  - curated/ddmp.json: the same data in the compact form used by the browser.
- - Browse it at https://cryomics.org/work/ddmp/ (static page; runs in the browser).
+ - Browse it at https://cryomics.org/ddmp/ (static page; runs in the browser).
